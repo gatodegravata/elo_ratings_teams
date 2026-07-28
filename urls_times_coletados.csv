@@ -1,53 +1,59 @@
 Team,Country,Team_ID,URL,Slug,Depth,Data_Acesso
-East Coast Bays,Unknown,w16129,https://www.soccer-rating.com/East-Coast-Bays/w16129/,East-Coast-Bays,1,2000-01-01
-Hougang United,Unknown,w552,https://www.soccer-rating.com/Hougang-United/w552/,Hougang-United,1,2000-01-01
-Detonit Plackovica,Unknown,18081,https://www.soccer-rating.com/Detonit-Plackovica/18081/,Detonit-Plackovica,1,2000-01-01
-Puntarenas FC,Unknown,w489,https://www.soccer-rating.com/Puntarenas-FC/w489/,Puntarenas-FC,0,2000-01-01
-Universidad Catolica (W),Unknown,w16194,https://www.soccer-rating.com/Universidad-Catolica-W/w16194/,Universidad-Catolica-W,1,2000-01-01
-Tacuary Asuncion (Reserves),Unknown,w16475,https://www.soccer-rating.com/Tacuary-Asuncion-Reserves/w16475/,Tacuary-Asuncion-Reserves,1,2000-01-01
-Spalding United,Unknown,3096,https://www.soccer-rating.com/Spalding-United/3096/,Spalding-United,1,2000-01-01
-FC De Bilt,Unknown,18576,https://www.soccer-rating.com/FC-De-Bilt/18576/,FC-De-Bilt,1,2000-01-01
-FC Freyming,Unknown,19097,https://www.soccer-rating.com/FC-Freyming/19097/,FC-Freyming,0,2000-01-01
-FC Zlinsko,Unknown,4403,https://www.soccer-rating.com/FC-Zlinsko/4403/,FC-Zlinsko,1,2000-01-01
-West Coast Rangers,Unknown,w16103,https://www.soccer-rating.com/West-Coast-Rangers/w16103/,West-Coast-Rangers,1,2000-01-01
-Galatasaray U19,Unknown,w14669,https://www.soccer-rating.com/Galatasaray-U19/w14669/,Galatasaray-U19,1,2000-01-01
-Svay Rieng,Unknown,w3984,https://www.soccer-rating.com/Svay-Rieng/w3984/,Svay-Rieng,1,2000-01-01
-Boluspor U23,Unknown,w3377,https://www.soccer-rating.com/Boluspor-U23/w3377/,Boluspor-U23,1,2000-01-01
-Colo Colo (W),Unknown,w10645,https://www.soccer-rating.com/Colo-Colo-W/w10645/,Colo-Colo-W,1,2000-01-01
-Sporting San Jose,Unknown,w8495,https://www.soccer-rating.com/Sporting-San-Jose/w8495/,Sporting-San-Jose,0,2000-01-01
-Kheybar Khorramabad,Unknown,w5552,https://www.soccer-rating.com/Kheybar-Khorramabad/w5552/,Kheybar-Khorramabad,1,2000-01-01
-Torres Cue FC,Unknown,w17181,https://www.soccer-rating.com/Torres-Cue-FC/w17181/,Torres-Cue-FC,1,2000-01-01
-Hamilton Wanderers,Unknown,w3744,https://www.soccer-rating.com/Hamilton-Wanderers/w3744/,Hamilton-Wanderers,1,2000-01-01
-Army United II,Unknown,w4921,https://www.soccer-rating.com/Army-United-II/w4921/,Army-United-II,1,2000-01-01
-Atlas (W),Unknown,w8191,https://www.soccer-rating.com/Atlas-W/w8191/,Atlas-W,1,2000-01-01
-Thimphu City FC,Unknown,w11442,https://www.soccer-rating.com/Thimphu-City-FC/w11442/,Thimphu-City-FC,1,2000-01-01
-Dakota Aruba,Unknown,w14252,https://www.soccer-rating.com/Dakota-Aruba/w14252/,Dakota-Aruba,1,2000-01-01
-SV Bubali,Unknown,w14127,https://www.soccer-rating.com/SV-Bubali/w14127/,SV-Bubali,1,2000-01-01
-Tractor Sazi,Unknown,w251,https://www.soccer-rating.com/Tractor-Sazi/w251/,Tractor-Sazi,1,2000-01-01
-FC Copenhagen U19,Unknown,w14612,https://www.soccer-rating.com/FC-Copenhagen-U19/w14612/,FC-Copenhagen-U19,1,2000-01-01
-Alajuelense,Unknown,w492,https://www.soccer-rating.com/Alajuelense/w492/,Alajuelense,0,2000-01-01
-ASO Chlef,Unknown,w706,https://www.soccer-rating.com/ASO-Chlef/w706/,ASO-Chlef,0,2000-01-01
-CR Belouizdad,Unknown,w739,https://www.soccer-rating.com/CR-Belouizdad/w739/,CR-Belouizdad,0,2000-01-01
-CS Constantine,Unknown,w2376,https://www.soccer-rating.com/CS-Constantine/w2376/,CS-Constantine,0,2000-01-01
-ES Ben Aknoun,Unknown,w7124,https://www.soccer-rating.com/ES-Ben-Aknoun/w7124/,ES-Ben-Aknoun,0,2000-01-01
-ES Mostaganem,Unknown,w2466,https://www.soccer-rating.com/ES-Mostaganem/w2466/,ES-Mostaganem,0,2000-01-01
-ES Setif,Unknown,w777,https://www.soccer-rating.com/ES-Setif/w777/,ES-Setif,0,2000-01-01
-JS Kabylie,Unknown,w778,https://www.soccer-rating.com/JS-Kabylie/w778/,JS-Kabylie,0,2000-01-01
-JS Saoura,Unknown,w2479,https://www.soccer-rating.com/JS-Saoura/w2479/,JS-Saoura,0,2000-01-01
-MB Rouisset,Unknown,w5894,https://www.soccer-rating.com/MB-Rouisset/w5894/,MB-Rouisset,0,2000-01-01
-MC Alger,Unknown,w779,https://www.soccer-rating.com/MC-Alger/w779/,MC-Alger,0,2000-01-01
-MC El Bayadh,Unknown,w7141,https://www.soccer-rating.com/MC-El-Bayadh/w7141/,MC-El-Bayadh,0,2000-01-01
-MC Oran,Unknown,w713,https://www.soccer-rating.com/MC-Oran/w713/,MC-Oran,0,2000-01-01
-Olympique Akbou,Unknown,w9591,https://www.soccer-rating.com/Olympique-Akbou/w9591/,Olympique-Akbou,0,2000-01-01
-Paradou AC,Unknown,w2465,https://www.soccer-rating.com/Paradou-AC/w2465/,Paradou-AC,0,2000-01-01
-USM Alger,Unknown,w800,https://www.soccer-rating.com/USM-Alger/w800/,USM-Alger,0,2000-01-01
-USM Khenchela,Unknown,w5900,https://www.soccer-rating.com/USM-Khenchela/w5900/,USM-Khenchela,0,2000-01-01
-Stade Auxerrois (W),Unknown,w15944,https://www.soccer-rating.com/Stade-Auxerrois-W/w15944/,Stade-Auxerrois-W,1,2000-01-01
-B 93 Copenhagen (W),Unknown,w3004,https://www.soccer-rating.com/B-93-Copenhagen-W/w3004/,B-93-Copenhagen-W,1,2000-01-01
-Radnik Krizevci,Unknown,17843,https://www.soccer-rating.com/Radnik-Krizevci/17843/,Radnik-Krizevci,1,2000-01-01
-Chippenham Town,Unknown,2229,https://www.soccer-rating.com/Chippenham-Town/2229/,Chippenham-Town,1,2000-01-01
-Young Lions,Unknown,w550,https://www.soccer-rating.com/Young-Lions/w550/,Young-Lions,1,2000-01-01
-MFK Vyskov,Unknown,3821,https://www.soccer-rating.com/MFK-Vyskov/3821/,MFK-Vyskov,0,2000-01-01
+VfL Bochum II, Mraniyespor,1680,https://www.soccer-rating.com/VfL-Bochum-II/1680/,VfL-Bochum-II,1,2026-07-28
+East Coast Bays,Aa Alvorada U20,w16129,https://www.soccer-rating.com/East-Coast-Bays/w16129/,East-Coast-Bays,1,2026-07-28
+Hougang United,Aa Coruripe,w552,https://www.soccer-rating.com/Hougang-United/w552/,Hougang-United,1,2026-07-28
+Detonit Plackovica,Ac Houilles,18081,https://www.soccer-rating.com/Detonit-Plackovica/18081/,Detonit-Plackovica,1,2026-07-28
+Puntarenas FC,Ac Leopards De Dolisie,w489,https://www.soccer-rating.com/Puntarenas-FC/w489/,Puntarenas-FC,0,2026-07-28
+CSD Municipal,Ac Milan U19,w433,https://www.soccer-rating.com/CSD-Municipal/w433/,CSD-Municipal,0,2026-07-28
+Universidad Catolica (W),Ac Milan W,w16194,https://www.soccer-rating.com/Universidad-Catolica-W/w16194/,Universidad-Catolica-W,1,2026-07-28
+Tacuary Asuncion (Reserves),Academia Anzoategui Fc,w16475,https://www.soccer-rating.com/Tacuary-Asuncion-Reserves/w16475/,Tacuary-Asuncion-Reserves,1,2026-07-28
+Cape Town City FC,Accra Lions,w3844,https://www.soccer-rating.com/Cape-Town-City-FC/w3844/,Cape-Town-City-FC,0,2026-07-28
+NK Travnik,Acs Somuz Falticeni,1168,https://www.soccer-rating.com/NK-Travnik/1168/,NK-Travnik,0,2026-07-28
+Raja Casablanca,Adelaide United,w603,https://www.soccer-rating.com/Raja-Casablanca/w603/,Raja-Casablanca,0,2026-07-28
+Spalding United,Afc Gandra,3096,https://www.soccer-rating.com/Spalding-United/3096/,Spalding-United,1,2026-07-28
+MB Rouisset,Afc Leopards,w5894,https://www.soccer-rating.com/MB-Rouisset/w5894/,MB-Rouisset,0,2026-07-28
+FK Romanija Pale,Afk Tisnov,17799,https://www.soccer-rating.com/FK-Romanija-Pale/17799/,FK-Romanija-Pale,0,2026-07-28
+FC De Bilt,Aguiar Da Beira,18576,https://www.soccer-rating.com/FC-De-Bilt/18576/,FC-De-Bilt,1,2026-07-28
+FC Freyming,Aguilas Cf,19097,https://www.soccer-rating.com/FC-Freyming/19097/,FC-Freyming,0,2026-07-28
+FC Zlinsko,Ah Mas Tech,4403,https://www.soccer-rating.com/FC-Zlinsko/4403/,FC-Zlinsko,1,2026-07-28
+SK Petrin Plzen,Aiolikos Mytilinis,12284,https://www.soccer-rating.com/SK-Petrin-Plzen/12284/,SK-Petrin-Plzen,0,2026-07-28
+FC Seoul,Al Ahli Jeddah,w859,https://www.soccer-rating.com/FC-Seoul/w859/,FC-Seoul,0,2026-07-28
+West Coast Rangers,Al Ahli Saida,w16103,https://www.soccer-rating.com/West-Coast-Rangers/w16103/,West-Coast-Rangers,1,2026-07-28
+Galatasaray U19,Al Akhdoud,w14669,https://www.soccer-rating.com/Galatasaray-U19/w14669/,Galatasaray-U19,1,2026-07-28
+Al Taawon,Al Faisaly Amman,w1634,https://www.soccer-rating.com/Al-Taawon/w1634/,Al-Taawon,0,2026-07-28
+Svay Rieng,Al Fateh,w3984,https://www.soccer-rating.com/Svay-Rieng/w3984/,Svay-Rieng,1,2026-07-28
+Boluspor U23,Al Hazem Fc,w3377,https://www.soccer-rating.com/Boluspor-U23/w3377/,Boluspor-U23,1,2026-07-28
+Colo Colo (W),Al Hilal Riyadh,w10645,https://www.soccer-rating.com/Colo-Colo-W/w10645/,Colo-Colo-W,1,2026-07-28
+Sporting San Jose,Al Jaish Qatar,w8495,https://www.soccer-rating.com/Sporting-San-Jose/w8495/,Sporting-San-Jose,0,2026-07-28
+FC Anyang,Al Khalidiyah,w2197,https://www.soccer-rating.com/FC-Anyang/w2197/,FC-Anyang,0,2026-07-28
+Kheybar Khorramabad,Al Kholood,w5552,https://www.soccer-rating.com/Kheybar-Khorramabad/w5552/,Kheybar-Khorramabad,1,2026-07-28
+Torres Cue FC,Al Mabarrah,w17181,https://www.soccer-rating.com/Torres-Cue-FC/w17181/,Torres-Cue-FC,1,2026-07-28
+Hamilton Wanderers,Al Mareikh,w3744,https://www.soccer-rating.com/Hamilton-Wanderers/w3744/,Hamilton-Wanderers,1,2026-07-28
+Army United II,Al Najma,w4921,https://www.soccer-rating.com/Army-United-II/w4921/,Army-United-II,1,2026-07-28
+Atlas (W),Al Najma,w8191,https://www.soccer-rating.com/Atlas-W/w8191/,Atlas-W,1,2026-07-28
+Thimphu City FC,Al Nasr Riyadh,w11442,https://www.soccer-rating.com/Thimphu-City-FC/w11442/,Thimphu-City-FC,1,2026-07-28
+Dakota Aruba,Al Qadisiya,w14252,https://www.soccer-rating.com/Dakota-Aruba/w14252/,Dakota-Aruba,1,2026-07-28
+Pohang Steelers,Al Rayyan Sc,w127,https://www.soccer-rating.com/Pohang-Steelers/w127/,Pohang-Steelers,0,2026-07-28
+ES Setif,Al Riffa,w777,https://www.soccer-rating.com/ES-Setif/w777/,ES-Setif,0,2026-07-28
+SV Bubali,Al Shabab Riyadh,w14127,https://www.soccer-rating.com/SV-Bubali/w14127/,SV-Bubali,1,2026-07-28
+Milford FC,Al Tilal Aden,w4971,https://www.soccer-rating.com/Milford-FC/w4971/,Milford-FC,0,2026-07-28
+Tractor Sazi,Al Wahda Abu Dhabi,w251,https://www.soccer-rating.com/Tractor-Sazi/w251/,Tractor-Sazi,1,2026-07-28
+FC Copenhagen U19,Al Wahda Damascus,w14612,https://www.soccer-rating.com/FC-Copenhagen-U19/w14612/,FC-Copenhagen-U19,1,2026-07-28
+Olympique Beja,Al Yaqdhah,w626,https://www.soccer-rating.com/Olympique-Beja/w626/,Olympique-Beja,0,2026-07-28
+Alajuelense,Al Zawraa Baghdad,w492,https://www.soccer-rating.com/Alajuelense/w492/,Alajuelense,0,2026-07-28
+ES Ben Aknoun,Alacranes De Durango,w7124,https://www.soccer-rating.com/ES-Ben-Aknoun/w7124/,ES-Ben-Aknoun,0,2026-07-28
+Stade Auxerrois (W),Alphington Fc,w15944,https://www.soccer-rating.com/Stade-Auxerrois-W/w15944/,Stade-Auxerrois-W,1,2026-07-28
+B 93 Copenhagen (W),Altay Izmir W,w3004,https://www.soccer-rating.com/B-93-Copenhagen-W/w3004/,B-93-Copenhagen-W,1,2026-07-28
+Radnik Krizevci,Altindagspor,17843,https://www.soccer-rating.com/Radnik-Krizevci/17843/,Radnik-Krizevci,1,2026-07-28
+CD Marquense,Amagaju,w432,https://www.soccer-rating.com/CD-Marquense/w432/,CD-Marquense,0,2026-07-28
+Chippenham Town,Amora Fc,2229,https://www.soccer-rating.com/Chippenham-Town/2229/,Chippenham-Town,1,2026-07-28
+Young Lions,Anadolu Uskudar U23,w550,https://www.soccer-rating.com/Young-Lions/w550/,Young-Lions,1,2026-07-28
+Zrinjski Mostar,Andorra Cf,536,https://www.soccer-rating.com/Zrinjski-Mostar/536/,Zrinjski-Mostar,0,2026-07-28
+FK Jablonec 97,Antalyaspor,618,https://www.soccer-rating.com/FK-Jablonec-97/618/,FK-Jablonec-97,0,2026-07-28
+CD Malacateco,Ao De Itabaiana,w1485,https://www.soccer-rating.com/CD-Malacateco/w1485/,CD-Malacateco,0,2026-07-28
+Stade Tunisien,Apia Leichhardt Tigers,w628,https://www.soccer-rating.com/Stade-Tunisien/w628/,Stade-Tunisien,0,2026-07-28
+Al Ittifaq Dammam,April 25,w269,https://www.soccer-rating.com/Al-Ittifaq-Dammam/w269/,Al-Ittifaq-Dammam,0,2026-07-28
+MFK Vyskov,Araz Nakhchivan Pfk,3821,https://www.soccer-rating.com/MFK-Vyskov/3821/,MFK-Vyskov,0,2026-07-28
 All Boys,Argentina,w58,https://www.soccer-rating.com/All-Boys/w58/,All-Boys,0,2026-07-27
 Almirante Brown,Argentina,w1457,https://www.soccer-rating.com/Almirante-Brown/w1457/,Almirante-Brown,0,2026-07-27
 Argentino de Merlo,Argentina,w6511,https://www.soccer-rating.com/Argentino-de-Merlo/w6511/,Argentino-de-Merlo,0,2026-07-27
@@ -136,14 +142,17 @@ Uai Urquiza,Argentina,w3460,https://www.soccer-rating.com/Uai-Urquiza/w3460/,Uai
 Velez Sarsfield,Argentina,w8,https://www.soccer-rating.com/Velez-Sarsfield/w8/,Velez-Sarsfield,0,2026-07-27
 Villa Dalmine,Argentina,w3703,https://www.soccer-rating.com/Villa-Dalmine/w3703/,Villa-Dalmine,0,2026-07-27
 Villa San Carlos,Argentina,w3606,https://www.soccer-rating.com/Villa-San-Carlos/w3606/,Villa-San-Carlos,0,2026-07-27
-KF Shkendija Haracine,Unknown,18920,https://www.soccer-rating.com/KF-Shkendija-Haracine/18920/,KF-Shkendija-Haracine,1,2000-01-01
-Monagas SC,Unknown,w180,https://www.soccer-rating.com/Monagas-SC/w180/,Monagas-SC,0,2000-01-01
-St. Albans City,Unknown,2630,https://www.soccer-rating.com/St-Albans-City/2630/,St-Albans-City,1,2000-01-01
-San Juan La Laguna FC,Unknown,w14419,https://www.soccer-rating.com/San-Juan-La-Laguna-FC/w14419/,San-Juan-La-Laguna-FC,0,2000-01-01
-SSK Bilovec,Unknown,17101,https://www.soccer-rating.com/SSK-Bilovec/17101/,SSK-Bilovec,1,2000-01-01
-Altyn Asyr FK,Unknown,w4953,https://www.soccer-rating.com/Altyn-Asyr-FK/w4953/,Altyn-Asyr-FK,1,2000-01-01
-Zakho FC,Unknown,w1019,https://www.soccer-rating.com/Zakho-FC/w1019/,Zakho-FC,1,2000-01-01
-Roi Et 2018,Unknown,w16524,https://www.soccer-rating.com/Roi-Et-2018/w16524/,Roi-Et-2018,1,2000-01-01
+KF Shkendija Haracine,Arnavutkoey Belediyespor,18920,https://www.soccer-rating.com/KF-Shkendija-Haracine/18920/,KF-Shkendija-Haracine,1,2026-07-28
+Monagas SC,Arnett Gardens Fc,w180,https://www.soccer-rating.com/Monagas-SC/w180/,Monagas-SC,0,2026-07-28
+St. Albans City,Arosa Sc,2630,https://www.soccer-rating.com/St-Albans-City/2630/,St-Albans-City,1,2026-07-28
+San Juan La Laguna FC,As Harima Albion W,w14419,https://www.soccer-rating.com/San-Juan-La-Laguna-FC/w14419/,San-Juan-La-Laguna-FC,0,2026-07-28
+SSK Bilovec,As Plouhinec,17101,https://www.soccer-rating.com/SSK-Bilovec/17101/,SSK-Bilovec,1,2026-07-28
+Vancouver FC,Asc Hlm,w15245,https://www.soccer-rating.com/Vancouver-FC/w15245/,Vancouver-FC,0,2026-07-28
+FK Kozara Gradiska,Ask Bruck Leitha,7298,https://www.soccer-rating.com/FK-Kozara-Gradiska/7298/,FK-Kozara-Gradiska,0,2026-07-28
+Altyn Asyr FK,Atalanta U19,w4953,https://www.soccer-rating.com/Altyn-Asyr-FK/w4953/,Altyn-Asyr-FK,1,2026-07-28
+Zakho FC,Atletico Bucaramanga,w1019,https://www.soccer-rating.com/Zakho-FC/w1019/,Zakho-FC,1,2026-07-28
+MAS Maghrib Fes,Atletico Madrid U19,w591,https://www.soccer-rating.com/MAS-Maghrib-Fes/w591/,MAS-Maghrib-Fes,0,2026-07-28
+Roi Et 2018,Atletico San Luis W,w16524,https://www.soccer-rating.com/Roi-Et-2018/w16524/,Roi-Et-2018,1,2026-07-28
 APIA Leichhardt Tigers,Australia,w911,https://www.soccer-rating.com/APIA-Leichhardt-Tigers/w911/,APIA-Leichhardt-Tigers,1,2026-07-27
 Adelaide United,Australia,w28,https://www.soccer-rating.com/Adelaide-United/w28/,Adelaide-United,0,2026-07-27
 Al Ahed Beirut,Australia,w584,https://www.soccer-rating.com/Al-Ahed-Beirut/w584/,Al-Ahed-Beirut,1,2026-07-27
@@ -361,11 +370,14 @@ Wiener Sportklub,Austria,1249,https://www.soccer-rating.com/Wiener-Sportklub/124
 Wiener Viktoria,Austria,7868,https://www.soccer-rating.com/Wiener-Viktoria/7868/,Wiener-Viktoria,1,2026-07-27
 Wolfsberger AC,Austria,1340,https://www.soccer-rating.com/Wolfsberger-AC/1340/,Wolfsberger-AC,0,2026-07-27
 Wolfsberger AC II,Austria,8725,https://www.soccer-rating.com/Wolfsberger-AC-II/8725/,Wolfsberger-AC-II,1,2026-07-27
-FC Mondercange,Unknown,5395,https://www.soccer-rating.com/FC-Mondercange/5395/,FC-Mondercange,1,2000-01-01
-Voska Sport,Unknown,16918,https://www.soccer-rating.com/Voska-Sport/16918/,Voska-Sport,1,2000-01-01
-Caracas FC,Unknown,w182,https://www.soccer-rating.com/Caracas-FC/w182/,Caracas-FC,0,2000-01-01
-Lamia FC,Unknown,2426,https://www.soccer-rating.com/Lamia-FC/2426/,Lamia-FC,0,2000-01-01
-Kolding FC W,Unknown,w2354,https://www.soccer-rating.com/Kolding-FC-W/w2354/,Kolding-FC-W,0,2000-01-01
+Drina Zvornik,Avantul Periam,6394,https://www.soccer-rating.com/Drina-Zvornik/6394/,Drina-Zvornik,0,2026-07-28
+FC Mondercange,Avt G Laiq Fougeres,5395,https://www.soccer-rating.com/FC-Mondercange/5395/,FC-Mondercange,1,2026-07-28
+Voska Sport,Aydinspor,16918,https://www.soccer-rating.com/Voska-Sport/16918/,Voska-Sport,1,2026-07-28
+Amazulu Durban,Ba Fc,w197,https://www.soccer-rating.com/Amazulu-Durban/w197/,Amazulu-Durban,0,2026-07-28
+Caracas FC,Bahia De Feira,w182,https://www.soccer-rating.com/Caracas-FC/w182/,Caracas-FC,0,2026-07-28
+Lamia FC,Balzan Youths,2426,https://www.soccer-rating.com/Lamia-FC/2426/,Lamia-FC,0,2026-07-28
+Kolding FC W,Bangkok Fc,w2354,https://www.soccer-rating.com/Kolding-FC-W/w2354/,Kolding-FC-W,0,2026-07-28
+NK Posusje,Barrow Afc,1166,https://www.soccer-rating.com/NK-Posusje/1166/,NK-Posusje,0,2026-07-28
 AS Eupen,Belgium,1504,https://www.soccer-rating.com/AS-Eupen/1504/,AS-Eupen,0,2026-07-27
 Akron Tolyatti,Belgium,13988,https://www.soccer-rating.com/Akron-Tolyatti/13988/,Akron-Tolyatti,1,2026-07-27
 BE2,Belgium,auto,https://www.soccer-rating.com/Belgium/BE2/,BE2,0,2026-07-27
@@ -378,7 +390,7 @@ Dessel Sport,Belgium,2718,https://www.soccer-rating.com/Dessel-Sport/2718/,Desse
 Diegem Sport,Belgium,2723,https://www.soccer-rating.com/Diegem-Sport/2723/,Diegem-Sport,0,2026-07-27
 Eendracht Elene Grotenberge,Belgium,18216,https://www.soccer-rating.com/Eendracht-Elene-Grotenberge/18216/,Eendracht-Elene-Grotenberge,1,2026-07-27
 Excelsior Virton,Belgium,1512,https://www.soccer-rating.com/Excelsior-Virton/1512/,Excelsior-Virton,0,2026-07-27
-FC Brügge,Belgium,905,https://www.soccer-rating.com/FC-Bruegge/905/,FC-Bruegge,0,2026-07-27
+FC Brügge,Belgium,905,https://www.soccer-rating.com/FC-Bruegge/905/,FC-Bruegge,0,2026-07-28
 FCV Dender EH,Belgium,909,https://www.soccer-rating.com/FCV-Dender-EH/909/,FCV-Dender-EH,0,2026-07-27
 Hoogstraten VV,Belgium,4370,https://www.soccer-rating.com/Hoogstraten-VV/4370/,Hoogstraten-VV,0,2026-07-27
 KAA Gent,Belgium,641,https://www.soccer-rating.com/KAA-Gent/641/,KAA-Gent,0,2026-07-27
@@ -438,13 +450,19 @@ Union Saint-Gilloise,Belgium,1508,https://www.soccer-rating.com/Union-Saint-Gill
 Union Saint-Gilloise II,Belgium,18551,https://www.soccer-rating.com/Union-Saint-Gilloise-II/18551/,Union-Saint-Gilloise-II,0,2026-07-27
 VK Tienen,Belgium,1503,https://www.soccer-rating.com/VK-Tienen/1503/,VK-Tienen,0,2026-07-27
 VV St. Truiden,Belgium,912,https://www.soccer-rating.com/VV-St-Truiden/912/,VV-St-Truiden,0,2026-07-27
-Ünyespor,Unknown,7657,https://www.soccer-rating.com/-nyespor/7657/,-nyespor,1,2000-01-01
-Sparta Praha II,Unknown,2101,https://www.soccer-rating.com/Sparta-Praha-II/2101/,Sparta-Praha-II,0,2000-01-01
-Deportivo Magallanes (W),Unknown,w17711,https://www.soccer-rating.com/Deportivo-Magallanes-W/w17711/,Deportivo-Magallanes-W,1,2000-01-01
-FK Makedonija Gjorce Petrov,Unknown,23,https://www.soccer-rating.com/FK-Makedonija-Gjorce-Petrov/23/,FK-Makedonija-Gjorce-Petrov,1,2000-01-01
-Warrington Town,Unknown,3091,https://www.soccer-rating.com/Warrington-Town/3091/,Warrington-Town,1,2000-01-01
-FK Syzran 2003,Unknown,7159,https://www.soccer-rating.com/FK-Syzran-2003/7159/,FK-Syzran-2003,1,2000-01-01
-Albirex Niigata S,Unknown,w580,https://www.soccer-rating.com/Albirex-Niigata-S/w580/,Albirex-Niigata-S,0,2000-01-01
+Linfield FC,Benevento Calcio,485,https://www.soccer-rating.com/Linfield-FC/485/,Linfield-FC,0,2026-07-28
+Ünyespor,Bethune St,7657,https://www.soccer-rating.com/-nyespor/7657/,-nyespor,1,2026-07-28
+Sparta Praha II,Beyoglu Yeni Carsi,2101,https://www.soccer-rating.com/Sparta-Praha-II/2101/,Sparta-Praha-II,0,2026-07-28
+Deportivo Magallanes (W),Binh Thuan,w17711,https://www.soccer-rating.com/Deportivo-Magallanes-W/w17711/,Deportivo-Magallanes-W,1,2026-07-28
+Wydad Casablanca,Birmingham City Lfc W,w590,https://www.soccer-rating.com/Wydad-Casablanca/w590/,Wydad-Casablanca,0,2026-07-28
+FK Dukla Praha II,Bk Fix Bronshoj,14069,https://www.soccer-rating.com/FK-Dukla-Praha-II/14069/,FK-Dukla-Praha-II,0,2026-07-28
+FK Makedonija Gjorce Petrov,Bkv Elore,23,https://www.soccer-rating.com/FK-Makedonija-Gjorce-Petrov/23/,FK-Makedonija-Gjorce-Petrov,1,2026-07-28
+FK Sarajevo,Blackpool Fc,487,https://www.soccer-rating.com/FK-Sarajevo/487/,FK-Sarajevo,0,2026-07-28
+Warrington Town,Blackstones,3091,https://www.soccer-rating.com/Warrington-Town/3091/,Warrington-Town,1,2026-07-28
+FK Syzran 2003,Blois Football 41,7159,https://www.soccer-rating.com/FK-Syzran-2003/7159/,FK-Syzran-2003,1,2026-07-28
+Cliftonville FC,Bnei Majd Al Krum United,42,https://www.soccer-rating.com/Cliftonville-FC/42/,Cliftonville-FC,0,2026-07-28
+Albirex Niigata S,Boavista Rj,w580,https://www.soccer-rating.com/Albirex-Niigata-S/w580/,Albirex-Niigata-S,0,2026-07-28
+CR Belouizdad,Boca Juniors,w739,https://www.soccer-rating.com/CR-Belouizdad/w739/,CR-Belouizdad,0,2026-07-28
 Academia del Balompie,Bolivia,w14584,https://www.soccer-rating.com/Academia-del-Balompie/w14584/,Academia-del-Balompie,0,2026-07-27
 Aurora Cochabamba,Bolivia,w834,https://www.soccer-rating.com/Aurora-Cochabamba/w834/,Aurora-Cochabamba,0,2026-07-27
 Blooming,Bolivia,w690,https://www.soccer-rating.com/Blooming/w690/,Blooming,0,2026-07-27
@@ -462,44 +480,9 @@ Real Tomayapo,Bolivia,w10892,https://www.soccer-rating.com/Real-Tomayapo/w10892/
 San Antonio Bulo Bulo,Bolivia,w12811,https://www.soccer-rating.com/San-Antonio-Bulo-Bulo/w12811/,San-Antonio-Bulo-Bulo,0,2026-07-27
 The Strongest,Bolivia,w833,https://www.soccer-rating.com/The-Strongest/w833/,The-Strongest,0,2026-07-27
 Universitario de Vinto,Bolivia,w12812,https://www.soccer-rating.com/Universitario-de-Vinto/w12812/,Universitario-de-Vinto,0,2026-07-27
-Zenit St. Petersburg,Unknown,132,https://www.soccer-rating.com/Zenit-St-Petersburg/132/,Zenit-St-Petersburg,1,2000-01-01
-Borac Banja Luka,Unknown,3860,https://www.soccer-rating.com/Borac-Banja-Luka/3860/,Borac-Banja-Luka,0,2000-01-01
-Bratstvo Gracanica,Unknown,9064,https://www.soccer-rating.com/Bratstvo-Gracanica/9064/,Bratstvo-Gracanica,0,2000-01-01
-Buducnost Banovici,Unknown,6393,https://www.soccer-rating.com/Buducnost-Banovici/6393/,Buducnost-Banovici,0,2000-01-01
-Drina Zvornik,Unknown,6394,https://www.soccer-rating.com/Drina-Zvornik/6394/,Drina-Zvornik,0,2000-01-01
-FK BSK Banja Luka,Unknown,17802,https://www.soccer-rating.com/FK-BSK-Banja-Luka/17802/,FK-BSK-Banja-Luka,0,2000-01-01
-FK Igman Konjic,Unknown,13644,https://www.soccer-rating.com/FK-Igman-Konjic/13644/,FK-Igman-Konjic,0,2000-01-01
-FK Kozara Gradiska,Unknown,7298,https://www.soccer-rating.com/FK-Kozara-Gradiska/7298/,FK-Kozara-Gradiska,0,2000-01-01
-FK Laktasi,Unknown,1174,https://www.soccer-rating.com/FK-Laktasi/1174/,FK-Laktasi,0,2000-01-01
-FK Omarska,Unknown,16272,https://www.soccer-rating.com/FK-Omarska/16272/,FK-Omarska,0,2000-01-01
-FK Radnik Hadzici,Unknown,14248,https://www.soccer-rating.com/FK-Radnik-Hadzici/14248/,FK-Radnik-Hadzici,0,2000-01-01
-FK Romanija Pale,Unknown,17799,https://www.soccer-rating.com/FK-Romanija-Pale/17799/,FK-Romanija-Pale,0,2000-01-01
-FK Rudar Prijedor,Unknown,5498,https://www.soccer-rating.com/FK-Rudar-Prijedor/5498/,FK-Rudar-Prijedor,0,2000-01-01
-FK Sarajevo,Unknown,487,https://www.soccer-rating.com/FK-Sarajevo/487/,FK-Sarajevo,0,2000-01-01
-FK Sloga Doboj,Unknown,6062,https://www.soccer-rating.com/FK-Sloga-Doboj/6062/,FK-Sloga-Doboj,0,2000-01-01
-FK Sutjeska Foca,Unknown,7467,https://www.soccer-rating.com/FK-Sutjeska-Foca/7467/,FK-Sutjeska-Foca,0,2000-01-01
-FK Tuzla City,Unknown,12856,https://www.soccer-rating.com/FK-Tuzla-City/12856/,FK-Tuzla-City,0,2000-01-01
-FK Vitez,Unknown,7464,https://www.soccer-rating.com/FK-Vitez/7464/,FK-Vitez,0,2000-01-01
-FK Vlasenica,Unknown,18886,https://www.soccer-rating.com/FK-Vlasenica/18886/,FK-Vlasenica,0,2000-01-01
-FK Zvijezda 09,Unknown,12912,https://www.soccer-rating.com/FK-Zvijezda-09/12912/,FK-Zvijezda-09,0,2000-01-01
-Famos Vojkovici,Unknown,17647,https://www.soccer-rating.com/Famos-Vojkovici/17647/,Famos-Vojkovici,0,2000-01-01
-GOSK Gabela,Unknown,7306,https://www.soccer-rating.com/GOSK-Gabela/7306/,GOSK-Gabela,0,2000-01-01
-Leotar Trebinje,Unknown,1167,https://www.soccer-rating.com/Leotar-Trebinje/1167/,Leotar-Trebinje,0,2000-01-01
-NK Celik Zenica,Unknown,1165,https://www.soccer-rating.com/NK-Celik-Zenica/1165/,NK-Celik-Zenica,0,2000-01-01
-NK Jedinstvo Bihac,Unknown,1176,https://www.soccer-rating.com/NK-Jedinstvo-Bihac/1176/,NK-Jedinstvo-Bihac,0,2000-01-01
-NK Posusje,Unknown,1166,https://www.soccer-rating.com/NK-Posusje/1166/,NK-Posusje,0,2000-01-01
-NK Stupcanica,Unknown,18126,https://www.soccer-rating.com/NK-Stupcanica/18126/,NK-Stupcanica,0,2000-01-01
-NK Travnik,Unknown,1168,https://www.soccer-rating.com/NK-Travnik/1168/,NK-Travnik,0,2000-01-01
-Radnik Bijeljina,Unknown,4780,https://www.soccer-rating.com/Radnik-Bijeljina/4780/,Radnik-Bijeljina,0,2000-01-01
-Siroki Brijeg,Unknown,537,https://www.soccer-rating.com/Siroki-Brijeg/537/,Siroki-Brijeg,0,2000-01-01
-Slavija Sarajevo,Unknown,35,https://www.soccer-rating.com/Slavija-Sarajevo/35/,Slavija-Sarajevo,0,2000-01-01
-Sloboda Tuzla,Unknown,1169,https://www.soccer-rating.com/Sloboda-Tuzla/1169/,Sloboda-Tuzla,0,2000-01-01
-Tomislav Tomislavgrad,Unknown,18535,https://www.soccer-rating.com/Tomislav-Tomislavgrad/18535/,Tomislav-Tomislavgrad,0,2000-01-01
-Tosk Tesanj,Unknown,13645,https://www.soccer-rating.com/Tosk-Tesanj/13645/,Tosk-Tesanj,0,2000-01-01
-Velez Mostar,Unknown,1175,https://www.soccer-rating.com/Velez-Mostar/1175/,Velez-Mostar,0,2000-01-01
-Velez Nevesinje,Unknown,14762,https://www.soccer-rating.com/Velez-Nevesinje/14762/,Velez-Nevesinje,0,2000-01-01
-Zeljeznicar Sarajevo,Unknown,1171,https://www.soccer-rating.com/Zeljeznicar-Sarajevo/1171/,Zeljeznicar-Sarajevo,0,2000-01-01
-Zrinjski Mostar,Unknown,536,https://www.soccer-rating.com/Zrinjski-Mostar/536/,Zrinjski-Mostar,0,2000-01-01
+Zenit St. Petersburg,Bologna Fc,132,https://www.soccer-rating.com/Zenit-St-Petersburg/132/,Zenit-St-Petersburg,1,2026-07-28
+Sokol Hostoun,Bonyhad Volgyseg,13301,https://www.soccer-rating.com/Sokol-Hostoun/13301/,Sokol-Hostoun,0,2026-07-28
+Al Qadisiya,Brann Bergen W,w268,https://www.soccer-rating.com/Al-Qadisiya/w268/,Al-Qadisiya,0,2026-07-28
 AA Aparecidense,Brazil,w3301,https://www.soccer-rating.com/AA-Aparecidense/w3301/,AA-Aparecidense,0,2026-07-27
 AA Maguary,Brazil,w14944,https://www.soccer-rating.com/AA-Maguary/w14944/,AA-Maguary,0,2026-07-27
 ABC,Brazil,w1446,https://www.soccer-rating.com/ABC/w1446/,ABC,0,2026-07-27
@@ -656,14 +639,15 @@ Vitoria FC,Brazil,w1938,https://www.soccer-rating.com/Vitoria-FC/w1938/,Vitoria-
 Volta Redonda,Brazil,w822,https://www.soccer-rating.com/Volta-Redonda/w822/,Volta-Redonda,0,2026-07-27
 XV de Piracicaba,Brazil,w2571,https://www.soccer-rating.com/XV-de-Piracicaba/w2571/,XV-de-Piracicaba,0,2026-07-27
 Ypiranga Erechim GA,Brazil,w1902,https://www.soccer-rating.com/Ypiranga-Erechim-GA/w1902/,Ypiranga-Erechim-GA,0,2026-07-27
-CR Brasil B AL,Unknown,w16611,https://www.soccer-rating.com/CR-Brasil-B-AL/w16611/,CR-Brasil-B-AL,0,2000-01-01
-Fluminense FC RJ (U23),Unknown,w16610,https://www.soccer-rating.com/Fluminense-FC-RJ-U23/w16610/,Fluminense-FC-RJ-U23,1,2000-01-01
-Mirassol FC SP (U23),Unknown,w16616,https://www.soccer-rating.com/Mirassol-FC-SP-U23/w16616/,Mirassol-FC-SP-U23,1,2000-01-01
-Sport Club do Recife PE (U23),Unknown,w16620,https://www.soccer-rating.com/Sport-Club-do-Recife-PE-U23/w16620/,Sport-Club-do-Recife-PE-U23,1,2000-01-01
-FK Pelister Bitola,Unknown,1799,https://www.soccer-rating.com/FK-Pelister-Bitola/1799/,FK-Pelister-Bitola,1,2000-01-01
-Brunei DPMM,Unknown,w2617,https://www.soccer-rating.com/Brunei-DPMM/w2617/,Brunei-DPMM,1,2000-01-01
-Ferencvaros II,Unknown,6968,https://www.soccer-rating.com/Ferencvaros-II/6968/,Ferencvaros-II,1,2000-01-01
-Hyde United,Unknown,2633,https://www.soccer-rating.com/Hyde-United/2633/,Hyde-United,1,2000-01-01
+CR Brasil B AL,Brazil Youth,w16611,https://www.soccer-rating.com/CR-Brasil-B-AL/w16611/,CR-Brasil-B-AL,0,2026-07-28
+Fluminense FC RJ (U23),Brazil Youth,w16610,https://www.soccer-rating.com/Fluminense-FC-RJ-U23/w16610/,Fluminense-FC-RJ-U23,1,2026-07-28
+Mirassol FC SP (U23),Brazil Youth,w16616,https://www.soccer-rating.com/Mirassol-FC-SP-U23/w16616/,Mirassol-FC-SP-U23,1,2026-07-28
+Sport Club do Recife PE (U23),Brazil Youth,w16620,https://www.soccer-rating.com/Sport-Club-do-Recife-PE-U23/w16620/,Sport-Club-do-Recife-PE-U23,1,2026-07-28
+FK Pelister Bitola,Bremer Sv,1799,https://www.soccer-rating.com/FK-Pelister-Bitola/1799/,FK-Pelister-Bitola,1,2026-07-28
+Brunei DPMM,Bright Stars,w2617,https://www.soccer-rating.com/Brunei-DPMM/w2617/,Brunei-DPMM,1,2026-07-28
+Buducnost Banovici,Brislington,6393,https://www.soccer-rating.com/Buducnost-Banovici/6393/,Buducnost-Banovici,0,2026-07-28
+Ferencvaros II,Bsc Old Boys,6968,https://www.soccer-rating.com/Ferencvaros-II/6968/,Ferencvaros-II,1,2026-07-28
+Hyde United,Bts Neustadt,2633,https://www.soccer-rating.com/Hyde-United/2633/,Hyde-United,1,2026-07-28
 Belasitsa Petrich,Bulgaria,1454,https://www.soccer-rating.com/Belasitsa-Petrich/1454/,Belasitsa-Petrich,0,2026-07-27
 Beroe Stara Zagora,Bulgaria,1464,https://www.soccer-rating.com/Beroe-Stara-Zagora/1464/,Beroe-Stara-Zagora,0,2026-07-27
 Botev Plovdiv,Bulgaria,1466,https://www.soccer-rating.com/Botev-Plovdiv/1466/,Botev-Plovdiv,0,2026-07-27
@@ -698,35 +682,43 @@ Spartak Pleven,Bulgaria,7647,https://www.soccer-rating.com/Spartak-Pleven/7647/,
 Spartak Varna,Bulgaria,1465,https://www.soccer-rating.com/Spartak-Varna/1465/,Spartak-Varna,0,2026-07-27
 Vihren Sandanski,Bulgaria,1460,https://www.soccer-rating.com/Vihren-Sandanski/1460/,Vihren-Sandanski,0,2026-07-27
 Yantra Gabrovo,Bulgaria,15312,https://www.soccer-rating.com/Yantra-Gabrovo/15312/,Yantra-Gabrovo,0,2026-07-27
-Tilbury FC,Unknown,3060,https://www.soccer-rating.com/Tilbury-FC/3060/,Tilbury-FC,1,2000-01-01
-Zrinski Jurjevac,Unknown,8337,https://www.soccer-rating.com/Zrinski-Jurjevac/8337/,Zrinski-Jurjevac,1,2000-01-01
-Al Duhail,Unknown,w1721,https://www.soccer-rating.com/Al-Duhail/w1721/,Al-Duhail,1,2000-01-01
-Kuala Lumpur Rovers,Unknown,w15456,https://www.soccer-rating.com/Kuala-Lumpur-Rovers/w15456/,Kuala-Lumpur-Rovers,1,2000-01-01
-VVSB Noordwijkerhout,Unknown,6834,https://www.soccer-rating.com/VVSB-Noordwijkerhout/6834/,VVSB-Noordwijkerhout,1,2000-01-01
-Eastbourne Borough,Unknown,2663,https://www.soccer-rating.com/Eastbourne-Borough/2663/,Eastbourne-Borough,1,2000-01-01
-Prescot Cables,Unknown,2620,https://www.soccer-rating.com/Prescot-Cables/2620/,Prescot-Cables,0,2000-01-01
-Atletico Ottawa,Unknown,w11389,https://www.soccer-rating.com/Atletico-Ottawa/w11389/,Atletico-Ottawa,0,2000-01-01
-Cavalry FC,Unknown,w11378,https://www.soccer-rating.com/Cavalry-FC/w11378/,Cavalry-FC,0,2000-01-01
-FC Supra du Quebec,Unknown,w17741,https://www.soccer-rating.com/FC-Supra-du-Quebec/w17741/,FC-Supra-du-Quebec,0,2000-01-01
-Forge FC,Unknown,w9241,https://www.soccer-rating.com/Forge-FC/w9241/,Forge-FC,0,2000-01-01
-HFX Wanderers FC,Unknown,w11366,https://www.soccer-rating.com/HFX-Wanderers-FC/w11366/,HFX-Wanderers-FC,0,2000-01-01
-Inter Toronto,Unknown,w11379,https://www.soccer-rating.com/Inter-Toronto/w11379/,Inter-Toronto,0,2000-01-01
-Pacific FC,Unknown,w11365,https://www.soccer-rating.com/Pacific-FC/w11365/,Pacific-FC,0,2000-01-01
-Vancouver FC,Unknown,w15245,https://www.soccer-rating.com/Vancouver-FC/w15245/,Vancouver-FC,0,2000-01-01
-Atletico Tordesillas,Unknown,18639,https://www.soccer-rating.com/Atletico-Tordesillas/18639/,Atletico-Tordesillas,1,2000-01-01
-AFK Chrudim,Unknown,5445,https://www.soccer-rating.com/AFK-Chrudim/5445/,AFK-Chrudim,0,2000-01-01
-Bashkimi Kumanovo,Unknown,18656,https://www.soccer-rating.com/Bashkimi-Kumanovo/18656/,Bashkimi-Kumanovo,1,2000-01-01
-Basford United,Unknown,10111,https://www.soccer-rating.com/Basford-United/10111/,Basford-United,1,2000-01-01
-Edessaikos,Unknown,14168,https://www.soccer-rating.com/Edessaikos/14168/,Edessaikos,1,2000-01-01
-VV Eemdijk,Unknown,13702,https://www.soccer-rating.com/VV-Eemdijk/13702/,VV-Eemdijk,0,2000-01-01
-Al Ahli Doha,Unknown,w209,https://www.soccer-rating.com/Al-Ahli-Doha/w209/,Al-Ahli-Doha,1,2000-01-01
-Stockton Town FC,Unknown,16118,https://www.soccer-rating.com/Stockton-Town-FC/16118/,Stockton-Town-FC,1,2000-01-01
-River Plate Asuncion,Unknown,w4890,https://www.soccer-rating.com/River-Plate-Asuncion/w4890/,River-Plate-Asuncion,0,2000-01-01
-Perez Zeledon,Unknown,w496,https://www.soccer-rating.com/Perez-Zeledon/w496/,Perez-Zeledon,0,2000-01-01
-Al Khalidiyah,Unknown,w10499,https://www.soccer-rating.com/Al-Khalidiyah/w10499/,Al-Khalidiyah,1,2000-01-01
-Workington AFC,Unknown,2608,https://www.soccer-rating.com/Workington-AFC/2608/,Workington-AFC,1,2000-01-01
-HNK Sibenik,Unknown,632,https://www.soccer-rating.com/HNK-Sibenik/632/,HNK-Sibenik,0,2000-01-01
-KF Gostivari,Unknown,8742,https://www.soccer-rating.com/KF-Gostivari/8742/,KF-Gostivari,1,2000-01-01
+Tomislav Tomislavgrad,Burgess Hill Town,18535,https://www.soccer-rating.com/Tomislav-Tomislavgrad/18535/,Tomislav-Tomislavgrad,0,2026-07-28
+Mlada Boleslav,Bursaspor,620,https://www.soccer-rating.com/Mlada-Boleslav/620/,Mlada-Boleslav,0,2026-07-28
+Tilbury FC,Bury Afc,3060,https://www.soccer-rating.com/Tilbury-FC/3060/,Tilbury-FC,1,2026-07-28
+MC Oran,Busan I Park,w713,https://www.soccer-rating.com/MC-Oran/w713/,MC-Oran,0,2026-07-28
+Siwelele FC,Busan Kyotong,w17207,https://www.soccer-rating.com/Siwelele-FC/w17207/,Siwelele-FC,0,2026-07-28
+Zrinski Jurjevac,Bytovia Bytow,8337,https://www.soccer-rating.com/Zrinski-Jurjevac/8337/,Zrinski-Jurjevac,1,2026-07-28
+Ballymena United FC,C Chartres,1878,https://www.soccer-rating.com/Ballymena-United-FC/1878/,Ballymena-United-FC,0,2026-07-28
+Al Duhail,Ca Union Santa Fe,w1721,https://www.soccer-rating.com/Al-Duhail/w1721/,Al-Duhail,1,2026-07-28
+Kuala Lumpur Rovers,Ca Victoriano Arenas,w15456,https://www.soccer-rating.com/Kuala-Lumpur-Rovers/w15456/,Kuala-Lumpur-Rovers,1,2026-07-28
+VVSB Noordwijkerhout,Callatis Mangalia,6834,https://www.soccer-rating.com/VVSB-Noordwijkerhout/6834/,VVSB-Noordwijkerhout,1,2026-07-28
+Eastbourne Borough,Calvo Sotelo De Puertollano Cf,2663,https://www.soccer-rating.com/Eastbourne-Borough/2663/,Eastbourne-Borough,1,2026-07-28
+AS Gabes,Cambridge United W,w1489,https://www.soccer-rating.com/AS-Gabes/w1489/,AS-Gabes,0,2026-07-28
+Prescot Cables,Cammell Laird,2620,https://www.soccer-rating.com/Prescot-Cables/2620/,Prescot-Cables,0,2026-07-28
+Al Akhdoud,Canadian Sc,w9581,https://www.soccer-rating.com/Al-Akhdoud/w9581/,Al-Akhdoud,0,2026-07-28
+Atletico Tordesillas,Canet Roussillon Fc,18639,https://www.soccer-rating.com/Atletico-Tordesillas/18639/,Atletico-Tordesillas,1,2026-07-28
+CS Constantine,Capital City Fc,w2376,https://www.soccer-rating.com/CS-Constantine/w2376/,CS-Constantine,0,2026-07-28
+Al Najma,Casa De Portugal,w3119,https://www.soccer-rating.com/Al-Najma/w3119/,Al-Najma,0,2026-07-28
+AFK Chrudim,Casertana Fc,5445,https://www.soccer-rating.com/AFK-Chrudim/5445/,AFK-Chrudim,0,2026-07-28
+Bashkimi Kumanovo,Cayirovaspor,18656,https://www.soccer-rating.com/Bashkimi-Kumanovo/18656/,Bashkimi-Kumanovo,1,2026-07-28
+FK Tuzla City,Cbs Sport,12856,https://www.soccer-rating.com/FK-Tuzla-City/12856/,FK-Tuzla-City,0,2026-07-28
+Basford United,Ccd Cerceda,10111,https://www.soccer-rating.com/Basford-United/10111/,Basford-United,1,2026-07-28
+Edessaikos,Cd Ardoi,14168,https://www.soccer-rating.com/Edessaikos/14168/,Edessaikos,1,2026-07-28
+VV Eemdijk,Cd Atletico Paso,13702,https://www.soccer-rating.com/VV-Eemdijk/13702/,VV-Eemdijk,0,2026-07-28
+Leotar Trebinje,Cd Fatima,1167,https://www.soccer-rating.com/Leotar-Trebinje/1167/,Leotar-Trebinje,0,2026-07-28
+Slavija Sarajevo,Cd Hernan Cortes,35,https://www.soccer-rating.com/Slavija-Sarajevo/35/,Slavija-Sarajevo,0,2026-07-28
+MC El Bayadh,Cd La Serena,w7141,https://www.soccer-rating.com/MC-El-Bayadh/w7141/,MC-El-Bayadh,0,2026-07-28
+Al Ahli Doha,Cd Marathon,w209,https://www.soccer-rating.com/Al-Ahli-Doha/w209/,Al-Ahli-Doha,1,2026-07-28
+Al Hazem FC,Cd Nublense,w261,https://www.soccer-rating.com/Al-Hazem-FC/w261/,Al-Hazem-FC,0,2026-07-28
+Stockton Town FC,Cd Pradejon,16118,https://www.soccer-rating.com/Stockton-Town-FC/16118/,Stockton-Town-FC,1,2026-07-28
+River Plate Asuncion,Ceara U20,w4890,https://www.soccer-rating.com/River-Plate-Asuncion/w4890/,River-Plate-Asuncion,0,2026-07-28
+Perez Zeledon,Centro Oeste Saf Go,w496,https://www.soccer-rating.com/Perez-Zeledon/w496/,Perez-Zeledon,0,2026-07-28
+Al Khalidiyah,Ceramica Cleopatra Fc,w10499,https://www.soccer-rating.com/Al-Khalidiyah/w10499/,Al-Khalidiyah,1,2026-07-28
+Workington AFC,Cercle Bruegge Ii,2608,https://www.soccer-rating.com/Workington-AFC/2608/,Workington-AFC,1,2026-07-28
+NK Stupcanica,Cf Epila,18126,https://www.soccer-rating.com/NK-Stupcanica/18126/,NK-Stupcanica,0,2026-07-28
+HNK Sibenik,Cf Os Belenenses,632,https://www.soccer-rating.com/HNK-Sibenik/632/,HNK-Sibenik,0,2026-07-28
+Antigua GFC,Chapecoense,w4024,https://www.soccer-rating.com/Antigua-GFC/w4024/,Antigua-GFC,0,2026-07-28
+KF Gostivari,Chelmsford City,8742,https://www.soccer-rating.com/KF-Gostivari/8742/,KF-Gostivari,1,2026-07-28
 Audax Italiano,Chile,w440,https://www.soccer-rating.com/Audax-Italiano/w440/,Audax-Italiano,0,2026-07-27
 CD Antofagasta,Chile,w2599,https://www.soccer-rating.com/CD-Antofagasta/w2599/,CD-Antofagasta,0,2026-07-27
 CD Cobreloa,Chile,w539,https://www.soccer-rating.com/CD-Cobreloa/w539/,CD-Cobreloa,0,2026-07-27
@@ -910,9 +902,15 @@ Yunnan Yukun,China,w15282,https://www.soccer-rating.com/Yunnan-Yukun/w15282/,Yun
 ZNK Mura (W),China,w16503,https://www.soccer-rating.com/ZNK-Mura-W/w16503/,ZNK-Mura-W,1,2026-07-27
 Zhejiang Professional,China,w999,https://www.soccer-rating.com/Zhejiang-Professional/w999/,Zhejiang-Professional,0,2026-07-27
 Zibo Qisheng,China,w13316,https://www.soccer-rating.com/Zibo-Qisheng/w13316/,Zibo-Qisheng,1,2026-07-27
-Al Nahda Muscat,Unknown,w455,https://www.soccer-rating.com/Al-Nahda-Muscat/w455/,Al-Nahda-Muscat,1,2000-01-01
-Slough Town FC,Unknown,3128,https://www.soccer-rating.com/Slough-Town-FC/3128/,Slough-Town-FC,0,2000-01-01
-Eastern Suburbs Auckland,Unknown,w5770,https://www.soccer-rating.com/Eastern-Suburbs-Auckland/w5770/,Eastern-Suburbs-Auckland,1,2000-01-01
+JS Kairouan,Chonburi Fc,w621,https://www.soccer-rating.com/JS-Kairouan/w621/,JS-Kairouan,0,2026-07-28
+Al Nahda Muscat,Cianorte Fc,w455,https://www.soccer-rating.com/Al-Nahda-Muscat/w455/,Al-Nahda-Muscat,1,2026-07-28
+Slough Town FC,Ciempozuelos,3128,https://www.soccer-rating.com/Slough-Town-FC/3128/,Slough-Town-FC,0,2026-07-28
+Olympique Safi,Ciudad Nueva Santa Cruz,w596,https://www.soccer-rating.com/Olympique-Safi/w596/,Olympique-Safi,0,2026-07-28
+Marumo Gallants,Cliftonville W,w3854,https://www.soccer-rating.com/Marumo-Gallants/w3854/,Marumo-Gallants,0,2026-07-28
+Durban City FC 2024,Club Atletico Colegiales,w198,https://www.soccer-rating.com/Durban-City-FC-2024/w198/,Durban-City-FC-2024,0,2026-07-28
+Eastern Suburbs Auckland,Club Atletico Los Andes,w5770,https://www.soccer-rating.com/Eastern-Suburbs-Auckland/w5770/,Eastern-Suburbs-Auckland,1,2026-07-28
+Mazatlan FC,Club Bruegge U21,w10132,https://www.soccer-rating.com/Mazatlan-FC/w10132/,Mazatlan-FC,0,2026-07-28
+Richards Bay FC,Club Tristan Suarez,w6837,https://www.soccer-rating.com/Richards-Bay-FC/w6837/,Richards-Bay-FC,0,2026-07-28
 Alianza Petrolera,Colombia,w2995,https://www.soccer-rating.com/Alianza-Petrolera/w2995/,Alianza-Petrolera,0,2026-07-27
 America de Cali,Colombia,w508,https://www.soccer-rating.com/America-de-Cali/w508/,America-de-Cali,0,2026-07-27
 Arema ISL,Colombia,w2538,https://www.soccer-rating.com/Arema-ISL/w2538/,Arema-ISL,1,2026-07-27
@@ -982,9 +980,10 @@ Tigres Zipaquira,Colombia,w3065,https://www.soccer-rating.com/Tigres-Zipaquira/w
 US Goree,Colombia,w11166,https://www.soccer-rating.com/US-Goree/w11166/,US-Goree,1,2026-07-27
 Union Magdalena,Colombia,w2865,https://www.soccer-rating.com/Union-Magdalena/w2865/,Union-Magdalena,0,2026-07-27
 Universitario de Deportes (Reserves),Colombia,w14525,https://www.soccer-rating.com/Universitario-de-Deportes-Reserves/w14525/,Universitario-de-Deportes-Reserves,1,2026-07-27
-Ahal FC,Unknown,w4394,https://www.soccer-rating.com/Ahal-FC/w4394/,Ahal-FC,1,2000-01-01
-Wellington Phoenix II,Unknown,w4201,https://www.soccer-rating.com/Wellington-Phoenix-II/w4201/,Wellington-Phoenix-II,1,2000-01-01
-RI 3 Corrales,Unknown,w9360,https://www.soccer-rating.com/RI-3-Corrales/w9360/,RI-3-Corrales,1,2000-01-01
+Ahal FC,Contagem Ec,w4394,https://www.soccer-rating.com/Ahal-FC/w4394/,Ahal-FC,1,2026-07-28
+Wellington Phoenix II,Coritiba U23,w4201,https://www.soccer-rating.com/Wellington-Phoenix-II/w4201/,Wellington-Phoenix-II,1,2026-07-28
+RI 3 Corrales,Cr Brasil B Al,w9360,https://www.soccer-rating.com/RI-3-Corrales/w9360/,RI-3-Corrales,1,2026-07-28
+FK Laktasi,Cribbs Fc,1174,https://www.soccer-rating.com/FK-Laktasi/1174/,FK-Laktasi,0,2026-07-28
 BSK Bijelo Brdo,Croatia,6847,https://www.soccer-rating.com/BSK-Bijelo-Brdo/6847/,BSK-Bijelo-Brdo,0,2026-07-27
 Dinamo Zagreb,Croatia,484,https://www.soccer-rating.com/Dinamo-Zagreb/484/,Dinamo-Zagreb,0,2026-07-27
 HNK Cibalia Vinkovci,Croatia,633,https://www.soccer-rating.com/HNK-Cibalia-Vinkovci/633/,HNK-Cibalia-Vinkovci,0,2026-07-27
@@ -1007,9 +1006,12 @@ NK Rudeš,Croatia,5711,https://www.soccer-rating.com/NK-Rudes/5711/,NK-Rudes,0,2
 NK Slaven Koprivnica,Croatia,541,https://www.soccer-rating.com/NK-Slaven-Koprivnica/541/,NK-Slaven-Koprivnica,0,2026-07-27
 NK Varazdin,Croatia,634,https://www.soccer-rating.com/NK-Varazdin/634/,NK-Varazdin,0,2026-07-27
 NK Vukovar 91,Croatia,2702,https://www.soccer-rating.com/NK-Vukovar-91/2702/,NK-Vukovar-91,0,2026-07-27
-FK Skopje,Unknown,6030,https://www.soccer-rating.com/FK-Skopje/6030/,FK-Skopje,1,2000-01-01
-Balestier Khalsa,Unknown,w553,https://www.soccer-rating.com/Balestier-Khalsa/w553/,Balestier-Khalsa,1,2000-01-01
-Visina Noua,Unknown,7526,https://www.soccer-rating.com/Visina-Noua/7526/,Visina-Noua,1,2000-01-01
+ES Zarzis,Crystal Palace U21,w620,https://www.soccer-rating.com/ES-Zarzis/w620/,ES-Zarzis,0,2026-07-28
+FK Skopje,Cs Dante Botosani,6030,https://www.soccer-rating.com/FK-Skopje/6030/,FK-Skopje,1,2026-07-28
+Balestier Khalsa,Cs Saint Laurent,w553,https://www.soccer-rating.com/Balestier-Khalsa/w553/,Balestier-Khalsa,1,2026-07-28
+Visina Noua,Cs Visina Noua,7526,https://www.soccer-rating.com/Visina-Noua/7526/,Visina-Noua,1,2026-07-28
+Olimpia Tegucigalpa,Csd Municipal,w759,https://www.soccer-rating.com/Olimpia-Tegucigalpa/w759/,Olimpia-Tegucigalpa,0,2026-07-28
+FK Slovan Liberec,Cska 1948 Sofia,627,https://www.soccer-rating.com/FK-Slovan-Liberec/627/,FK-Slovan-Liberec,0,2026-07-28
 AE Paphos,Cyprus,4175,https://www.soccer-rating.com/AE-Paphos/4175/,AE-Paphos,0,2026-07-27
 AE Zakakiou,Cyprus,8425,https://www.soccer-rating.com/AE-Zakakiou/8425/,AE-Zakakiou,0,2026-07-27
 AEK Larnaca,Cyprus,2177,https://www.soccer-rating.com/AEK-Larnaca/2177/,AEK-Larnaca,0,2026-07-27
@@ -1040,57 +1042,29 @@ Omonia Nikosia,Cyprus,533,https://www.soccer-rating.com/Omonia-Nikosia/533/,Omon
 PAEEK,Cyprus,5985,https://www.soccer-rating.com/PAEEK/5985/,PAEEK,0,2026-07-27
 PO Achyronas / Onisilos,Cyprus,14692,https://www.soccer-rating.com/PO-Achyronas-Onisilos/14692/,PO-Achyronas-Onisilos,0,2026-07-27
 Spartakos Kitiou FC,Cyprus,18608,https://www.soccer-rating.com/Spartakos-Kitiou-FC/18608/,Spartakos-Kitiou-FC,0,2026-07-27
-Hradec Kralove U21,Unknown,w3184,https://www.soccer-rating.com/Hradec-Kralove-U21/w3184/,Hradec-Kralove-U21,1,2000-01-01
-1. FC Brno,Unknown,612,https://www.soccer-rating.com/1-FC-Brno/612/,1-FC-Brno,0,2000-01-01
-1. FC Slovacko,Unknown,1898,https://www.soccer-rating.com/1-FC-Slovacko/1898/,1-FC-Slovacko,0,2000-01-01
-1. FK Pribram,Unknown,1370,https://www.soccer-rating.com/1-FK-Pribram/1370/,1-FK-Pribram,0,2000-01-01
-1. FK Pribram II,Unknown,1961,https://www.soccer-rating.com/1-FK-Pribram-II/1961/,1-FK-Pribram-II,0,2000-01-01
-1.SK Prostejov,Unknown,8179,https://www.soccer-rating.com/1-SK-Prostejov/8179/,1-SK-Prostejov,0,2000-01-01
-Admira Praha,Unknown,5799,https://www.soccer-rating.com/Admira-Praha/5799/,Admira-Praha,0,2000-01-01
-Arsenal Ceska Lipa,Unknown,3818,https://www.soccer-rating.com/Arsenal-Ceska-Lipa/3818/,Arsenal-Ceska-Lipa,0,2000-01-01
-Banik Ostrava,Unknown,615,https://www.soccer-rating.com/Banik-Ostrava/615/,Banik-Ostrava,0,2000-01-01
-Banik Ostrava II,Unknown,3991,https://www.soccer-rating.com/Banik-Ostrava-II/3991/,Banik-Ostrava-II,0,2000-01-01
-Bohemians 1905,Unknown,614,https://www.soccer-rating.com/Bohemians-1905/614/,Bohemians-1905,0,2000-01-01
-Bohemians 1905 II,Unknown,14086,https://www.soccer-rating.com/Bohemians-1905-II/14086/,Bohemians-1905-II,0,2000-01-01
-Dynamo Ceske Budejovice II,Unknown,1813,https://www.soccer-rating.com/Dynamo-Ceske-Budejovice-II/1813/,Dynamo-Ceske-Budejovice-II,0,2000-01-01
-FC Hradec Kralove,Unknown,2014,https://www.soccer-rating.com/FC-Hradec-Kralove/2014/,FC-Hradec-Kralove,0,2000-01-01
-FC Pisek,Unknown,4136,https://www.soccer-rating.com/FC-Pisek/4136/,FC-Pisek,0,2000-01-01
-FC Viktoria Plzen II,Unknown,1815,https://www.soccer-rating.com/FC-Viktoria-Plzen-II/1815/,FC-Viktoria-Plzen-II,0,2000-01-01
-FC Vlasim,Unknown,1920,https://www.soccer-rating.com/FC-Vlasim/1920/,FC-Vlasim,0,2000-01-01
-FC Vysocina Jihlava,Unknown,1352,https://www.soccer-rating.com/FC-Vysocina-Jihlava/1352/,FC-Vysocina-Jihlava,0,2000-01-01
-FC Zlin,Unknown,613,https://www.soccer-rating.com/FC-Zlin/613/,FC-Zlin,0,2000-01-01
-FK Dukla Praha,Unknown,1366,https://www.soccer-rating.com/FK-Dukla-Praha/1366/,FK-Dukla-Praha,0,2000-01-01
-FK Dukla Praha II,Unknown,14069,https://www.soccer-rating.com/FK-Dukla-Praha-II/14069/,FK-Dukla-Praha-II,0,2000-01-01
-FK Jablonec 97,Unknown,618,https://www.soccer-rating.com/FK-Jablonec-97/618/,FK-Jablonec-97,0,2000-01-01
-FK Kraluv Dvur,Unknown,1363,https://www.soccer-rating.com/FK-Kraluv-Dvur/1363/,FK-Kraluv-Dvur,0,2000-01-01
-FK MAS Taborsko,Unknown,1918,https://www.soccer-rating.com/FK-MAS-Taborsko/1918/,FK-MAS-Taborsko,0,2000-01-01
-FK MAS Taborsko II,Unknown,10063,https://www.soccer-rating.com/FK-MAS-Taborsko-II/10063/,FK-MAS-Taborsko-II,0,2000-01-01
-FK Pardubice,Unknown,6578,https://www.soccer-rating.com/FK-Pardubice/6578/,FK-Pardubice,0,2000-01-01
-FK Slovan Liberec,Unknown,627,https://www.soccer-rating.com/FK-Slovan-Liberec/627/,FK-Slovan-Liberec,0,2000-01-01
-FK Teplice,Unknown,625,https://www.soccer-rating.com/FK-Teplice/625/,FK-Teplice,0,2000-01-01
-FK Viktoria Plzen,Unknown,623,https://www.soccer-rating.com/FK-Viktoria-Plzen/623/,FK-Viktoria-Plzen,0,2000-01-01
-Jiskra Domazlice,Unknown,1359,https://www.soccer-rating.com/Jiskra-Domazlice/1359/,Jiskra-Domazlice,0,2000-01-01
-Loko Vltavin,Unknown,5658,https://www.soccer-rating.com/Loko-Vltavin/5658/,Loko-Vltavin,0,2000-01-01
-MFK Karvina,Unknown,1361,https://www.soccer-rating.com/MFK-Karvina/1361/,MFK-Karvina,0,2000-01-01
-MFK Usti Nad Labem,Unknown,1372,https://www.soccer-rating.com/MFK-Usti-Nad-Labem/1372/,MFK-Usti-Nad-Labem,0,2000-01-01
-Mlada Boleslav,Unknown,620,https://www.soccer-rating.com/Mlada-Boleslav/620/,Mlada-Boleslav,0,2000-01-01
-Motorlet Praha,Unknown,5659,https://www.soccer-rating.com/Motorlet-Praha/5659/,Motorlet-Praha,0,2000-01-01
-SFC Opava,Unknown,1897,https://www.soccer-rating.com/SFC-Opava/1897/,SFC-Opava,0,2000-01-01
-SK Aritma Praha,Unknown,12301,https://www.soccer-rating.com/SK-Aritma-Praha/12301/,SK-Aritma-Praha,0,2000-01-01
-SK Artis Brno,Unknown,2782,https://www.soccer-rating.com/SK-Artis-Brno/2782/,SK-Artis-Brno,0,2000-01-01
-SK Hanacka Slavia Kromeriz,Unknown,2098,https://www.soccer-rating.com/SK-Hanacka-Slavia-Kromeriz/2098/,SK-Hanacka-Slavia-Kromeriz,0,2000-01-01
-SK Kladno,Unknown,624,https://www.soccer-rating.com/SK-Kladno/624/,SK-Kladno,0,2000-01-01
-SK Petrin Plzen,Unknown,12284,https://www.soccer-rating.com/SK-Petrin-Plzen/12284/,SK-Petrin-Plzen,0,2000-01-01
-SK Sigma Olomouc,Unknown,617,https://www.soccer-rating.com/SK-Sigma-Olomouc/617/,SK-Sigma-Olomouc,0,2000-01-01
-Slavia Praha,Unknown,619,https://www.soccer-rating.com/Slavia-Praha/619/,Slavia-Praha,0,2000-01-01
-Slavia Praha II,Unknown,1963,https://www.soccer-rating.com/Slavia-Praha-II/1963/,Slavia-Praha-II,0,2000-01-01
-Slavia Praha U20,Unknown,18903,https://www.soccer-rating.com/Slavia-Praha-U20/18903/,Slavia-Praha-U20,0,2000-01-01
-Sokol Hostoun,Unknown,13301,https://www.soccer-rating.com/Sokol-Hostoun/13301/,Sokol-Hostoun,0,2000-01-01
-Sparta Praha,Unknown,626,https://www.soccer-rating.com/Sparta-Praha/626/,Sparta-Praha,0,2000-01-01
-Viktoria Zizkov,Unknown,621,https://www.soccer-rating.com/Viktoria-Zizkov/621/,Viktoria-Zizkov,0,2000-01-01
-Zelezarny Trinec,Unknown,1354,https://www.soccer-rating.com/Zelezarny-Trinec/1354/,Zelezarny-Trinec,0,2000-01-01
-FK Krasnodar II,Unknown,8673,https://www.soccer-rating.com/FK-Krasnodar-II/8673/,FK-Krasnodar-II,1,2000-01-01
-Hilal Al Quds,Unknown,w4395,https://www.soccer-rating.com/Hilal-Al-Quds/w4395/,Hilal-Al-Quds,1,2000-01-01
+FAR Rabat,Czarni Sosnowiec W,w598,https://www.soccer-rating.com/FAR-Rabat/w598/,FAR-Rabat,0,2026-07-28
+1. FK Pribram,Czech Republic,1370,https://www.soccer-rating.com/1-FK-Pribram/1370/,1-FK-Pribram,0,2026-07-28
+1.SK Prostejov,Czech Republic,8179,https://www.soccer-rating.com/1-SK-Prostejov/8179/,1-SK-Prostejov,0,2026-07-28
+Arsenal Ceska Lipa,Czech Republic,3818,https://www.soccer-rating.com/Arsenal-Ceska-Lipa/3818/,Arsenal-Ceska-Lipa,0,2026-07-28
+Banik Ostrava II,Czech Republic,3991,https://www.soccer-rating.com/Banik-Ostrava-II/3991/,Banik-Ostrava-II,0,2026-07-28
+FC Vlasim,Czech Republic,1920,https://www.soccer-rating.com/FC-Vlasim/1920/,FC-Vlasim,0,2026-07-28
+FC Vysocina Jihlava,Czech Republic,1352,https://www.soccer-rating.com/FC-Vysocina-Jihlava/1352/,FC-Vysocina-Jihlava,0,2026-07-28
+FK Dukla Praha,Czech Republic,1366,https://www.soccer-rating.com/FK-Dukla-Praha/1366/,FK-Dukla-Praha,0,2026-07-28
+FK MAS Taborsko,Czech Republic,1918,https://www.soccer-rating.com/FK-MAS-Taborsko/1918/,FK-MAS-Taborsko,0,2026-07-28
+MFK Karvina,Czech Republic,1361,https://www.soccer-rating.com/MFK-Karvina/1361/,MFK-Karvina,0,2026-07-28
+MFK Usti Nad Labem,Czech Republic,1372,https://www.soccer-rating.com/MFK-Usti-Nad-Labem/1372/,MFK-Usti-Nad-Labem,0,2026-07-28
+SFC Opava,Czech Republic,1897,https://www.soccer-rating.com/SFC-Opava/1897/,SFC-Opava,0,2026-07-28
+SK Hanacka Slavia Kromeriz,Czech Republic,2098,https://www.soccer-rating.com/SK-Hanacka-Slavia-Kromeriz/2098/,SK-Hanacka-Slavia-Kromeriz,0,2026-07-28
+SK Kladno,Czech Republic,624,https://www.soccer-rating.com/SK-Kladno/624/,SK-Kladno,0,2026-07-28
+Slavia Praha II,Czech Republic,1963,https://www.soccer-rating.com/Slavia-Praha-II/1963/,Slavia-Praha-II,0,2026-07-28
+Viktoria Zizkov,Czech Republic,621,https://www.soccer-rating.com/Viktoria-Zizkov/621/,Viktoria-Zizkov,0,2026-07-28
+Zelezarny Trinec,Czech Republic,1354,https://www.soccer-rating.com/Zelezarny-Trinec/1354/,Zelezarny-Trinec,0,2026-07-28
+Banik Ostrava,Dac Dunajska Streda,615,https://www.soccer-rating.com/Banik-Ostrava/615/,Banik-Ostrava,0,2026-07-28
+FK Krasnodar II,Dagenham Redbridge,8673,https://www.soccer-rating.com/FK-Krasnodar-II/8673/,FK-Krasnodar-II,1,2026-07-28
+Hilal Al Quds,Damac Fc,w4395,https://www.soccer-rating.com/Hilal-Al-Quds/w4395/,Hilal-Al-Quds,1,2026-07-28
+CD Mictlan,Daring Club Motema Pembe,w1486,https://www.soccer-rating.com/CD-Mictlan/w1486/,CD-Mictlan,0,2026-07-28
+Bohemians 1905 II,Debrecen Vsc Ii,14086,https://www.soccer-rating.com/Bohemians-1905-II/14086/,Bohemians-1905-II,0,2026-07-28
+Atletico Ottawa,Delfines Del Este,w11389,https://www.soccer-rating.com/Atletico-Ottawa/w11389/,Atletico-Ottawa,0,2026-07-28
 AB Gladsaxe,Denmark,1728,https://www.soccer-rating.com/AB-Gladsaxe/1728/,AB-Gladsaxe,0,2026-07-27
 AC Horsens,Denmark,266,https://www.soccer-rating.com/AC-Horsens/266/,AC-Horsens,0,2026-07-27
 Aalborg BK,Denmark,642,https://www.soccer-rating.com/Aalborg-BK/642/,Aalborg-BK,0,2026-07-27
@@ -1139,9 +1113,17 @@ Vejgaard BK,Denmark,8773,https://www.soccer-rating.com/Vejgaard-BK/8773/,Vejgaar
 Vejle BK,Denmark,1735,https://www.soccer-rating.com/Vejle-BK/1735/,Vejle-BK,0,2026-07-27
 Vendsyssel FF,Denmark,1971,https://www.soccer-rating.com/Vendsyssel-FF/1971/,Vendsyssel-FF,0,2026-07-27
 Viborg FF,Denmark,272,https://www.soccer-rating.com/Viborg-FF/272/,Viborg-FF,0,2026-07-27
-Iris Club de Croix,Unknown,19094,https://www.soccer-rating.com/Iris-Club-de-Croix/19094/,Iris-Club-de-Croix,0,2000-01-01
-Paju Frontier FC,Unknown,w17881,https://www.soccer-rating.com/Paju-Frontier-FC/w17881/,Paju-Frontier-FC,0,2000-01-01
-Brann Bergen (W),Unknown,w14065,https://www.soccer-rating.com/Brann-Bergen-W/w14065/,Brann-Bergen-W,1,2000-01-01
+FC Supra du Quebec,Deportivo Gomerano,w17741,https://www.soccer-rating.com/FC-Supra-du-Quebec/w17741/,FC-Supra-du-Quebec,0,2026-07-28
+US Monastir,Deportivo Riestra,w624,https://www.soccer-rating.com/US-Monastir/w624/,US-Monastir,0,2026-07-28
+Iris Club de Croix,Dimona Sc,19094,https://www.soccer-rating.com/Iris-Club-de-Croix/19094/,Iris-Club-de-Croix,0,2026-07-28
+FK Teplice,Dinamo Minsk,625,https://www.soccer-rating.com/FK-Teplice/625/,FK-Teplice,0,2026-07-28
+Stellenbosch FC,Dinamo Minsk W,w1717,https://www.soccer-rating.com/Stellenbosch-FC/w1717/,Stellenbosch-FC,0,2026-07-28
+Golden Arrows,Dourados Ac,w233,https://www.soccer-rating.com/Golden-Arrows/w233/,Golden-Arrows,0,2026-07-28
+Paju Frontier FC,Dts 35 Ede W,w17881,https://www.soccer-rating.com/Paju-Frontier-FC/w17881/,Paju-Frontier-FC,0,2026-07-28
+Coban Imperial,Dynamo Samarkand,w4581,https://www.soccer-rating.com/Coban-Imperial/w4581/,Coban-Imperial,0,2026-07-28
+Brann Bergen (W),East Bengal Fc W,w14065,https://www.soccer-rating.com/Brann-Bergen-W/w14065/,Brann-Bergen-W,1,2026-07-28
+Union de Touarga,Ec Agua Santa,w7681,https://www.soccer-rating.com/Union-de-Touarga/w7681/,Union-de-Touarga,0,2026-07-28
+Magesi FC,Ec Rio Verde Go,w4970,https://www.soccer-rating.com/Magesi-FC/w4970/,Magesi-FC,0,2026-07-28
 22 de Julio,Ecuador,w16925,https://www.soccer-rating.com/22-de-Julio/w16925/,22-de-Julio,0,2026-07-27
 Atletico Rojiblanco,Ecuador,w17706,https://www.soccer-rating.com/Atletico-Rojiblanco/w17706/,Atletico-Rojiblanco,0,2026-07-27
 Barcelona SC,Ecuador,w609,https://www.soccer-rating.com/Barcelona-SC/w609/,Barcelona-SC,0,2026-07-27
@@ -1173,8 +1155,8 @@ San Antonio FC,Ecuador,w16083,https://www.soccer-rating.com/San-Antonio-FC/w1608
 Tecnico Universitario Ambato,Ecuador,w2608,https://www.soccer-rating.com/Tecnico-Universitario-Ambato/w2608/,Tecnico-Universitario-Ambato,0,2026-07-27
 Vargas Torres,Ecuador,w14440,https://www.soccer-rating.com/Vargas-Torres/w14440/,Vargas-Torres,0,2026-07-27
 Vinotinto FC,Ecuador,w15149,https://www.soccer-rating.com/Vinotinto-FC/w15149/,Vinotinto-FC,0,2026-07-27
-FC Dieppe,Unknown,8488,https://www.soccer-rating.com/FC-Dieppe/8488/,FC-Dieppe,0,2000-01-01
-FK Sileks Kratovo,Unknown,1795,https://www.soccer-rating.com/FK-Sileks-Kratovo/1795/,FK-Sileks-Kratovo,1,2000-01-01
+FC Dieppe,Edessaikos,8488,https://www.soccer-rating.com/FC-Dieppe/8488/,FC-Dieppe,0,2026-07-28
+FK Sileks Kratovo,Egersunds Ik,1795,https://www.soccer-rating.com/FK-Sileks-Kratovo/1795/,FK-Sileks-Kratovo,1,2026-07-28
 APR FC,Egypt,w5888,https://www.soccer-rating.com/APR-FC/w5888/,APR-FC,1,2026-07-27
 AS Arta/Solar7,Egypt,w10494,https://www.soccer-rating.com/AS-Arta-Solar7/w10494/,AS-Arta-Solar7,1,2026-07-27
 AS Otoho,Egypt,w7350,https://www.soccer-rating.com/AS-Otoho/w7350/,AS-Otoho,1,2026-07-27
@@ -1266,10 +1248,10 @@ Young Africans,Egypt,w4539,https://www.soccer-rating.com/Young-Africans/w4539/,Y
 ZED FC,Egypt,w5005,https://www.soccer-rating.com/ZED-FC/w5005/,ZED-FC,0,2026-07-27
 ZESCO United,Egypt,w2057,https://www.soccer-rating.com/ZESCO-United/w2057/,ZESCO-United,1,2026-07-27
 Zamalek,Egypt,w279,https://www.soccer-rating.com/Zamalek/w279/,Zamalek,0,2026-07-27
-CS Herediano,Unknown,w495,https://www.soccer-rating.com/CS-Herediano/w495/,CS-Herediano,0,2000-01-01
-Audax Italiano (W),Unknown,w16187,https://www.soccer-rating.com/Audax-Italiano-W/w16187/,Audax-Italiano-W,1,2000-01-01
-Club Leon (W),Unknown,w8176,https://www.soccer-rating.com/Club-Leon-W/w8176/,Club-Leon-W,1,2000-01-01
-Ilkeston Town FC,Unknown,3036,https://www.soccer-rating.com/Ilkeston-Town-FC/3036/,Ilkeston-Town-FC,1,2000-01-01
+CS Herediano,El Masry,w495,https://www.soccer-rating.com/CS-Herediano/w495/,CS-Herediano,0,2026-07-28
+Audax Italiano (W),El Raja Marsa Matruh,w16187,https://www.soccer-rating.com/Audax-Italiano-W/w16187/,Audax-Italiano-W,1,2026-07-28
+Club Leon (W),El Shams,w8176,https://www.soccer-rating.com/Club-Leon-W/w8176/,Club-Leon-W,1,2026-07-28
+Ilkeston Town FC,Energia Yuzhnoukrainsk,3036,https://www.soccer-rating.com/Ilkeston-Town-FC/3036/,Ilkeston-Town-FC,1,2026-07-28
 AFC Bournemouth,England,849,https://www.soccer-rating.com/AFC-Bournemouth/849/,AFC-Bournemouth,0,2026-07-27
 AFC Wimbledon,England,2157,https://www.soccer-rating.com/AFC-Wimbledon/2157/,AFC-Wimbledon,0,2026-07-27
 Accrington Stanley,England,883,https://www.soccer-rating.com/Accrington-Stanley/883/,Accrington-Stanley,0,2026-07-27
@@ -1389,7 +1371,7 @@ Wrexham FC,England,867,https://www.soccer-rating.com/Wrexham-FC/867/,Wrexham-FC,
 Wycombe Wanderers,England,882,https://www.soccer-rating.com/Wycombe-Wanderers/882/,Wycombe-Wanderers,0,2026-07-27
 Yeovil Town FC,England,843,https://www.soccer-rating.com/Yeovil-Town-FC/843/,Yeovil-Town-FC,0,2026-07-27
 York City,England,1160,https://www.soccer-rating.com/York-City/1160/,York-City,0,2026-07-27
-UDI'19,Unknown,17263,https://www.soccer-rating.com/UDI-19/17263/,UDI-19,1,2000-01-01
+UDI'19,Es La Rochelle,17263,https://www.soccer-rating.com/UDI-19/17263/,UDI-19,1,2026-07-28
 AS Varese,Estonia,2905,https://www.soccer-rating.com/AS-Varese/2905/,AS-Varese,1,2026-07-27
 Amasyaspor 1968 FK,Estonia,17308,https://www.soccer-rating.com/Amasyaspor-1968-FK/17308/,Amasyaspor-1968-FK,1,2026-07-27
 BSG Chemie Leipzig,Estonia,11203,https://www.soccer-rating.com/BSG-Chemie-Leipzig/11203/,BSG-Chemie-Leipzig,1,2026-07-27
@@ -1465,27 +1447,39 @@ Viimsi JK,Estonia,8636,https://www.soccer-rating.com/Viimsi-JK/8636/,Viimsi-JK,0
 Virtus AC 1964,Estonia,4824,https://www.soccer-rating.com/Virtus-AC-1964/4824/,Virtus-AC-1964,1,2026-07-27
 Xaghra United FC,Estonia,18261,https://www.soccer-rating.com/Xaghra-United-FC/18261/,Xaghra-United-FC,1,2026-07-27
 Zira IK,Estonia,9975,https://www.soccer-rating.com/Zira-IK/9975/,Zira-IK,1,2026-07-27
-Guiseley AFC,Unknown,2621,https://www.soccer-rating.com/Guiseley-AFC/2621/,Guiseley-AFC,1,2000-01-01
-Guadalupe FC,Unknown,w2323,https://www.soccer-rating.com/Guadalupe-FC/w2323/,Guadalupe-FC,0,2000-01-01
-Blois Football 41,Unknown,19098,https://www.soccer-rating.com/Blois-Football-41/19098/,Blois-Football-41,0,2000-01-01
-Sportlust 46,Unknown,9517,https://www.soccer-rating.com/Sportlust-46/9517/,Sportlust-46,0,2000-01-01
-Balagne Ile Rousse,Unknown,9073,https://www.soccer-rating.com/Balagne-Ile-Rousse/9073/,Balagne-Ile-Rousse,1,2000-01-01
-North Carolina FC,Unknown,w1131,https://www.soccer-rating.com/North-Carolina-FC/w1131/,North-Carolina-FC,0,2000-01-01
-TSV Grunwald,Unknown,17203,https://www.soccer-rating.com/TSV-Grunwald/17203/,TSV-Grunwald,1,2000-01-01
-Maceratese,Unknown,9664,https://www.soccer-rating.com/Maceratese/9664/,Maceratese,1,2000-01-01
-FC Zagon,Unknown,8303,https://www.soccer-rating.com/FC-Zagon/8303/,FC-Zagon,1,2000-01-01
-Saint-Denis FC,Unknown,16553,https://www.soccer-rating.com/Saint-Denis-FC/16553/,Saint-Denis-FC,1,2000-01-01
-Gornik Walbrzych,Unknown,6526,https://www.soccer-rating.com/Gornik-Walbrzych/6526/,Gornik-Walbrzych,1,2000-01-01
-Excelsior 31 Rijssen,Unknown,6832,https://www.soccer-rating.com/Excelsior-31-Rijssen/6832/,Excelsior-31-Rijssen,1,2000-01-01
-RKSV Halsteren,Unknown,19060,https://www.soccer-rating.com/RKSV-Halsteren/19060/,RKSV-Halsteren,0,2000-01-01
-Le Puy Foot 43 Auvergne W,Unknown,w15945,https://www.soccer-rating.com/Le-Puy-Foot-43-Auvergne-W/w15945/,Le-Puy-Foot-43-Auvergne-W,0,2000-01-01
-Tampines Rovers,Unknown,w588,https://www.soccer-rating.com/Tampines-Rovers/w588/,Tampines-Rovers,1,2000-01-01
-Club Silvio Pettirossi,Unknown,w15233,https://www.soccer-rating.com/Club-Silvio-Pettirossi/w15233/,Club-Silvio-Pettirossi,1,2000-01-01
-Horsham FC,Unknown,2692,https://www.soccer-rating.com/Horsham-FC/2692/,Horsham-FC,1,2000-01-01
-Needham Market,Unknown,2245,https://www.soccer-rating.com/Needham-Market/2245/,Needham-Market,1,2000-01-01
-Al Rayyan SC,Unknown,w271,https://www.soccer-rating.com/Al-Rayyan-SC/w271/,Al-Rayyan-SC,1,2000-01-01
-FC Istres,Unknown,1391,https://www.soccer-rating.com/FC-Istres/1391/,FC-Istres,0,2000-01-01
-Casa de Portugal,Unknown,w10363,https://www.soccer-rating.com/Casa-de-Portugal/w10363/,Casa-de-Portugal,1,2000-01-01
+Guiseley AFC,Fairview Rangers Afc,2621,https://www.soccer-rating.com/Guiseley-AFC/2621/,Guiseley-AFC,1,2026-07-28
+Guadalupe FC,Fauve Azur De Yaounde,w2323,https://www.soccer-rating.com/Guadalupe-FC/w2323/,Guadalupe-FC,0,2026-07-28
+Olympique Akbou,Fc Anyang,w9591,https://www.soccer-rating.com/Olympique-Akbou/w9591/,Olympique-Akbou,0,2026-07-28
+Balagne Ile Rousse,Fc Bassin D Arcachon,9073,https://www.soccer-rating.com/Balagne-Ile-Rousse/9073/,Balagne-Ile-Rousse,1,2026-07-28
+Chippa United,Fc Bendigo,w2815,https://www.soccer-rating.com/Chippa-United/w2815/,Chippa-United,0,2026-07-28
+North Carolina FC,Fc Berghuizen W,w1131,https://www.soccer-rating.com/North-Carolina-FC/w1131/,North-Carolina-FC,0,2026-07-28
+TSV Grunwald,Fc Beroche Gorgier,17203,https://www.soccer-rating.com/TSV-Grunwald/17203/,TSV-Grunwald,1,2026-07-28
+Al Kholood,Fc Copenhagen U19,w12351,https://www.soccer-rating.com/Al-Kholood/w12351/,Al-Kholood,0,2026-07-28
+Maceratese,Fc Dieppe,9664,https://www.soccer-rating.com/Maceratese/9664/,Maceratese,1,2026-07-28
+Pacific FC,Fc Fastav Zlin U21,w11365,https://www.soccer-rating.com/Pacific-FC/w11365/,Pacific-FC,0,2026-07-28
+FC Zagon,Fc Freyming,8303,https://www.soccer-rating.com/FC-Zagon/8303/,FC-Zagon,1,2026-07-28
+Blois Football 41,Fc Hauts Lyonnais,19098,https://www.soccer-rating.com/Blois-Football-41/19098/,Blois-Football-41,0,2026-07-28
+Saint-Denis FC,Fc Hennef 05,16553,https://www.soccer-rating.com/Saint-Denis-FC/16553/,Saint-Denis-FC,1,2026-07-28
+1. FC Slovacko,Fc Hradec Kralove,1898,https://www.soccer-rating.com/1-FC-Slovacko/1898/,1-FC-Slovacko,0,2026-07-28
+Gornik Walbrzych,Fc Istres,6526,https://www.soccer-rating.com/Gornik-Walbrzych/6526/,Gornik-Walbrzych,1,2026-07-28
+Excelsior 31 Rijssen,Fc Kempten,6832,https://www.soccer-rating.com/Excelsior-31-Rijssen/6832/,Excelsior-31-Rijssen,1,2026-07-28
+FK Vlasenica,Fc Kobrin,18886,https://www.soccer-rating.com/FK-Vlasenica/18886/,FK-Vlasenica,0,2026-07-28
+FK Igman Konjic,Fc Kuusankoski,13644,https://www.soccer-rating.com/FK-Igman-Konjic/13644/,FK-Igman-Konjic,0,2026-07-28
+Sportlust 46,Fc Linth 04,9517,https://www.soccer-rating.com/Sportlust-46/9517/,Sportlust-46,0,2026-07-28
+Incheon United,Fc Midtjylland U19,w860,https://www.soccer-rating.com/Incheon-United/w860/,Incheon-United,0,2026-07-28
+RKSV Halsteren,Fc Mondercange,19060,https://www.soccer-rating.com/RKSV-Halsteren/19060/,RKSV-Halsteren,0,2026-07-28
+Larne FC,Fc Porto Ii,1875,https://www.soccer-rating.com/Larne-FC/1875/,Larne-FC,0,2026-07-28
+Le Puy Foot 43 Auvergne W,Fc Santa Coloma U19,w15945,https://www.soccer-rating.com/Le-Puy-Foot-43-Auvergne-W/w15945/,Le-Puy-Foot-43-Auvergne-W,0,2026-07-28
+Tampines Rovers,Fc Schalke 04 U19,w588,https://www.soccer-rating.com/Tampines-Rovers/w588/,Tampines-Rovers,1,2026-07-28
+Carrick Rangers,Fc Syunik,4782,https://www.soccer-rating.com/Carrick-Rangers/4782/,Carrick-Rangers,0,2026-07-28
+Club Silvio Pettirossi,Fc Twente Heracles U21,w15233,https://www.soccer-rating.com/Club-Silvio-Pettirossi/w15233/,Club-Silvio-Pettirossi,1,2026-07-28
+FK Kraluv Dvur,Fc Ueberstorf,1363,https://www.soccer-rating.com/FK-Kraluv-Dvur/1363/,FK-Kraluv-Dvur,0,2026-07-28
+Horsham FC,Fc Voluntari Ii,2692,https://www.soccer-rating.com/Horsham-FC/2692/,Horsham-FC,1,2026-07-28
+Needham Market,Fc Zenit Tallinn,2245,https://www.soccer-rating.com/Needham-Market/2245/,Needham-Market,1,2026-07-28
+FK Zvijezda 09,Fc Zhlobin,12912,https://www.soccer-rating.com/FK-Zvijezda-09/12912/,FK-Zvijezda-09,0,2026-07-28
+Al Rayyan SC,Fenerbahce W,w271,https://www.soccer-rating.com/Al-Rayyan-SC/w271/,Al-Rayyan-SC,1,2026-07-28
+FC Istres,Ferencvaros Ii,1391,https://www.soccer-rating.com/FC-Istres/1391/,FC-Istres,0,2026-07-28
+Casa de Portugal,Ferroviario Do Huambo,w10363,https://www.soccer-rating.com/Casa-de-Portugal/w10363/,Casa-de-Portugal,1,2026-07-28
 AC Oulu,Finland,832,https://www.soccer-rating.com/AC-Oulu/832/,AC-Oulu,0,2026-07-27
 AEK Athens II,Finland,16483,https://www.soccer-rating.com/AEK-Athens-II/16483/,AEK-Athens-II,1,2026-07-27
 AFC Hermannstadt,Finland,12401,https://www.soccer-rating.com/AFC-Hermannstadt/12401/,AFC-Hermannstadt,1,2026-07-27
@@ -1557,16 +1551,20 @@ Union Plaani,Finland,19148,https://www.soccer-rating.com/Union-Plaani/19148/,Uni
 VJS Vantaa,Finland,13898,https://www.soccer-rating.com/VJS-Vantaa/13898/,VJS-Vantaa,0,2026-07-27
 VPS Vaasa,Finland,16,https://www.soccer-rating.com/VPS-Vaasa/16/,VPS-Vaasa,0,2026-07-27
 VPS Vaasa II,Finland,3511,https://www.soccer-rating.com/VPS-Vaasa-II/3511/,VPS-Vaasa-II,0,2026-07-27
-FC Honka (W),Unknown,w1575,https://www.soccer-rating.com/FC-Honka-W/w1575/,FC-Honka-W,1,2000-01-01
-OJC Rosmalen,Unknown,9433,https://www.soccer-rating.com/OJC-Rosmalen/9433/,OJC-Rosmalen,1,2000-01-01
-Leek Town,Unknown,3019,https://www.soccer-rating.com/Leek-Town/3019/,Leek-Town,1,2000-01-01
-Blyth Spartans,Unknown,2586,https://www.soccer-rating.com/Blyth-Spartans/2586/,Blyth-Spartans,1,2000-01-01
-Dagenham Redbridge,Unknown,881,https://www.soccer-rating.com/Dagenham-Redbridge/881/,Dagenham-Redbridge,0,2000-01-01
-Ashton United,Unknown,3035,https://www.soccer-rating.com/Ashton-United/3035/,Ashton-United,1,2000-01-01
-Taunton Town,Unknown,3073,https://www.soccer-rating.com/Taunton-Town/3073/,Taunton-Town,1,2000-01-01
-Ebbsfleet United,Unknown,1144,https://www.soccer-rating.com/Ebbsfleet-United/1144/,Ebbsfleet-United,1,2000-01-01
-Skedsmo FK,Unknown,4991,https://www.soccer-rating.com/Skedsmo-FK/4991/,Skedsmo-FK,1,2000-01-01
-RKVV DEM Beverwijk,Unknown,14621,https://www.soccer-rating.com/RKVV-DEM-Beverwijk/14621/,RKVV-DEM-Beverwijk,1,2000-01-01
+FC Honka (W),Finland Women,w1575,https://www.soccer-rating.com/FC-Honka-W/w1575/,FC-Honka-W,1,2026-07-28
+OJC Rosmalen,Fjordager,9433,https://www.soccer-rating.com/OJC-Rosmalen/9433/,OJC-Rosmalen,1,2026-07-28
+Leek Town,Fk Babrungas Plunge,3019,https://www.soccer-rating.com/Leek-Town/3019/,Leek-Town,1,2026-07-28
+Blyth Spartans,Fk Brezno,2586,https://www.soccer-rating.com/Blyth-Spartans/2586/,Blyth-Spartans,1,2026-07-28
+Dagenham Redbridge,Fk Limbazi,881,https://www.soccer-rating.com/Dagenham-Redbridge/881/,Dagenham-Redbridge,0,2026-07-28
+Ashton United,Fk Nove Zamky,3035,https://www.soccer-rating.com/Ashton-United/3035/,Ashton-United,1,2026-07-28
+Taunton Town,Fk Partizan Bumbarevo Brdo,3073,https://www.soccer-rating.com/Taunton-Town/3073/,Taunton-Town,1,2026-07-28
+FK Rudar Prijedor,Fk Pelister Bitola,5498,https://www.soccer-rating.com/FK-Rudar-Prijedor/5498/,FK-Rudar-Prijedor,0,2026-07-28
+Ebbsfleet United,Fk Sileks Kratovo,1144,https://www.soccer-rating.com/Ebbsfleet-United/1144/,Ebbsfleet-United,1,2026-07-28
+Skedsmo FK,Fk Sloboda Uzice,4991,https://www.soccer-rating.com/Skedsmo-FK/4991/,Skedsmo-FK,1,2026-07-28
+Radnik Bijeljina,Fk Suduva Marijampole,4780,https://www.soccer-rating.com/Radnik-Bijeljina/4780/,Radnik-Bijeljina,0,2026-07-28
+RKVV DEM Beverwijk,Fk Viktoria Zizkov Ii,14621,https://www.soccer-rating.com/RKVV-DEM-Beverwijk/14621/,RKVV-DEM-Beverwijk,1,2026-07-28
+GOSK Gabela,Flekkefjord,7306,https://www.soccer-rating.com/GOSK-Gabela/7306/,GOSK-Gabela,0,2026-07-28
+Al Riyadh SC,Flugoiania U20,w1849,https://www.soccer-rating.com/Al-Riyadh-SC/w1849/,Al-Riyadh-SC,0,2026-07-28
 AC Ajaccio,France,891,https://www.soccer-rating.com/AC-Ajaccio/891/,AC-Ajaccio,0,2026-07-27
 AC Troyes,France,884,https://www.soccer-rating.com/AC-Troyes/884/,AC-Troyes,0,2026-07-27
 AJ Auxerre,France,254,https://www.soccer-rating.com/AJ-Auxerre/254/,AJ-Auxerre,0,2026-07-27
@@ -1667,12 +1665,15 @@ VF Les Herbiers,France,4836,https://www.soccer-rating.com/VF-Les-Herbiers/4836/,
 Valenciennes FC,France,263,https://www.soccer-rating.com/Valenciennes-FC/263/,Valenciennes-FC,0,2026-07-27
 Vendee Fontenay,France,19102,https://www.soccer-rating.com/Vendee-Fontenay/19102/,Vendee-Fontenay,1,2026-07-27
 Versailles 78 FC,France,6103,https://www.soccer-rating.com/Versailles-78-FC/6103/,Versailles-78-FC,0,2026-07-27
-Monterrey (W),Unknown,w8125,https://www.soccer-rating.com/Monterrey-W/w8125/,Monterrey-W,1,2000-01-01
-Ossett United FC,Unknown,18454,https://www.soccer-rating.com/Ossett-United-FC/18454/,Ossett-United-FC,1,2000-01-01
-Dover Athletic,Unknown,2695,https://www.soccer-rating.com/Dover-Athletic/2695/,Dover-Athletic,1,2000-01-01
-Sutjeska Niksic,Unknown,1889,https://www.soccer-rating.com/Sutjeska-Niksic/1889/,Sutjeska-Niksic,1,2000-01-01
-Nk Kamnik,Unknown,8148,https://www.soccer-rating.com/Nk-Kamnik/8148/,Nk-Kamnik,1,2000-01-01
-VPV Purmersteijn,Unknown,17800,https://www.soccer-rating.com/VPV-Purmersteijn/17800/,VPV-Purmersteijn,1,2000-01-01
+Monterrey (W),Free State Stars,w8125,https://www.soccer-rating.com/Monterrey-W/w8125/,Monterrey-W,1,2026-07-28
+Ossett United FC,Frem Ii,18454,https://www.soccer-rating.com/Ossett-United-FC/18454/,Ossett-United-FC,1,2026-07-28
+Dover Athletic,Funnefoss Vormsund,2695,https://www.soccer-rating.com/Dover-Athletic/2695/,Dover-Athletic,1,2026-07-28
+Crusaders FC,Fv Dudenhofen,1871,https://www.soccer-rating.com/Crusaders-FC/1871/,Crusaders-FC,0,2026-07-28
+Sutjeska Niksic,Fylkir Reykjavik,1889,https://www.soccer-rating.com/Sutjeska-Niksic/1889/,Sutjeska-Niksic,1,2026-07-28
+Nk Kamnik,Gainsborough Trinity,8148,https://www.soccer-rating.com/Nk-Kamnik/8148/,Nk-Kamnik,1,2026-07-28
+Daejeon Citizen,Gala Fc,w856,https://www.soccer-rating.com/Daejeon-Citizen/w856/,Daejeon-Citizen,0,2026-07-28
+CD Motagua,Garudayaksa Fc,w807,https://www.soccer-rating.com/CD-Motagua/w807/,CD-Motagua,0,2026-07-28
+VPV Purmersteijn,Gelbison Cilento,17800,https://www.soccer-rating.com/VPV-Purmersteijn/17800/,VPV-Purmersteijn,1,2026-07-28
 1. CfR Pforzheim,Germany,10032,https://www.soccer-rating.com/1-CfR-Pforzheim/10032/,1-CfR-Pforzheim,1,2026-07-27
 1. FC Bocholt,Germany,9330,https://www.soccer-rating.com/1-FC-Bocholt/9330/,1-FC-Bocholt,1,2026-07-27
 1. FC Düren,Germany,13476,https://www.soccer-rating.com/1-FC-Dueren/13476/,1-FC-Dueren,1,2026-07-27
@@ -1859,10 +1860,11 @@ Werder Bremen II,Germany,778,https://www.soccer-rating.com/Werder-Bremen-II/778/
 Wuppertaler SV,Germany,747,https://www.soccer-rating.com/Wuppertaler-SV/747/,Wuppertaler-SV,1,2026-07-27
 Würzburger Kickers,Germany,3808,https://www.soccer-rating.com/Wuerzburger-Kickers/3808/,Wuerzburger-Kickers,0,2026-07-27
 ZFC Meuselwitz,Germany,1983,https://www.soccer-rating.com/ZFC-Meuselwitz/1983/,ZFC-Meuselwitz,1,2026-07-27
-Fortuna Hjörring (W),Unknown,w2334,https://www.soccer-rating.com/Fortuna-Hjoerring-W/w2334/,Fortuna-Hjoerring-W,1,2000-01-01
-Tikves Kavadarci,Unknown,7152,https://www.soccer-rating.com/Tikves-Kavadarci/7152/,Tikves-Kavadarci,1,2000-01-01
-Universidad de Chile (W),Unknown,w10646,https://www.soccer-rating.com/Universidad-de-Chile-W/w10646/,Universidad-de-Chile-W,1,2000-01-01
-Araz Nakhchivan PFK,Unknown,17745,https://www.soccer-rating.com/Araz-Nakhchivan-PFK/17745/,Araz-Nakhchivan-PFK,1,2000-01-01
+Zeljeznicar Sarajevo,Gillingham Fc,1171,https://www.soccer-rating.com/Zeljeznicar-Sarajevo/1171/,Zeljeznicar-Sarajevo,0,2026-07-28
+Fortuna Hjörring (W),Gimnasia Y Esgrima La Plata W,w2334,https://www.soccer-rating.com/Fortuna-Hjoerring-W/w2334/,Fortuna-Hjoerring-W,1,2026-07-28
+Tikves Kavadarci,Gloucester City,7152,https://www.soccer-rating.com/Tikves-Kavadarci/7152/,Tikves-Kavadarci,1,2026-07-28
+Universidad de Chile (W),Gor Mahia,w10646,https://www.soccer-rating.com/Universidad-de-Chile-W/w10646/,Universidad-de-Chile-W,1,2026-07-28
+Araz Nakhchivan PFK,Gornik Wieliczka,17745,https://www.soccer-rating.com/Araz-Nakhchivan-PFK/17745/,Araz-Nakhchivan-PFK,1,2026-07-28
 AE Kifisia FC,Greece,16472,https://www.soccer-rating.com/AE-Kifisia-FC/16472/,AE-Kifisia-FC,0,2026-07-27
 AE Larisa,Greece,276,https://www.soccer-rating.com/AE-Larisa/276/,AE-Larisa,0,2026-07-27
 AEK Athens,Greece,288,https://www.soccer-rating.com/AEK-Athens/288/,AEK-Athens,0,2026-07-27
@@ -1892,34 +1894,22 @@ Panathinaikos,Greece,283,https://www.soccer-rating.com/Panathinaikos/283/,Panath
 Panionios,Greece,274,https://www.soccer-rating.com/Panionios/274/,Panionios,0,2026-07-27
 Panseraikos,Greece,2431,https://www.soccer-rating.com/Panseraikos/2431/,Panseraikos,0,2026-07-27
 Volos NFC,Greece,13687,https://www.soccer-rating.com/Volos-NFC/13687/,Volos-NFC,0,2026-07-27
-Bath City,Unknown,2643,https://www.soccer-rating.com/Bath-City/2643/,Bath-City,1,2000-01-01
-Bedford Town FC,Unknown,2227,https://www.soccer-rating.com/Bedford-Town-FC/2227/,Bedford-Town-FC,1,2000-01-01
-NK MV Croatia Slavonski Brod,Unknown,5957,https://www.soccer-rating.com/NK-MV-Croatia-Slavonski-Brod/5957/,NK-MV-Croatia-Slavonski-Brod,1,2000-01-01
-Antigua GFC,Unknown,w4024,https://www.soccer-rating.com/Antigua-GFC/w4024/,Antigua-GFC,0,2000-01-01
-Aurora FC,Unknown,w8642,https://www.soccer-rating.com/Aurora-FC/w8642/,Aurora-FC,0,2000-01-01
-CD Malacateco,Unknown,w1485,https://www.soccer-rating.com/CD-Malacateco/w1485/,CD-Malacateco,0,2000-01-01
-CD Marquense,Unknown,w432,https://www.soccer-rating.com/CD-Marquense/w432/,CD-Marquense,0,2000-01-01
-CD Mictlan,Unknown,w1486,https://www.soccer-rating.com/CD-Mictlan/w1486/,CD-Mictlan,0,2000-01-01
-CSD Municipal,Unknown,w433,https://www.soccer-rating.com/CSD-Municipal/w433/,CSD-Municipal,0,2000-01-01
-Coban Imperial,Unknown,w4581,https://www.soccer-rating.com/Coban-Imperial/w4581/,Coban-Imperial,0,2000-01-01
-Comunicaciones,Unknown,w429,https://www.soccer-rating.com/Comunicaciones/w429/,Comunicaciones,0,2000-01-01
-Deportivo Achuapa,Unknown,w8618,https://www.soccer-rating.com/Deportivo-Achuapa/w8618/,Deportivo-Achuapa,0,2000-01-01
-Deportivo Mixco,Unknown,w5685,https://www.soccer-rating.com/Deportivo-Mixco/w5685/,Deportivo-Mixco,0,2000-01-01
-Guastatoya,Unknown,w4023,https://www.soccer-rating.com/Guastatoya/w4023/,Guastatoya,0,2000-01-01
-Nueva Santa Rosa CDF,Unknown,w17197,https://www.soccer-rating.com/Nueva-Santa-Rosa-CDF/w17197/,Nueva-Santa-Rosa-CDF,1,2000-01-01
-Xelaju MC,Unknown,w435,https://www.soccer-rating.com/Xelaju-MC/w435/,Xelaju-MC,0,2000-01-01
-Rushall Olympic FC,Unknown,2624,https://www.soccer-rating.com/Rushall-Olympic-FC/2624/,Rushall-Olympic-FC,1,2000-01-01
-KF Feronikeli,Unknown,13979,https://www.soccer-rating.com/KF-Feronikeli/13979/,KF-Feronikeli,1,2000-01-01
-Cobresal (W),Unknown,w16195,https://www.soccer-rating.com/Cobresal-W/w16195/,Cobresal-W,1,2000-01-01
-Gainsborough Trinity,Unknown,2670,https://www.soccer-rating.com/Gainsborough-Trinity/2670/,Gainsborough-Trinity,1,2000-01-01
-Brera Strumica,Unknown,11731,https://www.soccer-rating.com/Brera-Strumica/11731/,Brera-Strumica,1,2000-01-01
-Kidderminster Harriers,Unknown,1150,https://www.soccer-rating.com/Kidderminster-Harriers/1150/,Kidderminster-Harriers,1,2000-01-01
-CD Marathon,Unknown,w806,https://www.soccer-rating.com/CD-Marathon/w806/,CD-Marathon,0,2000-01-01
-CD Motagua,Unknown,w807,https://www.soccer-rating.com/CD-Motagua/w807/,CD-Motagua,0,2000-01-01
-Genesis Huracan,Unknown,w12283,https://www.soccer-rating.com/Genesis-Huracan/w12283/,Genesis-Huracan,0,2000-01-01
-Olancho FC,Unknown,w14438,https://www.soccer-rating.com/Olancho-FC/w14438/,Olancho-FC,0,2000-01-01
-Olimpia Tegucigalpa,Unknown,w759,https://www.soccer-rating.com/Olimpia-Tegucigalpa/w759/,Olimpia-Tegucigalpa,0,2000-01-01
-Real Espana,Unknown,w761,https://www.soccer-rating.com/Real-Espana/w761/,Real-Espana,0,2000-01-01
+Gwangju FC,Green Shield,w861,https://www.soccer-rating.com/Gwangju-FC/w861/,Gwangju-FC,0,2026-07-28
+Bath City,Greenwich Borough,2643,https://www.soccer-rating.com/Bath-City/2643/,Bath-City,1,2026-07-28
+Bedford Town FC,Grijo,2227,https://www.soccer-rating.com/Bedford-Town-FC/2227/,Bedford-Town-FC,1,2026-07-28
+NK MV Croatia Slavonski Brod,Gsi Pontivy,5957,https://www.soccer-rating.com/NK-MV-Croatia-Slavonski-Brod/5957/,NK-MV-Croatia-Slavonski-Brod,1,2026-07-28
+Jeonbuk Motors,Guadalajara Chivas,w224,https://www.soccer-rating.com/Jeonbuk-Motors/w224/,Jeonbuk-Motors,0,2026-07-28
+Nueva Santa Rosa CDF,Guatemala,w17197,https://www.soccer-rating.com/Nueva-Santa-Rosa-CDF/w17197/,Nueva-Santa-Rosa-CDF,1,2026-07-28
+Rushall Olympic FC,Hacettepe 1945 Sk,2624,https://www.soccer-rating.com/Rushall-Olympic-FC/2624/,Rushall-Olympic-FC,1,2026-07-28
+FC Viktoria Plzen II,Halesowen Town,1815,https://www.soccer-rating.com/FC-Viktoria-Plzen-II/1815/,FC-Viktoria-Plzen-II,0,2026-07-28
+KF Feronikeli,Hallescher Fc Ii,13979,https://www.soccer-rating.com/KF-Feronikeli/13979/,KF-Feronikeli,1,2026-07-28
+Cobresal (W),Hamar Hveragera W,w16195,https://www.soccer-rating.com/Cobresal-W/w16195/,Cobresal-W,1,2026-07-28
+Gainsborough Trinity,Hapoel Nof Hagalil,2670,https://www.soccer-rating.com/Gainsborough-Trinity/2670/,Gainsborough-Trinity,1,2026-07-28
+Brera Strumica,Hapoel Oranit Irony,11731,https://www.soccer-rating.com/Brera-Strumica/11731/,Brera-Strumica,1,2026-07-28
+Kidderminster Harriers,Harrogate Town,1150,https://www.soccer-rating.com/Kidderminster-Harriers/1150/,Kidderminster-Harriers,1,2026-07-28
+FC Zlin,Hb Koege,613,https://www.soccer-rating.com/FC-Zlin/613/,FC-Zlin,0,2026-07-28
+SK Sigma Olomouc,Hjk Helsinki,617,https://www.soccer-rating.com/SK-Sigma-Olomouc/617/,SK-Sigma-Olomouc,0,2026-07-28
+AS Slimane,Hnk Hajduk Split U19,w7103,https://www.soccer-rating.com/AS-Slimane/w7103/,AS-Slimane,0,2026-07-28
 AS Figline,Hungary,4354,https://www.soccer-rating.com/AS-Figline/4354/,AS-Figline,1,2026-07-27
 Agen SU,Hungary,6122,https://www.soccer-rating.com/Agen-SU/6122/,Agen-SU,1,2026-07-27
 Alashkert FC,Hungary,8459,https://www.soccer-rating.com/Alashkert-FC/8459/,Alashkert-FC,1,2026-07-27
@@ -2053,13 +2043,16 @@ Vikingur Olafsvik,Iceland,448,https://www.soccer-rating.com/Vikingur-Olafsvik/44
 Vikingur Reykjavik,Iceland,672,https://www.soccer-rating.com/Vikingur-Reykjavik/672/,Vikingur-Reykjavik,0,2026-07-27
 Völsungur Husavik,Iceland,7222,https://www.soccer-rating.com/Voelsungur-Husavik/7222/,Voelsungur-Husavik,0,2026-07-27
 Ymir Kopavogur,Iceland,8621,https://www.soccer-rating.com/Ymir-Kopavogur/8621/,Ymir-Kopavogur,0,2026-07-27
-Cleethorpes Town,Unknown,9565,https://www.soccer-rating.com/Cleethorpes-Town/9565/,Cleethorpes-Town,1,2000-01-01
-FCSR Haguenau,Unknown,4828,https://www.soccer-rating.com/FCSR-Haguenau/4828/,FCSR-Haguenau,0,2000-01-01
-AD San Carlos,Unknown,w498,https://www.soccer-rating.com/AD-San-Carlos/w498/,AD-San-Carlos,0,2000-01-01
-Petone FC,Unknown,w15691,https://www.soccer-rating.com/Petone-FC/w15691/,Petone-FC,1,2000-01-01
-Hednesford Town,Unknown,2276,https://www.soccer-rating.com/Hednesford-Town/2276/,Hednesford-Town,1,2000-01-01
-Nassaji Mazandaran,Unknown,w1923,https://www.soccer-rating.com/Nassaji-Mazandaran/w1923/,Nassaji-Mazandaran,1,2000-01-01
-CD Guadalajara (W),Unknown,w8124,https://www.soccer-rating.com/CD-Guadalajara-W/w8124/,CD-Guadalajara-W,1,2000-01-01
+Cleethorpes Town,Ifk Stocksund,9565,https://www.soccer-rating.com/Cleethorpes-Town/9565/,Cleethorpes-Town,1,2026-07-28
+Portadown FC,Ik Franke,1879,https://www.soccer-rating.com/Portadown-FC/1879/,Portadown-FC,0,2026-07-28
+FCSR Haguenau,Ilves Tampere Ii,4828,https://www.soccer-rating.com/FCSR-Haguenau/4828/,FCSR-Haguenau,0,2026-07-28
+AD San Carlos,Independente Fsj,w498,https://www.soccer-rating.com/AD-San-Carlos/w498/,AD-San-Carlos,0,2026-07-28
+RSB Berkane,Independiente Jose Teran,w2499,https://www.soccer-rating.com/RSB-Berkane/w2499/,RSB-Berkane,0,2026-07-28
+Petone FC,Inter Allies,w15691,https://www.soccer-rating.com/Petone-FC/w15691/,Petone-FC,1,2026-07-28
+Hednesford Town,Inter D Escaldes,2276,https://www.soccer-rating.com/Hednesford-Town/2276/,Hednesford-Town,1,2026-07-28
+Club Africain,Inter Miami Cf,w616,https://www.soccer-rating.com/Club-Africain/w616/,Club-Africain,0,2026-07-28
+Nassaji Mazandaran,Iran,w1923,https://www.soccer-rating.com/Nassaji-Mazandaran/w1923/,Nassaji-Mazandaran,1,2026-07-28
+CD Guadalajara (W),Irb Maghnia,w8124,https://www.soccer-rating.com/CD-Guadalajara-W/w8124/,CD-Guadalajara-W,1,2026-07-28
 Athlone Town,Ireland,174,https://www.soccer-rating.com/Athlone-Town/174/,Athlone-Town,0,2026-07-27
 Bohemians Dublin,Ireland,50,https://www.soccer-rating.com/Bohemians-Dublin/50/,Bohemians-Dublin,0,2026-07-27
 Bray Wanderers,Ireland,53,https://www.soccer-rating.com/Bray-Wanderers/53/,Bray-Wanderers,0,2026-07-27
@@ -2080,7 +2073,7 @@ Treaty United FC,Ireland,171,https://www.soccer-rating.com/Treaty-United-FC/171/
 UCD Dublin,Ireland,562,https://www.soccer-rating.com/UCD-Dublin/562/,UCD-Dublin,0,2026-07-27
 Waterford United,Ireland,54,https://www.soccer-rating.com/Waterford-United/54/,Waterford-United,0,2026-07-27
 Wexford Youths,Ireland,177,https://www.soccer-rating.com/Wexford-Youths/177/,Wexford-Youths,0,2026-07-27
-TSV Grunbach,Unknown,8045,https://www.soccer-rating.com/TSV-Grunbach/8045/,TSV-Grunbach,1,2000-01-01
+TSV Grunbach,Iris Club De Croix,8045,https://www.soccer-rating.com/TSV-Grunbach/8045/,TSV-Grunbach,1,2026-07-28
 Beitar Jerusalem,Israel,1292,https://www.soccer-rating.com/Beitar-Jerusalem/1292/,Beitar-Jerusalem,0,2026-07-27
 Bnei Yehuda,Israel,2070,https://www.soccer-rating.com/Bnei-Yehuda/2070/,Bnei-Yehuda,0,2026-07-27
 FC Ashdod,Israel,2073,https://www.soccer-rating.com/FC-Ashdod/2073/,FC-Ashdod,0,2026-07-27
@@ -2111,6 +2104,7 @@ Maccabi Jaffa,Israel,6134,https://www.soccer-rating.com/Maccabi-Jaffa/6134/,Macc
 Maccabi Netanya,Israel,1766,https://www.soccer-rating.com/Maccabi-Netanya/1766/,Maccabi-Netanya,0,2026-07-27
 Maccabi Petah Tikva,Israel,2071,https://www.soccer-rating.com/Maccabi-Petah-Tikva/2071/,Maccabi-Petah-Tikva,0,2026-07-27
 Maccabi Tel Aviv,Israel,527,https://www.soccer-rating.com/Maccabi-Tel-Aviv/527/,Maccabi-Tel-Aviv,0,2026-07-27
+Real Espana,Itabuna Ec,w761,https://www.soccer-rating.com/Real-Espana/w761/,Real-Espana,0,2026-07-28
 AC Arezzo,Italy,2751,https://www.soccer-rating.com/AC-Arezzo/2751/,AC-Arezzo,0,2026-07-27
 AC Bra,Italy,8830,https://www.soccer-rating.com/AC-Bra/8830/,AC-Bra,0,2026-07-27
 AC Carpi,Italy,6720,https://www.soccer-rating.com/AC-Carpi/6720/,AC-Carpi,0,2026-07-27
@@ -2210,7 +2204,8 @@ Vicenza Virtus,Italy,1530,https://www.soccer-rating.com/Vicenza-Virtus/1530/,Vic
 Virtus Entella,Italy,6718,https://www.soccer-rating.com/Virtus-Entella/6718/,Virtus-Entella,0,2026-07-27
 Virtus Verona,Italy,8831,https://www.soccer-rating.com/Virtus-Verona/8831/,Virtus-Verona,0,2026-07-27
 Vis Pesaro 1898,Italy,9675,https://www.soccer-rating.com/Vis-Pesaro-1898/9675/,Vis-Pesaro-1898,0,2026-07-27
-Pachuca (W),Unknown,w8165,https://www.soccer-rating.com/Pachuca-W/w8165/,Pachuca-W,1,2000-01-01
+Pachuca (W),Ittihad Al Ramtha,w8165,https://www.soccer-rating.com/Pachuca-W/w8165/,Pachuca-W,1,2026-07-28
+HFX Wanderers FC,Jamono Fatick,w11366,https://www.soccer-rating.com/HFX-Wanderers-FC/w11366/,HFX-Wanderers-FC,0,2026-07-28
 AC Nagano Parceiro,Japan,w2031,https://www.soccer-rating.com/AC-Nagano-Parceiro/w2031/,AC-Nagano-Parceiro,0,2026-07-27
 AC Sparta Praha (W),Japan,w5709,https://www.soccer-rating.com/AC-Sparta-Praha-W/w5709/,AC-Sparta-Praha-W,1,2026-07-27
 ATK Mohun Bagan,Japan,w393,https://www.soccer-rating.com/ATK-Mohun-Bagan/w393/,ATK-Mohun-Bagan,1,2026-07-27
@@ -2311,49 +2306,67 @@ Yokohama F. Marinos,Japan,w61,https://www.soccer-rating.com/Yokohama-F-Marinos/w
 Yokohama FC,Japan,w64,https://www.soccer-rating.com/Yokohama-FC/w64/,Yokohama-FC,0,2026-07-27
 Yokohama SCC,Japan,w2696,https://www.soccer-rating.com/Yokohama-SCC/w2696/,Yokohama-SCC,1,2026-07-27
 Zweigen Kanazawa,Japan,w1472,https://www.soccer-rating.com/Zweigen-Kanazawa/w1472/,Zweigen-Kanazawa,0,2026-07-27
-AS Harima Albion (W),Unknown,w6720,https://www.soccer-rating.com/AS-Harima-Albion-W/w6720/,AS-Harima-Albion-W,1,2000-01-01
-Odense BK (W),Unknown,w2330,https://www.soccer-rating.com/Odense-BK-W/w2330/,Odense-BK-W,1,2000-01-01
-Cammell Laird,Unknown,3092,https://www.soccer-rating.com/Cammell-Laird/3092/,Cammell-Laird,1,2000-01-01
-Leiston FC,Unknown,4479,https://www.soccer-rating.com/Leiston-FC/4479/,Leiston-FC,1,2000-01-01
-Warrington Rylands FC,Unknown,16291,https://www.soccer-rating.com/Warrington-Rylands-FC/16291/,Warrington-Rylands-FC,1,2000-01-01
-FC Metz (W),Unknown,w6194,https://www.soccer-rating.com/FC-Metz-W/w6194/,FC-Metz-W,1,2000-01-01
-Maidenhead United,Unknown,2596,https://www.soccer-rating.com/Maidenhead-United/2596/,Maidenhead-United,1,2000-01-01
-Us Chauvigny,Unknown,6976,https://www.soccer-rating.com/Us-Chauvigny/6976/,Us-Chauvigny,0,2000-01-01
-AFC Hornchurch,Unknown,2689,https://www.soccer-rating.com/AFC-Hornchurch/2689/,AFC-Hornchurch,1,2000-01-01
-AFC Totton,Unknown,2221,https://www.soccer-rating.com/AFC-Totton/2221/,AFC-Totton,1,2000-01-01
-Ohud Medina,Unknown,w2491,https://www.soccer-rating.com/Ohud-Medina/w2491/,Ohud-Medina,1,2000-01-01
-Al Taraji,Unknown,w15466,https://www.soccer-rating.com/Al-Taraji/w15466/,Al-Taraji,1,2000-01-01
-New Star de Douala,Unknown,w2746,https://www.soccer-rating.com/New-Star-de-Douala/w2746/,New-Star-de-Douala,1,2000-01-01
-Deportes Recoleta (W),Unknown,w16890,https://www.soccer-rating.com/Deportes-Recoleta-W/w16890/,Deportes-Recoleta-W,1,2000-01-01
-Deportivo Rayo Zuliano,Unknown,w11667,https://www.soccer-rating.com/Deportivo-Rayo-Zuliano/w11667/,Deportivo-Rayo-Zuliano,0,2000-01-01
-KF Shkupi Skopje,Unknown,9577,https://www.soccer-rating.com/KF-Shkupi-Skopje/9577/,KF-Shkupi-Skopje,1,2000-01-01
-College Europa FC,Unknown,9220,https://www.soccer-rating.com/College-Europa-FC/9220/,College-Europa-FC,1,2000-01-01
-Deportivo Toluca (W),Unknown,w8163,https://www.soccer-rating.com/Deportivo-Toluca-W/w8163/,Deportivo-Toluca-W,1,2000-01-01
-Maccabi Daliyat Karmel,Unknown,12772,https://www.soccer-rating.com/Maccabi-Daliyat-Karmel/12772/,Maccabi-Daliyat-Karmel,1,2000-01-01
-Club Tijuana (W),Unknown,w8126,https://www.soccer-rating.com/Club-Tijuana-W/w8126/,Club-Tijuana-W,1,2000-01-01
-Olympique du Kef,Unknown,w3225,https://www.soccer-rating.com/Olympique-du-Kef/w3225/,Olympique-du-Kef,1,2000-01-01
-AFC Fylde,Unknown,5585,https://www.soccer-rating.com/AFC-Fylde/5585/,AFC-Fylde,1,2000-01-01
-Cashmere Technical,Unknown,w4544,https://www.soccer-rating.com/Cashmere-Technical/w4544/,Cashmere-Technical,1,2000-01-01
-April 25,Unknown,w6350,https://www.soccer-rating.com/April-25/w6350/,April-25,1,2000-01-01
-FK Limbazi,Unknown,17687,https://www.soccer-rating.com/FK-Limbazi/17687/,FK-Limbazi,1,2000-01-01
-FK Arsimi 1973,Unknown,18079,https://www.soccer-rating.com/FK-Arsimi-1973/18079/,FK-Arsimi-1973,1,2000-01-01
-Nasaf Qarshi,Unknown,w903,https://www.soccer-rating.com/Nasaf-Qarshi/w903/,Nasaf-Qarshi,1,2000-01-01
-Morpeth Town,Unknown,5880,https://www.soccer-rating.com/Morpeth-Town/5880/,Morpeth-Town,1,2000-01-01
-Chesham United,Unknown,2602,https://www.soccer-rating.com/Chesham-United/2602/,Chesham-United,1,2000-01-01
-Stade Pontivy,Unknown,13854,https://www.soccer-rating.com/Stade-Pontivy/13854/,Stade-Pontivy,0,2000-01-01
-Aveley FC,Unknown,2263,https://www.soccer-rating.com/Aveley-FC/2263/,Aveley-FC,1,2000-01-01
-Dynamo Ceske Budejovice,Unknown,616,https://www.soccer-rating.com/Dynamo-Ceske-Budejovice/616/,Dynamo-Ceske-Budejovice,0,2000-01-01
-Al Garrafa,Unknown,w205,https://www.soccer-rating.com/Al-Garrafa/w205/,Al-Garrafa,1,2000-01-01
-Balzan Youths,Unknown,7420,https://www.soccer-rating.com/Balzan-Youths/7420/,Balzan-Youths,1,2000-01-01
-Navbahor Namangan,Unknown,w905,https://www.soccer-rating.com/Navbahor-Namangan/w905/,Navbahor-Namangan,1,2000-01-01
-Mumbai City,Unknown,w4173,https://www.soccer-rating.com/Mumbai-City/w4173/,Mumbai-City,1,2000-01-01
-Hajer Al Hasa,Unknown,w1852,https://www.soccer-rating.com/Hajer-Al-Hasa/w1852/,Hajer-Al-Hasa,1,2000-01-01
-Corinthians U20,Unknown,w9182,https://www.soccer-rating.com/Corinthians-U20/w9182/,Corinthians-U20,1,2000-01-01
-Academia Anzoategui FC,Unknown,w14167,https://www.soccer-rating.com/Academia-Anzoategui-FC/w14167/,Academia-Anzoategui-FC,0,2000-01-01
-Mazatlan FC,Unknown,w10132,https://www.soccer-rating.com/Mazatlan-FC/w10132/,Mazatlan-FC,0,2000-01-01
-HB Koge (W),Unknown,w10808,https://www.soccer-rating.com/HB-Koge-W/w10808/,HB-Koge-W,1,2000-01-01
-FC Santa Coloma (U19),Unknown,w16573,https://www.soccer-rating.com/FC-Santa-Coloma-U19/w16573/,FC-Santa-Coloma-U19,1,2000-01-01
-Deportes Iquique W,Unknown,w16188,https://www.soccer-rating.com/Deportes-Iquique-W/w16188/,Deportes-Iquique-W,0,2000-01-01
+AS Harima Albion (W),Japan Women,w6720,https://www.soccer-rating.com/AS-Harima-Albion-W/w6720/,AS-Harima-Albion-W,1,2026-07-28
+ES Mostaganem,Jerash Sc,w2466,https://www.soccer-rating.com/ES-Mostaganem/w2466/,ES-Mostaganem,0,2026-07-28
+Odense BK (W),Jiangsu Yancheng,w2330,https://www.soccer-rating.com/Odense-BK-W/w2330/,Odense-BK-W,1,2026-07-28
+NK Celik Zenica,Jjk Jyvaeskylae,1165,https://www.soccer-rating.com/NK-Celik-Zenica/1165/,NK-Celik-Zenica,0,2026-07-28
+Cammell Laird,Jk Loo,3092,https://www.soccer-rating.com/Cammell-Laird/3092/,Cammell-Laird,1,2026-07-28
+Hradec Kralove U21,Jorge Wilstermann,w3184,https://www.soccer-rating.com/Hradec-Kralove-U21/w3184/,Hradec-Kralove-U21,1,2026-07-28
+Cavalry FC,Kakamega Homeboyz Fc,w11378,https://www.soccer-rating.com/Cavalry-FC/w11378/,Cavalry-FC,0,2026-07-28
+Leiston FC,Karacabey Belediyespor,4479,https://www.soccer-rating.com/Leiston-FC/4479/,Leiston-FC,1,2026-07-28
+Warrington Rylands FC,Karakopru Belediyespor,16291,https://www.soccer-rating.com/Warrington-Rylands-FC/16291/,Warrington-Rylands-FC,1,2026-07-28
+FC Metz (W),Kerala Blasters Ii,w6194,https://www.soccer-rating.com/FC-Metz-W/w6194/,FC-Metz-W,1,2026-07-28
+Maidenhead United,Kf Dukagjini,2596,https://www.soccer-rating.com/Maidenhead-United/2596/,Maidenhead-United,1,2026-07-28
+Us Chauvigny,Kf Feronikeli,6976,https://www.soccer-rating.com/Us-Chauvigny/6976/,Us-Chauvigny,0,2026-07-28
+AFC Hornchurch,Kf Gostivari,2689,https://www.soccer-rating.com/AFC-Hornchurch/2689/,AFC-Hornchurch,1,2026-07-28
+AFC Totton,Kf Velebit,2221,https://www.soccer-rating.com/AFC-Totton/2221/,AFC-Totton,1,2026-07-28
+Ohud Medina,Khalij Fars Mahshahr,w2491,https://www.soccer-rating.com/Ohud-Medina/w2491/,Ohud-Medina,1,2026-07-28
+Admira Praha,Kingsbury London Tigers,5799,https://www.soccer-rating.com/Admira-Praha/5799/,Admira-Praha,0,2026-07-28
+Al Taraji,Kokkola F10 W,w15466,https://www.soccer-rating.com/Al-Taraji/w15466/,Al-Taraji,1,2026-07-28
+New Star de Douala,Kolding Fc W,w2746,https://www.soccer-rating.com/New-Star-de-Douala/w2746/,New-Star-de-Douala,1,2026-07-28
+FK Pardubice,Kr Reykjavik,6578,https://www.soccer-rating.com/FK-Pardubice/6578/,FK-Pardubice,0,2026-07-28
+US Yacoub Mansour,Krc Genk U19,w16665,https://www.soccer-rating.com/US-Yacoub-Mansour/w16665/,US-Yacoub-Mansour,0,2026-07-28
+Deportes Recoleta (W),Ksc Lokeren U21,w16890,https://www.soccer-rating.com/Deportes-Recoleta-W/w16890/,Deportes-Recoleta-W,1,2026-07-28
+Polokwane City,Ksr Sains,w3594,https://www.soccer-rating.com/Polokwane-City/w3594/,Polokwane-City,0,2026-07-28
+Motorlet Praha,Ksv Ankerbrot,5659,https://www.soccer-rating.com/Motorlet-Praha/5659/,Motorlet-Praha,0,2026-07-28
+Deportivo Rayo Zuliano,Kuala Lumpur Rovers,w11667,https://www.soccer-rating.com/Deportivo-Rayo-Zuliano/w11667/,Deportivo-Rayo-Zuliano,0,2026-07-28
+KF Shkupi Skopje,Kuopion Elo,9577,https://www.soccer-rating.com/KF-Shkupi-Skopje/9577/,KF-Shkupi-Skopje,1,2026-07-28
+College Europa FC,La Vitreenne Fc,9220,https://www.soccer-rating.com/College-Europa-FC/9220/,College-Europa-FC,1,2026-07-28
+Deportivo Toluca (W),Laitkor Sc,w8163,https://www.soccer-rating.com/Deportivo-Toluca-W/w8163/,Deportivo-Toluca-W,1,2026-07-28
+Maccabi Daliyat Karmel,Lamia Fc,12772,https://www.soccer-rating.com/Maccabi-Daliyat-Karmel/12772/,Maccabi-Daliyat-Karmel,1,2026-07-28
+Club Tijuana (W),Larissa U20,w8126,https://www.soccer-rating.com/Club-Tijuana-W/w8126/,Club-Tijuana-W,1,2026-07-28
+Olympique du Kef,Le Puy Foot 43 Auvergne W,w3225,https://www.soccer-rating.com/Olympique-du-Kef/w3225/,Olympique-du-Kef,1,2026-07-28
+AFC Fylde,Lechia Gdansk,5585,https://www.soccer-rating.com/AFC-Fylde/5585/,AFC-Fylde,1,2026-07-28
+Cashmere Technical,Legia Warszawa U19,w4544,https://www.soccer-rating.com/Cashmere-Technical/w4544/,Cashmere-Technical,1,2026-07-28
+April 25,Leon,w6350,https://www.soccer-rating.com/April-25/w6350/,April-25,1,2026-07-28
+FK Limbazi,Les Sables Fcoc,17687,https://www.soccer-rating.com/FK-Limbazi/17687/,FK-Limbazi,1,2026-07-28
+Glentoran FC,Linfield Fc,495,https://www.soccer-rating.com/Glentoran-FC/495/,Glentoran-FC,0,2026-07-28
+Jeju United,Lion City Sailors,w852,https://www.soccer-rating.com/Jeju-United/w852/,Jeju-United,0,2026-07-28
+FK Arsimi 1973,Liversedge Fc,18079,https://www.soccer-rating.com/FK-Arsimi-1973/18079/,FK-Arsimi-1973,1,2026-07-28
+US Amal Tiznit,Llaneros Fc,w5322,https://www.soccer-rating.com/US-Amal-Tiznit/w5322/,US-Amal-Tiznit,0,2026-07-28
+Nasaf Qarshi,Lobos Buap,w903,https://www.soccer-rating.com/Nasaf-Qarshi/w903/,Nasaf-Qarshi,1,2026-07-28
+CD Marathon,Londrina Pr,w806,https://www.soccer-rating.com/CD-Marathon/w806/,CD-Marathon,0,2026-07-28
+Morpeth Town,Louth Town,5880,https://www.soccer-rating.com/Morpeth-Town/5880/,Morpeth-Town,1,2026-07-28
+Chesham United,Luftetari Gjirokastern,2602,https://www.soccer-rating.com/Chesham-United/2602/,Chesham-United,1,2026-07-28
+Stade Pontivy,Lundtofte,13854,https://www.soccer-rating.com/Stade-Pontivy/13854/,Stade-Pontivy,0,2026-07-28
+Aveley FC,Maccabi Bnei Reina,2263,https://www.soccer-rating.com/Aveley-FC/2263/,Aveley-FC,1,2026-07-28
+Dynamo Ceske Budejovice,Maccabi Tzeirey Shfaram,616,https://www.soccer-rating.com/Dynamo-Ceske-Budejovice/616/,Dynamo-Ceske-Budejovice,0,2026-07-28
+Al Garrafa,Malmin Ps W,w205,https://www.soccer-rating.com/Al-Garrafa/w205/,Al-Garrafa,1,2026-07-28
+Balzan Youths,Malta,7420,https://www.soccer-rating.com/Balzan-Youths/7420/,Balzan-Youths,1,2026-07-28
+Navbahor Namangan,Manauara Ec Am,w905,https://www.soccer-rating.com/Navbahor-Namangan/w905/,Navbahor-Namangan,1,2026-07-28
+Mamelodi Sundowns,Manchester City Fifa,w237,https://www.soccer-rating.com/Mamelodi-Sundowns/w237/,Mamelodi-Sundowns,0,2026-07-28
+Mumbai City,Maniema Union,w4173,https://www.soccer-rating.com/Mumbai-City/w4173/,Mumbai-City,1,2026-07-28
+Deportivo Mixco,Marica Fc,w5685,https://www.soccer-rating.com/Deportivo-Mixco/w5685/,Deportivo-Mixco,0,2026-07-28
+Hajer Al Hasa,Markez Tulkrem,w1852,https://www.soccer-rating.com/Hajer-Al-Hasa/w1852/,Hajer-Al-Hasa,1,2026-07-28
+Corinthians U20,Maruyasu Okazaki,w9182,https://www.soccer-rating.com/Corinthians-U20/w9182/,Corinthians-U20,1,2026-07-28
+Academia Anzoategui FC,Masafi,w14167,https://www.soccer-rating.com/Academia-Anzoategui-FC/w14167/,Academia-Anzoategui-FC,0,2026-07-28
+Sloboda Tuzla,Mashuk Kmv Pyatigorsk,1169,https://www.soccer-rating.com/Sloboda-Tuzla/1169/,Sloboda-Tuzla,0,2026-07-28
+HB Koge (W),Mc Alger,w10808,https://www.soccer-rating.com/HB-Koge-W/w10808/,HB-Koge-W,1,2026-07-28
+FC Santa Coloma (U19),Meiji University,w16573,https://www.soccer-rating.com/FC-Santa-Coloma-U19/w16573/,FC-Santa-Coloma-U19,1,2026-07-28
+Deportes Iquique W,Meizhou Hakka,w16188,https://www.soccer-rating.com/Deportes-Iquique-W/w16188/,Deportes-Iquique-W,0,2026-07-28
+Orbit College FC,Mekelle 70 Enderta Fc,w7272,https://www.soccer-rating.com/Orbit-College-FC/w7272/,Orbit-College-FC,0,2026-07-28
+Deportivo Achuapa,Menzel Temime,w8618,https://www.soccer-rating.com/Deportivo-Achuapa/w8618/,Deportivo-Achuapa,0,2026-07-28
+CA Bizertin,Metropolitanos,w625,https://www.soccer-rating.com/CA-Bizertin/w625/,CA-Bizertin,0,2026-07-28
 AS Roma U20,Mexico,w16478,https://www.soccer-rating.com/AS-Roma-U20/w16478/,AS-Roma-U20,1,2026-07-27
 Acambaro FC,Mexico,w15481,https://www.soccer-rating.com/Acambaro-FC/w15481/,Acambaro-FC,0,2026-07-27
 Acatlan FC,Mexico,w16538,https://www.soccer-rating.com/Acatlan-FC/w16538/,Acatlan-FC,0,2026-07-27
@@ -2458,36 +2471,20 @@ UNAM Pumas,Mexico,w344,https://www.soccer-rating.com/UNAM-Pumas/w344/,UNAM-Pumas
 Venados FC,Mexico,w565,https://www.soccer-rating.com/Venados-FC/w565/,Venados-FC,0,2026-07-27
 Zacatepec FC,Mexico,w3584,https://www.soccer-rating.com/Zacatepec-FC/w3584/,Zacatepec-FC,0,2026-07-27
 Zitacuaro CF,Mexico,w9469,https://www.soccer-rating.com/Zitacuaro-CF/w9469/,Zitacuaro-CF,0,2026-07-27
-Asteras Petriti,Unknown,17178,https://www.soccer-rating.com/Asteras-Petriti/17178/,Asteras-Petriti,1,2000-01-01
-Al Wahda Abu Dhabi,Unknown,w407,https://www.soccer-rating.com/Al-Wahda-Abu-Dhabi/w407/,Al-Wahda-Abu-Dhabi,1,2000-01-01
-Manurewa AFC,Unknown,w15701,https://www.soccer-rating.com/Manurewa-AFC/w15701/,Manurewa-AFC,0,2000-01-01
-Tauranga City United AFC,Unknown,w16200,https://www.soccer-rating.com/Tauranga-City-United-AFC/w16200/,Tauranga-City-United-AFC,1,2000-01-01
-Paradise FC,Unknown,w8755,https://www.soccer-rating.com/Paradise-FC/w8755/,Paradise-FC,1,2000-01-01
-CODM Meknes,Unknown,w2371,https://www.soccer-rating.com/CODM-Meknes/w2371/,CODM-Meknes,0,2000-01-01
-Difaa El Jadida,Unknown,w597,https://www.soccer-rating.com/Difaa-El-Jadida/w597/,Difaa-El-Jadida,0,2000-01-01
-FAR Rabat,Unknown,w598,https://www.soccer-rating.com/FAR-Rabat/w598/,FAR-Rabat,0,2000-01-01
-FUS Rabat,Unknown,w595,https://www.soccer-rating.com/FUS-Rabat/w595/,FUS-Rabat,0,2000-01-01
-Hassania Agadir,Unknown,w592,https://www.soccer-rating.com/Hassania-Agadir/w592/,Hassania-Agadir,0,2000-01-01
-Ittihad Tanger,Unknown,w2498,https://www.soccer-rating.com/Ittihad-Tanger/w2498/,Ittihad-Tanger,0,2000-01-01
-JSM Massira,Unknown,w601,https://www.soccer-rating.com/JSM-Massira/w601/,JSM-Massira,0,2000-01-01
-Kawkab Marrakech,Unknown,w599,https://www.soccer-rating.com/Kawkab-Marrakech/w599/,Kawkab-Marrakech,0,2000-01-01
-MAS Maghrib Fes,Unknown,w591,https://www.soccer-rating.com/MAS-Maghrib-Fes/w591/,MAS-Maghrib-Fes,0,2000-01-01
-Olympique Dcheira,Unknown,w4740,https://www.soccer-rating.com/Olympique-Dcheira/w4740/,Olympique-Dcheira,0,2000-01-01
-Olympique Safi,Unknown,w596,https://www.soccer-rating.com/Olympique-Safi/w596/,Olympique-Safi,0,2000-01-01
-RSB Berkane,Unknown,w2499,https://www.soccer-rating.com/RSB-Berkane/w2499/,RSB-Berkane,0,2000-01-01
-Raja Casablanca,Unknown,w603,https://www.soccer-rating.com/Raja-Casablanca/w603/,Raja-Casablanca,0,2000-01-01
-Renaissance Zemamra,Unknown,w6831,https://www.soccer-rating.com/Renaissance-Zemamra/w6831/,Renaissance-Zemamra,0,2000-01-01
-US Amal Tiznit,Unknown,w5322,https://www.soccer-rating.com/US-Amal-Tiznit/w5322/,US-Amal-Tiznit,0,2000-01-01
-US Yacoub Mansour,Unknown,w16665,https://www.soccer-rating.com/US-Yacoub-Mansour/w16665/,US-Yacoub-Mansour,0,2000-01-01
-Union de Touarga,Unknown,w7681,https://www.soccer-rating.com/Union-de-Touarga/w7681/,Union-de-Touarga,0,2000-01-01
-Wydad Casablanca,Unknown,w590,https://www.soccer-rating.com/Wydad-Casablanca/w590/,Wydad-Casablanca,0,2000-01-01
-VfL Bochum II,Unknown,1680,https://www.soccer-rating.com/VfL-Bochum-II/1680/,VfL-Bochum-II,1,2000-01-01
-Hebburn Town,Unknown,7567,https://www.soccer-rating.com/Hebburn-Town/7567/,Hebburn-Town,1,2000-01-01
-Havant & Waterlooville,Unknown,2589,https://www.soccer-rating.com/Havant-Waterlooville/2589/,Havant-Waterlooville,1,2000-01-01
-UANL Tigres (W),Unknown,w8167,https://www.soccer-rating.com/UANL-Tigres-W/w8167/,UANL-Tigres-W,1,2000-01-01
-FK Shkendija 79 Tetovo,Unknown,19046,https://www.soccer-rating.com/FK-Shkendija-79-Tetovo/19046/,FK-Shkendija-79-Tetovo,0,2000-01-01
-FC Goa,Unknown,w4178,https://www.soccer-rating.com/FC-Goa/w4178/,FC-Goa,1,2000-01-01
-Austria Wien (W),Unknown,w7859,https://www.soccer-rating.com/Austria-Wien-W/w7859/,Austria-Wien-W,1,2000-01-01
+Asteras Petriti,Mfk Vyskov,17178,https://www.soccer-rating.com/Asteras-Petriti/17178/,Asteras-Petriti,1,2026-07-28
+Al Wahda Abu Dhabi,Millonarios,w407,https://www.soccer-rating.com/Al-Wahda-Abu-Dhabi/w407/,Al-Wahda-Abu-Dhabi,1,2026-07-28
+Manurewa AFC,Mirassol Fc Sp U23,w15701,https://www.soccer-rating.com/Manurewa-AFC/w15701/,Manurewa-AFC,0,2026-07-28
+Tauranga City United AFC,Mlatho Mponela Fc,w16200,https://www.soccer-rating.com/Tauranga-City-United-AFC/w16200/,Tauranga-City-United-AFC,1,2026-07-28
+Paradise FC,Montevideo City,w8755,https://www.soccer-rating.com/Paradise-FC/w8755/,Paradise-FC,1,2026-07-28
+Hebburn Town,Ms Tzeirey Taybe,7567,https://www.soccer-rating.com/Hebburn-Town/7567/,Hebburn-Town,1,2026-07-28
+Havant & Waterlooville,Mtk Hungaria Fc Ii,2589,https://www.soccer-rating.com/Havant-Waterlooville/2589/,Havant-Waterlooville,1,2026-07-28
+UANL Tigres (W),Muangkan Warrior,w8167,https://www.soccer-rating.com/UANL-Tigres-W/w8167/,UANL-Tigres-W,1,2026-07-28
+FK Shkendija 79 Tetovo,Muglaspor,19046,https://www.soccer-rating.com/FK-Shkendija-79-Tetovo/19046/,FK-Shkendija-79-Tetovo,0,2026-07-28
+Forge FC,Mumbai City,w9241,https://www.soccer-rating.com/Forge-FC/w9241/,Forge-FC,0,2026-07-28
+FC Goa,Nassaji Mazandaran,w4178,https://www.soccer-rating.com/FC-Goa/w4178/,FC-Goa,1,2026-07-28
+Olympique Dcheira,Naviraiense,w4740,https://www.soccer-rating.com/Olympique-Dcheira/w4740/,Olympique-Dcheira,0,2026-07-28
+Austria Wien (W),Neom Sc,w7859,https://www.soccer-rating.com/Austria-Wien-W/w7859/,Austria-Wien-W,1,2026-07-28
+USM Alger,Nepal Army Club,w800,https://www.soccer-rating.com/USM-Alger/w800/,USM-Alger,0,2026-07-28
 ACV Assen,Netherlands,10172,https://www.soccer-rating.com/ACV-Assen/10172/,ACV-Assen,0,2026-07-27
 ADO Den Haag,Netherlands,939,https://www.soccer-rating.com/ADO-Den-Haag/939/,ADO-Den-Haag,0,2026-07-27
 AFC Amsterdam,Netherlands,2572,https://www.soccer-rating.com/AFC-Amsterdam/2572/,AFC-Amsterdam,0,2026-07-27
@@ -2560,37 +2557,31 @@ VV Noordwijk,Netherlands,6938,https://www.soccer-rating.com/VV-Noordwijk/6938/,V
 VV Venlo,Netherlands,806,https://www.soccer-rating.com/VV-Venlo/806/,VV-Venlo,0,2026-07-27
 Vitesse Arnheim,Netherlands,820,https://www.soccer-rating.com/Vitesse-Arnheim/820/,Vitesse-Arnheim,0,2026-07-27
 Willem II Tilburg,Netherlands,804,https://www.soccer-rating.com/Willem-II-Tilburg/804/,Willem-II-Tilburg,0,2026-07-27
-Deportivo Saprissa,Unknown,w497,https://www.soccer-rating.com/Deportivo-Saprissa/w497/,Deportivo-Saprissa,0,2000-01-01
-Welling United,Unknown,2645,https://www.soccer-rating.com/Welling-United/2645/,Welling-United,1,2000-01-01
-Dimona SC,Unknown,12895,https://www.soccer-rating.com/Dimona-SC/12895/,Dimona-SC,1,2000-01-01
-FC Bassin d Arcachon,Unknown,19108,https://www.soccer-rating.com/FC-Bassin-d-Arcachon/19108/,FC-Bassin-d-Arcachon,0,2000-01-01
-Hemel Hempstead Town,Unknown,2687,https://www.soccer-rating.com/Hemel-Hempstead-Town/2687/,Hemel-Hempstead-Town,1,2000-01-01
-FK Rabotnicki,Unknown,521,https://www.soccer-rating.com/FK-Rabotnicki/521/,FK-Rabotnicki,1,2000-01-01
-Al Misfat,Unknown,w2426,https://www.soccer-rating.com/Al-Misfat/w2426/,Al-Misfat,1,2000-01-01
-Annagh United,Unknown,7007,https://www.soccer-rating.com/Annagh-United/7007/,Annagh-United,0,2000-01-01
-Ards FC,Unknown,4776,https://www.soccer-rating.com/Ards-FC/4776/,Ards-FC,0,2000-01-01
-Armagh City FC,Unknown,1874,https://www.soccer-rating.com/Armagh-City-FC/1874/,Armagh-City-FC,0,2000-01-01
-Ballinamallard United,Unknown,4910,https://www.soccer-rating.com/Ballinamallard-United/4910/,Ballinamallard-United,0,2000-01-01
-Ballymena United FC,Unknown,1878,https://www.soccer-rating.com/Ballymena-United-FC/1878/,Ballymena-United-FC,0,2000-01-01
-Bangor FC,Unknown,2946,https://www.soccer-rating.com/Bangor-FC/2946/,Bangor-FC,0,2000-01-01
-Carrick Rangers,Unknown,4782,https://www.soccer-rating.com/Carrick-Rangers/4782/,Carrick-Rangers,0,2000-01-01
-Cliftonville FC,Unknown,42,https://www.soccer-rating.com/Cliftonville-FC/42/,Cliftonville-FC,0,2000-01-01
-Coleraine FC,Unknown,2095,https://www.soccer-rating.com/Coleraine-FC/2095/,Coleraine-FC,0,2000-01-01
-Crusaders FC,Unknown,1871,https://www.soccer-rating.com/Crusaders-FC/1871/,Crusaders-FC,0,2000-01-01
-Dundela FC,Unknown,2948,https://www.soccer-rating.com/Dundela-FC/2948/,Dundela-FC,0,2000-01-01
-Dungannon Swifts FC,Unknown,494,https://www.soccer-rating.com/Dungannon-Swifts-FC/494/,Dungannon-Swifts-FC,0,2000-01-01
-Glenavon FC,Unknown,1872,https://www.soccer-rating.com/Glenavon-FC/1872/,Glenavon-FC,0,2000-01-01
-Glentoran FC,Unknown,495,https://www.soccer-rating.com/Glentoran-FC/495/,Glentoran-FC,0,2000-01-01
-HW Welders,Unknown,6136,https://www.soccer-rating.com/HW-Welders/6136/,HW-Welders,0,2000-01-01
-Institute FC,Unknown,2096,https://www.soccer-rating.com/Institute-FC/2096/,Institute-FC,0,2000-01-01
-Larne FC,Unknown,1875,https://www.soccer-rating.com/Larne-FC/1875/,Larne-FC,0,2000-01-01
-Limavady United FC,Unknown,1869,https://www.soccer-rating.com/Limavady-United-FC/1869/,Limavady-United-FC,0,2000-01-01
-Linfield FC,Unknown,485,https://www.soccer-rating.com/Linfield-FC/485/,Linfield-FC,0,2000-01-01
-Loughgall FC,Unknown,4777,https://www.soccer-rating.com/Loughgall-FC/4777/,Loughgall-FC,0,2000-01-01
-Newington FC,Unknown,4914,https://www.soccer-rating.com/Newington-FC/4914/,Newington-FC,0,2000-01-01
-Portadown FC,Unknown,1879,https://www.soccer-rating.com/Portadown-FC/1879/,Portadown-FC,0,2000-01-01
-Queens University,Unknown,6809,https://www.soccer-rating.com/Queens-University/6809/,Queens-University,0,2000-01-01
-Warrenpoint Town,Unknown,4912,https://www.soccer-rating.com/Warrenpoint-Town/4912/,Warrenpoint-Town,0,2000-01-01
+Deportivo Saprissa,New England Revolution,w497,https://www.soccer-rating.com/Deportivo-Saprissa/w497/,Deportivo-Saprissa,0,2026-07-28
+Esperance Tunis,Newcastle Jets,w627,https://www.soccer-rating.com/Esperance-Tunis/w627/,Esperance-Tunis,0,2026-07-28
+Welling United,Newton Aycliffe Fc,2645,https://www.soccer-rating.com/Welling-United/2645/,Welling-United,1,2026-07-28
+Dimona SC,Niendorfer Tsv,12895,https://www.soccer-rating.com/Dimona-SC/12895/,Dimona-SC,1,2026-07-28
+Loko Vltavin,Niva Dolbizno,5658,https://www.soccer-rating.com/Loko-Vltavin/5658/,Loko-Vltavin,0,2026-07-28
+Bohemians 1905,Nk Istra 1961 Pula,614,https://www.soccer-rating.com/Bohemians-1905/614/,Bohemians-1905,0,2026-07-28
+FC Bassin d Arcachon,Nk Kamnik,19108,https://www.soccer-rating.com/FC-Bassin-d-Arcachon/19108/,FC-Bassin-d-Arcachon,0,2026-07-28
+1. FC Brno,Nk Lokomotiva Zagreb,612,https://www.soccer-rating.com/1-FC-Brno/612/,1-FC-Brno,0,2026-07-28
+FC Hradec Kralove,Nk Maribor,2014,https://www.soccer-rating.com/FC-Hradec-Kralove/2014/,FC-Hradec-Kralove,0,2026-07-28
+FK Vitez,Nk Nosteria,7464,https://www.soccer-rating.com/FK-Vitez/7464/,FK-Vitez,0,2026-07-28
+Hemel Hempstead Town,Nk Triglav Kranj,2687,https://www.soccer-rating.com/Hemel-Hempstead-Town/2687/,Hemel-Hempstead-Town,1,2026-07-28
+FK Rabotnicki,Nk Zagorec Krapina,521,https://www.soccer-rating.com/FK-Rabotnicki/521/,FK-Rabotnicki,1,2026-07-28
+Al Misfat,North Carolina Fc,w2426,https://www.soccer-rating.com/Al-Misfat/w2426/,Al-Misfat,1,2026-07-28
+Annagh United,Northern Ireland,7007,https://www.soccer-rating.com/Annagh-United/7007/,Annagh-United,0,2026-07-28
+Ards FC,Northern Ireland,4776,https://www.soccer-rating.com/Ards-FC/4776/,Ards-FC,0,2026-07-28
+Armagh City FC,Northern Ireland,1874,https://www.soccer-rating.com/Armagh-City-FC/1874/,Armagh-City-FC,0,2026-07-28
+Ballinamallard United,Northern Ireland,4910,https://www.soccer-rating.com/Ballinamallard-United/4910/,Ballinamallard-United,0,2026-07-28
+Dundela FC,Northern Ireland,2948,https://www.soccer-rating.com/Dundela-FC/2948/,Dundela-FC,0,2026-07-28
+HW Welders,Northern Ireland,6136,https://www.soccer-rating.com/HW-Welders/6136/,HW-Welders,0,2026-07-28
+Institute FC,Northern Ireland,2096,https://www.soccer-rating.com/Institute-FC/2096/,Institute-FC,0,2026-07-28
+Limavady United FC,Northern Ireland,1869,https://www.soccer-rating.com/Limavady-United-FC/1869/,Limavady-United-FC,0,2026-07-28
+Loughgall FC,Northern Ireland,4777,https://www.soccer-rating.com/Loughgall-FC/4777/,Loughgall-FC,0,2026-07-28
+Newington FC,Northern Ireland,4914,https://www.soccer-rating.com/Newington-FC/4914/,Newington-FC,0,2026-07-28
+Queens University,Northern Ireland,6809,https://www.soccer-rating.com/Queens-University/6809/,Queens-University,0,2026-07-28
+Warrenpoint Town,Northern Ireland,4912,https://www.soccer-rating.com/Warrenpoint-Town/4912/,Warrenpoint-Town,0,2026-07-28
 Aalesunds FK,Norway,84,https://www.soccer-rating.com/Aalesunds-FK/84/,Aalesunds-FK,0,2026-07-27
 Arendal Fotball,Norway,385,https://www.soccer-rating.com/Arendal-Fotball/385/,Arendal-Fotball,0,2026-07-27
 Asane Fotball,Norway,383,https://www.soccer-rating.com/Asane-Fotball/383/,Asane-Fotball,0,2026-07-27
@@ -2652,16 +2643,23 @@ Trygg/Lade,Norway,9136,https://www.soccer-rating.com/Trygg-Lade/9136/,Trygg-Lade
 Ullensaker/Kisa IL,Norway,392,https://www.soccer-rating.com/Ullensaker-Kisa-IL/392/,Ullensaker-Kisa-IL,0,2026-07-27
 Valerenga Oslo,Norway,71,https://www.soccer-rating.com/Valerenga-Oslo/71/,Valerenga-Oslo,0,2026-07-27
 Viking Stavanger,Norway,72,https://www.soccer-rating.com/Viking-Stavanger/72/,Viking-Stavanger,0,2026-07-27
-San Juan FC,Unknown,w17543,https://www.soccer-rating.com/San-Juan-FC/w17543/,San-Juan-FC,0,2000-01-01
-FC Linth 04,Unknown,5934,https://www.soccer-rating.com/FC-Linth-04/5934/,FC-Linth-04,1,2000-01-01
-Bregalnica Stip,Unknown,6414,https://www.soccer-rating.com/Bregalnica-Stip/6414/,Bregalnica-Stip,1,2000-01-01
-Must IPO,Unknown,w9173,https://www.soccer-rating.com/Must-IPO/w9173/,Must-IPO,1,2000-01-01
-FK Hodonin,Unknown,12418,https://www.soccer-rating.com/FK-Hodonin/12418/,FK-Hodonin,1,2000-01-01
-Masafi,Unknown,w1976,https://www.soccer-rating.com/Masafi/w1976/,Masafi,1,2000-01-01
-Real Madrid (W),Unknown,w10338,https://www.soccer-rating.com/Real-Madrid-W/w10338/,Real-Madrid-W,1,2000-01-01
-Poole Town,Unknown,4500,https://www.soccer-rating.com/Poole-Town/4500/,Poole-Town,1,2000-01-01
-Farnborough Town,Unknown,3057,https://www.soccer-rating.com/Farnborough-Town/3057/,Farnborough-Town,1,2000-01-01
-Transport United FC,Unknown,w12299,https://www.soccer-rating.com/Transport-United-FC/w12299/,Transport-United-FC,1,2000-01-01
+CS Sfaxien,Novorizontino,w619,https://www.soccer-rating.com/CS-Sfaxien/w619/,CS-Sfaxien,0,2026-07-28
+San Juan FC,Nsoatreman Fc,w17543,https://www.soccer-rating.com/San-Juan-FC/w17543/,San-Juan-FC,0,2026-07-28
+FC Linth 04,Nyiradony Vvtk,5934,https://www.soccer-rating.com/FC-Linth-04/5934/,FC-Linth-04,1,2026-07-28
+Bratstvo Gracanica,Odishi 1919,9064,https://www.soccer-rating.com/Bratstvo-Gracanica/9064/,Bratstvo-Gracanica,0,2026-07-28
+Bregalnica Stip,Olimpik Donezk,6414,https://www.soccer-rating.com/Bregalnica-Stip/6414/,Bregalnica-Stip,1,2026-07-28
+Must IPO,Olympique Lyon W,w9173,https://www.soccer-rating.com/Must-IPO/w9173/,Must-IPO,1,2026-07-28
+Kawkab Marrakech,Olympique Marseille W,w599,https://www.soccer-rating.com/Kawkab-Marrakech/w599/,Kawkab-Marrakech,0,2026-07-28
+FK Hodonin,Olympique Nimes,12418,https://www.soccer-rating.com/FK-Hodonin/12418/,FK-Hodonin,1,2026-07-28
+Masafi,Orduspor U23,w1976,https://www.soccer-rating.com/Masafi/w1976/,Masafi,1,2026-07-28
+Real Madrid (W),Orlando Pirates,w10338,https://www.soccer-rating.com/Real-Madrid-W/w10338/,Real-Madrid-W,1,2026-07-28
+Poole Town,Oxie If,4500,https://www.soccer-rating.com/Poole-Town/4500/,Poole-Town,1,2026-07-28
+Farnborough Town,Oygarden Fk,3057,https://www.soccer-rating.com/Farnborough-Town/3057/,Farnborough-Town,1,2026-07-28
+Transport United FC,Pachuca,w12299,https://www.soccer-rating.com/Transport-United-FC/w12299/,Transport-United-FC,1,2026-07-28
+Guastatoya,Pacific Pines,w4023,https://www.soccer-rating.com/Guastatoya/w4023/,Guastatoya,0,2026-07-28
+Orlando Pirates,Palmeiras,w193,https://www.soccer-rating.com/Orlando-Pirates/w193/,Orlando-Pirates,0,2026-07-28
+Gangwon FC,Palmeiras W,w858,https://www.soccer-rating.com/Gangwon-FC/w858/,Gangwon-FC,0,2026-07-28
+Al Feiha,Paradise Fc,w4098,https://www.soccer-rating.com/Al-Feiha/w4098/,Al-Feiha,0,2026-07-28
 12 de Junio de Villa Hayes,Paraguay,w16270,https://www.soccer-rating.com/12-de-Junio-de-Villa-Hayes/w16270/,12-de-Junio-de-Villa-Hayes,0,2026-07-27
 3 de Noviembre Asuncion,Paraguay,w17857,https://www.soccer-rating.com/3-de-Noviembre-Asuncion/w17857/,3-de-Noviembre-Asuncion,0,2026-07-27
 3 de Noviembre de B San Pablo,Paraguay,w17112,https://www.soccer-rating.com/3-de-Noviembre-de-B-San-Pablo/w17112/,3-de-Noviembre-de-B-San-Pablo,0,2026-07-27
@@ -2692,11 +2690,13 @@ Sportivo Luqueño,Paraguay,w136,https://www.soccer-rating.com/Sportivo-Luque-o/w
 Sportivo San Lorenzo,Paraguay,w4343,https://www.soccer-rating.com/Sportivo-San-Lorenzo/w4343/,Sportivo-San-Lorenzo,0,2026-07-27
 Sportivo Trinidense,Paraguay,w517,https://www.soccer-rating.com/Sportivo-Trinidense/w517/,Sportivo-Trinidense,0,2026-07-27
 Tacuary FBC,Paraguay,w137,https://www.soccer-rating.com/Tacuary-FBC/w137/,Tacuary-FBC,0,2026-07-27
-Santiago Wanderers (W),Unknown,w16900,https://www.soccer-rating.com/Santiago-Wanderers-W/w16900/,Santiago-Wanderers-W,1,2000-01-01
-Municipal Liberia,Unknown,w490,https://www.soccer-rating.com/Municipal-Liberia/w490/,Municipal-Liberia,0,2000-01-01
-FC Midtjylland (W),Unknown,w16521,https://www.soccer-rating.com/FC-Midtjylland-W/w16521/,FC-Midtjylland-W,1,2000-01-01
-Weymouth FC,Unknown,1156,https://www.soccer-rating.com/Weymouth-FC/1156/,Weymouth-FC,1,2000-01-01
-Al Qaisoma,Unknown,w5504,https://www.soccer-rating.com/Al-Qaisoma/w5504/,Al-Qaisoma,1,2000-01-01
+Santiago Wanderers (W),Paranoa Ec,w16900,https://www.soccer-rating.com/Santiago-Wanderers-W/w16900/,Santiago-Wanderers-W,1,2026-07-28
+Municipal Liberia,Parma Calcio U20,w490,https://www.soccer-rating.com/Municipal-Liberia/w490/,Municipal-Liberia,0,2026-07-28
+Al Nasr Riyadh,Paro Fc,w262,https://www.soccer-rating.com/Al-Nasr-Riyadh/w262/,Al-Nasr-Riyadh,0,2026-07-28
+FC Midtjylland (W),Pascoe Vale,w16521,https://www.soccer-rating.com/FC-Midtjylland-W/w16521/,FC-Midtjylland-W,1,2026-07-28
+Weymouth FC,Payasspor,1156,https://www.soccer-rating.com/Weymouth-FC/1156/,Weymouth-FC,1,2026-07-28
+Gimcheon Sangmu FC,Persebaya Surabaya,w2019,https://www.soccer-rating.com/Gimcheon-Sangmu-FC/w2019/,Gimcheon-Sangmu-FC,0,2026-07-28
+Al Qaisoma,Perseru Badak Lampung Fc,w5504,https://www.soccer-rating.com/Al-Qaisoma/w5504/,Al-Qaisoma,1,2026-07-28
 ADT Tarma,Peru,w13097,https://www.soccer-rating.com/ADT-Tarma/w13097/,ADT-Tarma,0,2026-07-27
 Academia Cantolao,Peru,w6099,https://www.soccer-rating.com/Academia-Cantolao/w6099/,Academia-Cantolao,0,2026-07-27
 Alianza Atletico,Peru,w105,https://www.soccer-rating.com/Alianza-Atletico/w105/,Alianza-Atletico,0,2026-07-27
@@ -2733,9 +2733,9 @@ Union Minas,Peru,w17785,https://www.soccer-rating.com/Union-Minas/w17785/,Union-
 Universidad César Vallejo,Peru,w117,https://www.soccer-rating.com/Universidad-Cesar-Vallejo/w117/,Universidad-Cesar-Vallejo,0,2026-07-27
 Universidad San Martin,Peru,w108,https://www.soccer-rating.com/Universidad-San-Martin/w108/,Universidad-San-Martin,0,2026-07-27
 Universitario De Deportes,Peru,w119,https://www.soccer-rating.com/Universitario-De-Deportes/w119/,Universitario-De-Deportes,0,2026-07-27
-SK Sigma Olomouc II,Unknown,2099,https://www.soccer-rating.com/SK-Sigma-Olomouc-II/2099/,SK-Sigma-Olomouc-II,1,2000-01-01
-Nsoatreman FC,Unknown,w14690,https://www.soccer-rating.com/Nsoatreman-FC/w14690/,Nsoatreman-FC,1,2000-01-01
-SU Dives Cabourg,Unknown,18737,https://www.soccer-rating.com/SU-Dives-Cabourg/18737/,SU-Dives-Cabourg,0,2000-01-01
+SK Sigma Olomouc II,Phoenix Sports Fc,2099,https://www.soccer-rating.com/SK-Sigma-Olomouc-II/2099/,SK-Sigma-Olomouc-II,1,2026-07-28
+Nsoatreman FC,Pj City Fc,w14690,https://www.soccer-rating.com/Nsoatreman-FC/w14690/,Nsoatreman-FC,1,2026-07-28
+SU Dives Cabourg,Plouzane Ac Football,18737,https://www.soccer-rating.com/SU-Dives-Cabourg/18737/,SU-Dives-Cabourg,0,2026-07-28
 Arka Gdynia,Poland,1557,https://www.soccer-rating.com/Arka-Gdynia/1557/,Arka-Gdynia,0,2026-07-27
 Avia Swidnik,Poland,2064,https://www.soccer-rating.com/Avia-Swidnik/2064/,Avia-Swidnik,0,2026-07-27
 Chojniczanka Chojnice,Poland,6524,https://www.soccer-rating.com/Chojniczanka-Chojnice/6524/,Chojniczanka-Chojnice,0,2026-07-27
@@ -2798,7 +2798,8 @@ Zaglebie Lubin,Poland,1253,https://www.soccer-rating.com/Zaglebie-Lubin/1253/,Za
 Zaglebie Sosnowiec,Poland,1258,https://www.soccer-rating.com/Zaglebie-Sosnowiec/1258/,Zaglebie-Sosnowiec,0,2026-07-27
 Zawisza Bydgoszcz,Poland,3877,https://www.soccer-rating.com/Zawisza-Bydgoszcz/3877/,Zawisza-Bydgoszcz,0,2026-07-27
 Znicz Pruszkow,Poland,1558,https://www.soccer-rating.com/Znicz-Pruszkow/1558/,Znicz-Pruszkow,0,2026-07-27
-Stocksbridge Park Steels,Unknown,2671,https://www.soccer-rating.com/Stocksbridge-Park-Steels/2671/,Stocksbridge-Park-Steels,1,2000-01-01
+Dungannon Swifts FC,Polisportiva Arzachena,494,https://www.soccer-rating.com/Dungannon-Swifts-FC/494/,Dungannon-Swifts-FC,0,2026-07-28
+Stocksbridge Park Steels,Pontefract Collieries,2671,https://www.soccer-rating.com/Stocksbridge-Park-Steels/2671/,Stocksbridge-Park-Steels,1,2026-07-28
 AC Marinhense,Portugal,5835,https://www.soccer-rating.com/AC-Marinhense/5835/,AC-Marinhense,1,2026-07-27
 AD Camacha,Portugal,2950,https://www.soccer-rating.com/AD-Camacha/2950/,AD-Camacha,1,2026-07-27
 AD Fafe,Portugal,3040,https://www.soccer-rating.com/AD-Fafe/3040/,AD-Fafe,0,2026-07-27
@@ -2897,18 +2898,24 @@ Varzim SC,Portugal,1102,https://www.soccer-rating.com/Varzim-SC/1102/,Varzim-SC,
 Vilaverdense,Portugal,8371,https://www.soccer-rating.com/Vilaverdense/8371/,Vilaverdense,1,2026-07-27
 Vitoria Guimaraes,Portugal,1089,https://www.soccer-rating.com/Vitoria-Guimaraes/1089/,Vitoria-Guimaraes,0,2026-07-27
 Vitoria Guimaraes II,Portugal,8044,https://www.soccer-rating.com/Vitoria-Guimaraes-II/8044/,Vitoria-Guimaraes-II,0,2026-07-27
-Enfield Town FC,Unknown,2235,https://www.soccer-rating.com/Enfield-Town-FC/2235/,Enfield-Town-FC,1,2000-01-01
-Al Wakra,Unknown,w206,https://www.soccer-rating.com/Al-Wakra/w206/,Al-Wakra,1,2000-01-01
-CD Palestino (W),Unknown,w16190,https://www.soccer-rating.com/CD-Palestino-W/w16190/,CD-Palestino-W,1,2000-01-01
-Stjarnan Gardabaer (W),Unknown,w2924,https://www.soccer-rating.com/Stjarnan-Gardabaer-W/w2924/,Stjarnan-Gardabaer-W,1,2000-01-01
-FC Bruegge,Unknown,905,https://www.soccer-rating.com/FC-Bruegge/905/,FC-Bruegge,0,2000-01-01
-Deportes Temuco (W),Unknown,w17704,https://www.soccer-rating.com/Deportes-Temuco-W/w17704/,Deportes-Temuco-W,1,2000-01-01
-Hampton and Richmond,Unknown,2677,https://www.soccer-rating.com/Hampton-and-Richmond/2677/,Hampton-and-Richmond,1,2000-01-01
-Harkemase Boys,Unknown,5942,https://www.soccer-rating.com/Harkemase-Boys/5942/,Harkemase-Boys,1,2000-01-01
-Santos Laguna (W),Unknown,w8168,https://www.soccer-rating.com/Santos-Laguna-W/w8168/,Santos-Laguna-W,1,2000-01-01
-Al Nasiriya,Unknown,w1061,https://www.soccer-rating.com/Al-Nasiriya/w1061/,Al-Nasiriya,1,2000-01-01
-ACS Berceni,Unknown,8304,https://www.soccer-rating.com/ACS-Berceni/8304/,ACS-Berceni,1,2000-01-01
-FK Jeni Maale,Unknown,18950,https://www.soccer-rating.com/FK-Jeni-Maale/18950/,FK-Jeni-Maale,1,2000-01-01
+US Ben Guerdane,Portuguesa Santista,w4778,https://www.soccer-rating.com/US-Ben-Guerdane/w4778/,US-Ben-Guerdane,0,2026-07-28
+Bucheon FC 1995,Prachuap Fc,w3452,https://www.soccer-rating.com/Bucheon-FC-1995/w3452/,Bucheon-FC-1995,0,2026-07-28
+Enfield Town FC,Pro Vasto,2235,https://www.soccer-rating.com/Enfield-Town-FC/2235/,Enfield-Town-FC,1,2026-07-28
+Al Wakra,Ps Barito Putera,w206,https://www.soccer-rating.com/Al-Wakra/w206/,Al-Wakra,1,2026-07-28
+CD Palestino (W),Psv Wellingara,w16190,https://www.soccer-rating.com/CD-Palestino-W/w16190/,CD-Palestino-W,1,2026-07-28
+Stjarnan Gardabaer (W),Racing Montevideo,w2924,https://www.soccer-rating.com/Stjarnan-Gardabaer-W/w2924/,Stjarnan-Gardabaer-W,1,2026-07-28
+Damac FC,Racing Veracruz,w2488,https://www.soccer-rating.com/Damac-FC/w2488/,Damac-FC,0,2026-07-28
+Deportes Temuco (W),Rd Ariquemes Fc Ro W,w17704,https://www.soccer-rating.com/Deportes-Temuco-W/w17704/,Deportes-Temuco-W,1,2026-07-28
+Ittihad Tanger,Real Kashmir,w2498,https://www.soccer-rating.com/Ittihad-Tanger/w2498/,Ittihad-Tanger,0,2026-07-28
+Al Ahli Jeddah,Real Madrid W,w267,https://www.soccer-rating.com/Al-Ahli-Jeddah/w267/,Al-Ahli-Jeddah,0,2026-07-28
+Genesis Huracan,Real Maryland,w12283,https://www.soccer-rating.com/Genesis-Huracan/w12283/,Genesis-Huracan,0,2026-07-28
+Hampton and Richmond,Real Oviedo Ii,2677,https://www.soccer-rating.com/Hampton-and-Richmond/2677/,Hampton-and-Richmond,1,2026-07-28
+FK Viktoria Plzen,Real Sociedad,623,https://www.soccer-rating.com/FK-Viktoria-Plzen/623/,FK-Viktoria-Plzen,0,2026-07-28
+Harkemase Boys,Redditch United,5942,https://www.soccer-rating.com/Harkemase-Boys/5942/,Harkemase-Boys,1,2026-07-28
+Santos Laguna (W),Rigas Futbola Skola W,w8168,https://www.soccer-rating.com/Santos-Laguna-W/w8168/,Santos-Laguna-W,1,2026-07-28
+Al Nasiriya,River Plate Asuncion,w1061,https://www.soccer-rating.com/Al-Nasiriya/w1061/,Al-Nasiriya,1,2026-07-28
+ACS Berceni,Rksv Halsteren,8304,https://www.soccer-rating.com/ACS-Berceni/8304/,ACS-Berceni,1,2026-07-28
+FK Jeni Maale,Roccella,18950,https://www.soccer-rating.com/FK-Jeni-Maale/18950/,FK-Jeni-Maale,1,2026-07-28
 1926 Bulancakspor,Romania,18944,https://www.soccer-rating.com/1926-Bulancakspor/18944/,1926-Bulancakspor,1,2026-07-27
 ACS Dumbravita,Romania,14104,https://www.soccer-rating.com/ACS-Dumbravita/14104/,ACS-Dumbravita,0,2026-07-27
 ACS FC Bacau,Romania,17838,https://www.soccer-rating.com/ACS-FC-Bacau/17838/,ACS-FC-Bacau,0,2026-07-27
@@ -2996,53 +3003,40 @@ Universitatea Cluj,Romania,1015,https://www.soccer-rating.com/Universitatea-Cluj
 Utebo FC,Romania,17457,https://www.soccer-rating.com/Utebo-FC/17457/,Utebo-FC,1,2026-07-27
 Worthing FC,Romania,2270,https://www.soccer-rating.com/Worthing-FC/2270/,Worthing-FC,1,2026-07-27
 Yelimay Semey,Romania,17606,https://www.soccer-rating.com/Yelimay-Semey/17606/,Yelimay-Semey,1,2026-07-27
-Al Shorta Baghdad,Unknown,w1024,https://www.soccer-rating.com/Al-Shorta-Baghdad/w1024/,Al-Shorta-Baghdad,1,2000-01-01
-Worksop Town,Unknown,3020,https://www.soccer-rating.com/Worksop-Town/3020/,Worksop-Town,1,2000-01-01
-Huachipato (W),Unknown,w16922,https://www.soccer-rating.com/Huachipato-W/w16922/,Huachipato-W,1,2000-01-01
-Vikingur Gotu,Unknown,452,https://www.soccer-rating.com/Vikingur-Gotu/452/,Vikingur-Gotu,0,2000-01-01
-CD Antofagasta (W),Unknown,w16189,https://www.soccer-rating.com/CD-Antofagasta-W/w16189/,CD-Antofagasta-W,1,2000-01-01
-Coquimbo Unido (W),Unknown,w16185,https://www.soccer-rating.com/Coquimbo-Unido-W/w16185/,Coquimbo-Unido-W,1,2000-01-01
-Kunming Zheng He Shipman,Unknown,w11233,https://www.soccer-rating.com/Kunming-Zheng-He-Shipman/w11233/,Kunming-Zheng-He-Shipman,1,2000-01-01
-Sa Merignac,Unknown,18735,https://www.soccer-rating.com/Sa-Merignac/18735/,Sa-Merignac,0,2000-01-01
-Wimborne Town,Unknown,5854,https://www.soccer-rating.com/Wimborne-Town/5854/,Wimborne-Town,1,2000-01-01
-UNAM Pumas (W),Unknown,w8157,https://www.soccer-rating.com/UNAM-Pumas-W/w8157/,UNAM-Pumas-W,1,2000-01-01
-Abha Club,Unknown,w2496,https://www.soccer-rating.com/Abha-Club/w2496/,Abha-Club,0,2000-01-01
-Al Adalah,Unknown,w5649,https://www.soccer-rating.com/Al-Adalah/w5649/,Al-Adalah,0,2000-01-01
-Al Ahli Jeddah,Unknown,w267,https://www.soccer-rating.com/Al-Ahli-Jeddah/w267/,Al-Ahli-Jeddah,0,2000-01-01
-Al Akhdoud,Unknown,w9581,https://www.soccer-rating.com/Al-Akhdoud/w9581/,Al-Akhdoud,0,2000-01-01
-Al Arabi Al-Saudi,Unknown,w9582,https://www.soccer-rating.com/Al-Arabi-Al-Saudi/w9582/,Al-Arabi-Al-Saudi,0,2000-01-01
-Al Batin,Unknown,w2490,https://www.soccer-rating.com/Al-Batin/w2490/,Al-Batin,0,2000-01-01
-Al Bukayriyah,Unknown,w9315,https://www.soccer-rating.com/Al-Bukayriyah/w9315/,Al-Bukayriyah,0,2000-01-01
-Al Draih,Unknown,w3645,https://www.soccer-rating.com/Al-Draih/w3645/,Al-Draih,0,2000-01-01
-Al Faisaly,Unknown,w1635,https://www.soccer-rating.com/Al-Faisaly/w1635/,Al-Faisaly,0,2000-01-01
-Al Fateh,Unknown,w263,https://www.soccer-rating.com/Al-Fateh/w263/,Al-Fateh,0,2000-01-01
-Al Feiha,Unknown,w4098,https://www.soccer-rating.com/Al-Feiha/w4098/,Al-Feiha,0,2000-01-01
-Al Hazem FC,Unknown,w261,https://www.soccer-rating.com/Al-Hazem-FC/w261/,Al-Hazem-FC,0,2000-01-01
-Al Hilal Riyadh,Unknown,w258,https://www.soccer-rating.com/Al-Hilal-Riyadh/w258/,Al-Hilal-Riyadh,0,2000-01-01
-Al Ittifaq Dammam,Unknown,w269,https://www.soccer-rating.com/Al-Ittifaq-Dammam/w269/,Al-Ittifaq-Dammam,0,2000-01-01
-Al Ittihad Jeddah,Unknown,w266,https://www.soccer-rating.com/Al-Ittihad-Jeddah/w266/,Al-Ittihad-Jeddah,0,2000-01-01
-Al Jabalain Hail,Unknown,w7916,https://www.soccer-rating.com/Al-Jabalain-Hail/w7916/,Al-Jabalain-Hail,0,2000-01-01
-Al Jandal,Unknown,w9570,https://www.soccer-rating.com/Al-Jandal/w9570/,Al-Jandal,0,2000-01-01
-Al Jubail Club,Unknown,w9584,https://www.soccer-rating.com/Al-Jubail-Club/w9584/,Al-Jubail-Club,0,2000-01-01
-Al Khaleej Saihat,Unknown,w2494,https://www.soccer-rating.com/Al-Khaleej-Saihat/w2494/,Al-Khaleej-Saihat,0,2000-01-01
-Al Kholood,Unknown,w12351,https://www.soccer-rating.com/Al-Kholood/w12351/,Al-Kholood,0,2000-01-01
-Al Najma,Unknown,w3119,https://www.soccer-rating.com/Al-Najma/w3119/,Al-Najma,0,2000-01-01
-Al Nasr Riyadh,Unknown,w262,https://www.soccer-rating.com/Al-Nasr-Riyadh/w262/,Al-Nasr-Riyadh,0,2000-01-01
-Al Orubah,Unknown,w2487,https://www.soccer-rating.com/Al-Orubah/w2487/,Al-Orubah,0,2000-01-01
-Al Qadisiya,Unknown,w268,https://www.soccer-rating.com/Al-Qadisiya/w268/,Al-Qadisiya,0,2000-01-01
-Al Raed Buraidah,Unknown,w265,https://www.soccer-rating.com/Al-Raed-Buraidah/w265/,Al-Raed-Buraidah,0,2000-01-01
-Al Riyadh SC,Unknown,w1849,https://www.soccer-rating.com/Al-Riyadh-SC/w1849/,Al-Riyadh-SC,0,2000-01-01
-Al Shabab Riyadh,Unknown,w259,https://www.soccer-rating.com/Al-Shabab-Riyadh/w259/,Al-Shabab-Riyadh,0,2000-01-01
-Al Taawon,Unknown,w1634,https://www.soccer-rating.com/Al-Taawon/w1634/,Al-Taawon,0,2000-01-01
-Al Taee Hail,Unknown,w607,https://www.soccer-rating.com/Al-Taee-Hail/w607/,Al-Taee-Hail,0,2000-01-01
-Al Wehda Mecca,Unknown,w264,https://www.soccer-rating.com/Al-Wehda-Mecca/w264/,Al-Wehda-Mecca,0,2000-01-01
-Al Zulfi SC,Unknown,w7158,https://www.soccer-rating.com/Al-Zulfi-SC/w7158/,Al-Zulfi-SC,0,2000-01-01
-Al-Anwar Club,Unknown,w17314,https://www.soccer-rating.com/Al-Anwar-Club/w17314/,Al-Anwar-Club,0,2000-01-01
-Al-Ula,Unknown,w17326,https://www.soccer-rating.com/Al-Ula/w17326/,Al-Ula,0,2000-01-01
-Damac FC,Unknown,w2488,https://www.soccer-rating.com/Damac-FC/w2488/,Damac-FC,0,2000-01-01
-Jeddah Club,Unknown,w6920,https://www.soccer-rating.com/Jeddah-Club/w6920/,Jeddah-Club,0,2000-01-01
-NEOM SC,Unknown,w2492,https://www.soccer-rating.com/NEOM-SC/w2492/,NEOM-SC,0,2000-01-01
-SVV Scheveningen,Unknown,8294,https://www.soccer-rating.com/SVV-Scheveningen/8294/,SVV-Scheveningen,1,2000-01-01
+Al Shorta Baghdad,Rosenborg Bk W,w1024,https://www.soccer-rating.com/Al-Shorta-Baghdad/w1024/,Al-Shorta-Baghdad,1,2026-07-28
+Worksop Town,Royal Knokke,3020,https://www.soccer-rating.com/Worksop-Town/3020/,Worksop-Town,1,2026-07-28
+Al Shabab Riyadh,Rsc Anderlecht W,w259,https://www.soccer-rating.com/Al-Shabab-Riyadh/w259/,Al-Shabab-Riyadh,0,2026-07-28
+FK Omarska,Rw Rankweil,16272,https://www.soccer-rating.com/FK-Omarska/16272/,FK-Omarska,0,2026-07-28
+FUS Rabat,Sacramento Republic Fc,w595,https://www.soccer-rating.com/FUS-Rabat/w595/,FUS-Rabat,0,2026-07-28
+Huachipato (W),Sahuayo Fc,w16922,https://www.soccer-rating.com/Huachipato-W/w16922/,Huachipato-W,1,2026-07-28
+Vikingur Gotu,Salpa Salo,452,https://www.soccer-rating.com/Vikingur-Gotu/452/,Vikingur-Gotu,0,2026-07-28
+CD Antofagasta (W),Samdrup Jongkhar Fc,w16189,https://www.soccer-rating.com/CD-Antofagasta-W/w16189/,CD-Antofagasta-W,1,2026-07-28
+Coquimbo Unido (W),San Antonio Fc,w16185,https://www.soccer-rating.com/Coquimbo-Unido-W/w16185/,Coquimbo-Unido-W,1,2026-07-28
+JS Omrane,San Francisco Ii,w14828,https://www.soccer-rating.com/JS-Omrane/w14828/,JS-Omrane,0,2026-07-28
+Kunming Zheng He Shipman,San Juan La Laguna Fc,w11233,https://www.soccer-rating.com/Kunming-Zheng-He-Shipman/w11233/,Kunming-Zheng-He-Shipman,1,2026-07-28
+Sa Merignac,Sandar Il,18735,https://www.soccer-rating.com/Sa-Merignac/18735/,Sa-Merignac,0,2026-07-28
+Wimborne Town,Sandvikens Aik Fk,5854,https://www.soccer-rating.com/Wimborne-Town/5854/,Wimborne-Town,1,2026-07-28
+UNAM Pumas (W),Sarpsborg 08 W,w8157,https://www.soccer-rating.com/UNAM-Pumas-W/w8157/,UNAM-Pumas-W,1,2026-07-28
+Abha Club,Saudi Arabia,w2496,https://www.soccer-rating.com/Abha-Club/w2496/,Abha-Club,0,2026-07-28
+Al Adalah,Saudi Arabia,w5649,https://www.soccer-rating.com/Al-Adalah/w5649/,Al-Adalah,0,2026-07-28
+Al Arabi Al-Saudi,Saudi Arabia,w9582,https://www.soccer-rating.com/Al-Arabi-Al-Saudi/w9582/,Al-Arabi-Al-Saudi,0,2026-07-28
+Al Batin,Saudi Arabia,w2490,https://www.soccer-rating.com/Al-Batin/w2490/,Al-Batin,0,2026-07-28
+Al Bukayriyah,Saudi Arabia,w9315,https://www.soccer-rating.com/Al-Bukayriyah/w9315/,Al-Bukayriyah,0,2026-07-28
+Al Draih,Saudi Arabia,w3645,https://www.soccer-rating.com/Al-Draih/w3645/,Al-Draih,0,2026-07-28
+Al Faisaly,Saudi Arabia,w1635,https://www.soccer-rating.com/Al-Faisaly/w1635/,Al-Faisaly,0,2026-07-28
+Al Jabalain Hail,Saudi Arabia,w7916,https://www.soccer-rating.com/Al-Jabalain-Hail/w7916/,Al-Jabalain-Hail,0,2026-07-28
+Al Jandal,Saudi Arabia,w9570,https://www.soccer-rating.com/Al-Jandal/w9570/,Al-Jandal,0,2026-07-28
+Al Jubail Club,Saudi Arabia,w9584,https://www.soccer-rating.com/Al-Jubail-Club/w9584/,Al-Jubail-Club,0,2026-07-28
+Al Orubah,Saudi Arabia,w2487,https://www.soccer-rating.com/Al-Orubah/w2487/,Al-Orubah,0,2026-07-28
+Al Raed Buraidah,Saudi Arabia,w265,https://www.soccer-rating.com/Al-Raed-Buraidah/w265/,Al-Raed-Buraidah,0,2026-07-28
+Al Taee Hail,Saudi Arabia,w607,https://www.soccer-rating.com/Al-Taee-Hail/w607/,Al-Taee-Hail,0,2026-07-28
+Al Wehda Mecca,Saudi Arabia,w264,https://www.soccer-rating.com/Al-Wehda-Mecca/w264/,Al-Wehda-Mecca,0,2026-07-28
+Al Zulfi SC,Saudi Arabia,w7158,https://www.soccer-rating.com/Al-Zulfi-SC/w7158/,Al-Zulfi-SC,0,2026-07-28
+Al-Anwar Club,Saudi Arabia,w17314,https://www.soccer-rating.com/Al-Anwar-Club/w17314/,Al-Anwar-Club,0,2026-07-28
+Al-Ula,Saudi Arabia,w17326,https://www.soccer-rating.com/Al-Ula/w17326/,Al-Ula,0,2026-07-28
+Jeddah Club,Saudi Arabia,w6920,https://www.soccer-rating.com/Jeddah-Club/w6920/,Jeddah-Club,0,2026-07-28
+Siroki Brijeg,Sc 1911 Kapellen Erft,537,https://www.soccer-rating.com/Siroki-Brijeg/537/,Siroki-Brijeg,0,2026-07-28
+SVV Scheveningen,Sc Schwaz,8294,https://www.soccer-rating.com/SVV-Scheveningen/8294/,SVV-Scheveningen,1,2026-07-28
 ASA Aarhus,Scotland,4032,https://www.soccer-rating.com/ASA-Aarhus/4032/,ASA-Aarhus,1,2026-07-27
 Airdrieonians FC,Scotland,1698,https://www.soccer-rating.com/Airdrieonians-FC/1698/,Airdrieonians-FC,0,2026-07-27
 Alloa Athletic,Scotland,1709,https://www.soccer-rating.com/Alloa-Athletic/1709/,Alloa-Athletic,0,2026-07-27
@@ -3164,9 +3158,11 @@ Volyn Lutsk,Scotland,1188,https://www.soccer-rating.com/Volyn-Lutsk/1188/,Volyn-
 Whitby Town,Scotland,2594,https://www.soccer-rating.com/Whitby-Town/2594/,Whitby-Town,1,2026-07-27
 Wisloka Debica,Scotland,2033,https://www.soccer-rating.com/Wisloka-Debica/2033/,Wisloka-Debica,1,2026-07-27
 Zenit St. Petersburg II,Scotland,8676,https://www.soccer-rating.com/Zenit-St-Petersburg-II/8676/,Zenit-St-Petersburg-II,1,2026-07-27
-Lancaster City FC,Unknown,3085,https://www.soccer-rating.com/Lancaster-City-FC/3085/,Lancaster-City-FC,1,2000-01-01
-Peterborough Sports FC,Unknown,10134,https://www.soccer-rating.com/Peterborough-Sports-FC/10134/,Peterborough-Sports-FC,1,2000-01-01
-Montreuil FC,Unknown,19106,https://www.soccer-rating.com/Montreuil-FC/19106/,Montreuil-FC,1,2000-01-01
+Lancaster City FC,Sd Ejea,3085,https://www.soccer-rating.com/Lancaster-City-FC/3085/,Lancaster-City-FC,1,2026-07-28
+Peterborough Sports FC,Sd Huesca B,10134,https://www.soccer-rating.com/Peterborough-Sports-FC/10134/,Peterborough-Sports-FC,1,2026-07-28
+Olancho FC,Se Patrocinense,w14438,https://www.soccer-rating.com/Olancho-FC/w14438/,Olancho-FC,0,2026-07-28
+Montreuil FC,Selsey,19106,https://www.soccer-rating.com/Montreuil-FC/19106/,Montreuil-FC,1,2026-07-28
+FK Radnik Hadzici,Sene,14248,https://www.soccer-rating.com/FK-Radnik-Hadzici/14248/,FK-Radnik-Hadzici,0,2026-07-28
 1. FC Vöcklabruck,Serbia,1791,https://www.soccer-rating.com/1-FC-Voecklabruck/1791/,1-FC-Voecklabruck,1,2026-07-27
 1. SC Sollenau,Serbia,4076,https://www.soccer-rating.com/1-SC-Sollenau/4076/,1-SC-Sollenau,1,2026-07-27
 Adonis Idaliou,Serbia,6965,https://www.soccer-rating.com/Adonis-Idaliou/6965/,Adonis-Idaliou,1,2026-07-27
@@ -3246,14 +3242,22 @@ UNA Strassen,Serbia,9961,https://www.soccer-rating.com/UNA-Strassen/9961/,UNA-St
 US Sénart-Moissy,Serbia,1488,https://www.soccer-rating.com/US-Senart-Moissy/1488/,US-Senart-Moissy,1,2026-07-27
 Vojvodina Novi Sad,Serbia,550,https://www.soccer-rating.com/Vojvodina-Novi-Sad/550/,Vojvodina-Novi-Sad,0,2026-07-27
 Witheridge,Serbia,10147,https://www.soccer-rating.com/Witheridge/10147/,Witheridge,1,2026-07-27
-NK Solin,Unknown,2715,https://www.soccer-rating.com/NK-Solin/2715/,NK-Solin,1,2000-01-01
-SG Sonnenhof Grossaspach,Unknown,1845,https://www.soccer-rating.com/SG-Sonnenhof-Grossaspach/1845/,SG-Sonnenhof-Grossaspach,0,2000-01-01
-Santiago Morning (W),Unknown,w10849,https://www.soccer-rating.com/Santiago-Morning-W/w10849/,Santiago-Morning-W,1,2000-01-01
-Aalborg BK (W),Unknown,w10806,https://www.soccer-rating.com/Aalborg-BK-W/w10806/,Aalborg-BK-W,1,2000-01-01
-Dartford FC,Unknown,2252,https://www.soccer-rating.com/Dartford-FC/2252/,Dartford-FC,1,2000-01-01
-Cruz Azul (W),Unknown,w8173,https://www.soccer-rating.com/Cruz-Azul-W/w8173/,Cruz-Azul-W,1,2000-01-01
-VV Capelle,Unknown,4622,https://www.soccer-rating.com/VV-Capelle/4622/,VV-Capelle,0,2000-01-01
-Deportes Recoleta (CHI) (W),Unknown,w17855,https://www.soccer-rating.com/Deportes-Recoleta-CHI-W/w17855/,Deportes-Recoleta-CHI-W,1,2000-01-01
+NK Solin,Sezanna Sa,2715,https://www.soccer-rating.com/NK-Solin/2715/,NK-Solin,1,2026-07-28
+Santiago Morning (W),Shabab Al Jeel,w10849,https://www.soccer-rating.com/Santiago-Morning-W/w10849/,Santiago-Morning-W,1,2026-07-28
+Renaissance Zemamra,Shabab Al Khaleel,w6831,https://www.soccer-rating.com/Renaissance-Zemamra/w6831/,Renaissance-Zemamra,0,2026-07-28
+Aalborg BK (W),Shabab Dora,w10806,https://www.soccer-rating.com/Aalborg-BK-W/w10806/,Aalborg-BK-W,1,2026-07-28
+FK Sloga Doboj,Shakhtyor Karaganda,6062,https://www.soccer-rating.com/FK-Sloga-Doboj/6062/,FK-Sloga-Doboj,0,2026-07-28
+NEOM SC,Shan United Fc,w2492,https://www.soccer-rating.com/NEOM-SC/w2492/,NEOM-SC,0,2026-07-28
+Aurora FC,Shandong Sports Lottery W,w8642,https://www.soccer-rating.com/Aurora-FC/w8642/,Aurora-FC,0,2026-07-28
+Dartford FC,Shaw Lane Aquaforce,2252,https://www.soccer-rating.com/Dartford-FC/2252/,Dartford-FC,1,2026-07-28
+1. FK Pribram II,Sheriff Yc,1961,https://www.soccer-rating.com/1-FK-Pribram-II/1961/,1-FK-Pribram-II,0,2026-07-28
+MC Alger,Shimizu S Pulse,w779,https://www.soccer-rating.com/MC-Alger/w779/,MC-Alger,0,2026-07-28
+Cruz Azul (W),Shoban Moslemen Qena,w8173,https://www.soccer-rating.com/Cruz-Azul-W/w8173/,Cruz-Azul-W,1,2026-07-28
+Sekhukhune United,Siheung Citizen,w10614,https://www.soccer-rating.com/Sekhukhune-United/w10614/,Sekhukhune-United,0,2026-07-28
+Borac Banja Luka,Sk Beveren,3860,https://www.soccer-rating.com/Borac-Banja-Luka/3860/,Borac-Banja-Luka,0,2026-07-28
+VV Capelle,Skedsmo Fk,4622,https://www.soccer-rating.com/VV-Capelle/4622/,VV-Capelle,0,2026-07-28
+Deportes Recoleta (CHI) (W),Skinandi W,w17855,https://www.soccer-rating.com/Deportes-Recoleta-CHI-W/w17855/,Deportes-Recoleta-CHI-W,1,2026-07-28
+Bangor FC,Skoruk Tomakovka,2946,https://www.soccer-rating.com/Bangor-FC/2946/,Bangor-FC,0,2026-07-28
 1.FC Tatran Presov,Slovakia,755,https://www.soccer-rating.com/1-FC-Tatran-Presov/755/,1-FC-Tatran-Presov,0,2026-07-27
 AS Trencin,Slovakia,166,https://www.soccer-rating.com/AS-Trencin/166/,AS-Trencin,0,2026-07-27
 Banik Kalinovo,Slovakia,8748,https://www.soccer-rating.com/Banik-Kalinovo/8748/,Banik-Kalinovo,1,2026-07-27
@@ -3376,84 +3380,54 @@ SIF,Slovenia,16801,https://www.soccer-rating.com/SIF/16801/,SIF,1,2026-07-27
 Skendija 79 Tetovo,Slovenia,1801,https://www.soccer-rating.com/Skendija-79-Tetovo/1801/,Skendija-79-Tetovo,1,2026-07-27
 Tabor Sezana,Slovenia,9406,https://www.soccer-rating.com/Tabor-Sezana/9406/,Tabor-Sezana,1,2026-07-27
 Vardar Skopje,Slovenia,546,https://www.soccer-rating.com/Vardar-Skopje/546/,Vardar-Skopje,1,2026-07-27
-Canet Roussillon FC,Unknown,19095,https://www.soccer-rating.com/Canet-Roussillon-FC/19095/,Canet-Roussillon-FC,0,2000-01-01
-Tonbridge Angels,Unknown,2255,https://www.soccer-rating.com/Tonbridge-Angels/2255/,Tonbridge-Angels,1,2000-01-01
-Matlock Town FC,Unknown,2613,https://www.soccer-rating.com/Matlock-Town-FC/2613/,Matlock-Town-FC,1,2000-01-01
-Amazulu Durban,Unknown,w197,https://www.soccer-rating.com/Amazulu-Durban/w197/,Amazulu-Durban,0,2000-01-01
-Baroka FC,Unknown,w3843,https://www.soccer-rating.com/Baroka-FC/w3843/,Baroka-FC,0,2000-01-01
-Black Leopards,Unknown,w2350,https://www.soccer-rating.com/Black-Leopards/w2350/,Black-Leopards,0,2000-01-01
-Cape Town City FC,Unknown,w3844,https://www.soccer-rating.com/Cape-Town-City-FC/w3844/,Cape-Town-City-FC,0,2000-01-01
-Casric Stars FC,Unknown,w14597,https://www.soccer-rating.com/Casric-Stars-FC/w14597/,Casric-Stars-FC,0,2000-01-01
-Chippa United,Unknown,w2815,https://www.soccer-rating.com/Chippa-United/w2815/,Chippa-United,0,2000-01-01
-Durban City FC 2024,Unknown,w198,https://www.soccer-rating.com/Durban-City-FC-2024/w198/,Durban-City-FC-2024,0,2000-01-01
-Golden Arrows,Unknown,w233,https://www.soccer-rating.com/Golden-Arrows/w233/,Golden-Arrows,0,2000-01-01
-Gomora United,Unknown,w17333,https://www.soccer-rating.com/Gomora-United/w17333/,Gomora-United,0,2000-01-01
-Highbury FC,Unknown,w16474,https://www.soccer-rating.com/Highbury-FC/w16474/,Highbury-FC,0,2000-01-01
-Hungry Lions FC,Unknown,w9834,https://www.soccer-rating.com/Hungry-Lions-FC/w9834/,Hungry-Lions-FC,0,2000-01-01
-Kaizer Chiefs,Unknown,w200,https://www.soccer-rating.com/Kaizer-Chiefs/w200/,Kaizer-Chiefs,0,2000-01-01
-Kruger United,Unknown,w16636,https://www.soccer-rating.com/Kruger-United/w16636/,Kruger-United,0,2000-01-01
-Leicesterford City,Unknown,w17280,https://www.soccer-rating.com/Leicesterford-City/w17280/,Leicesterford-City,0,2000-01-01
-Lerumo Lions,Unknown,w17328,https://www.soccer-rating.com/Lerumo-Lions/w17328/,Lerumo-Lions,0,2000-01-01
-Magesi FC,Unknown,w4970,https://www.soccer-rating.com/Magesi-FC/w4970/,Magesi-FC,0,2000-01-01
-Mamelodi Sundowns,Unknown,w237,https://www.soccer-rating.com/Mamelodi-Sundowns/w237/,Mamelodi-Sundowns,0,2000-01-01
-Marumo Gallants,Unknown,w3854,https://www.soccer-rating.com/Marumo-Gallants/w3854/,Marumo-Gallants,0,2000-01-01
-Midlands Wanderers FC,Unknown,w17257,https://www.soccer-rating.com/Midlands-Wanderers-FC/w17257/,Midlands-Wanderers-FC,0,2000-01-01
-Milford FC,Unknown,w4971,https://www.soccer-rating.com/Milford-FC/w4971/,Milford-FC,0,2000-01-01
-Orbit College FC,Unknown,w7272,https://www.soccer-rating.com/Orbit-College-FC/w7272/,Orbit-College-FC,0,2000-01-01
-Orlando Pirates,Unknown,w193,https://www.soccer-rating.com/Orlando-Pirates/w193/,Orlando-Pirates,0,2000-01-01
-Polokwane City,Unknown,w3594,https://www.soccer-rating.com/Polokwane-City/w3594/,Polokwane-City,0,2000-01-01
-Pretoria University FC,Unknown,w2911,https://www.soccer-rating.com/Pretoria-University-FC/w2911/,Pretoria-University-FC,0,2000-01-01
-Richards Bay FC,Unknown,w6837,https://www.soccer-rating.com/Richards-Bay-FC/w6837/,Richards-Bay-FC,0,2000-01-01
-Sekhukhune United,Unknown,w10614,https://www.soccer-rating.com/Sekhukhune-United/w10614/,Sekhukhune-United,0,2000-01-01
-Siwelele FC,Unknown,w17207,https://www.soccer-rating.com/Siwelele-FC/w17207/,Siwelele-FC,0,2000-01-01
-Stellenbosch FC,Unknown,w1717,https://www.soccer-rating.com/Stellenbosch-FC/w1717/,Stellenbosch-FC,0,2000-01-01
-TS Galaxy FC,Unknown,w7885,https://www.soccer-rating.com/TS-Galaxy-FC/w7885/,TS-Galaxy-FC,0,2000-01-01
-The Bees FC,Unknown,w4969,https://www.soccer-rating.com/The-Bees-FC/w4969/,The-Bees-FC,0,2000-01-01
-Upington City FC,Unknown,w15520,https://www.soccer-rating.com/Upington-City-FC/w15520/,Upington-City-FC,0,2000-01-01
-Venda Football Academy,Unknown,w13874,https://www.soccer-rating.com/Venda-Football-Academy/w13874/,Venda-Football-Academy,0,2000-01-01
-Ansan Greeners,Unknown,w4764,https://www.soccer-rating.com/Ansan-Greeners/w4764/,Ansan-Greeners,0,2000-01-01
-Bucheon FC 1995,Unknown,w3452,https://www.soccer-rating.com/Bucheon-FC-1995/w3452/,Bucheon-FC-1995,0,2000-01-01
-Busan I Park,Unknown,w855,https://www.soccer-rating.com/Busan-I-Park/w855/,Busan-I-Park,0,2000-01-01
-Busan Kyotong,Unknown,w2302,https://www.soccer-rating.com/Busan-Kyotong/w2302/,Busan-Kyotong,0,2000-01-01
-Changwon FC,Unknown,w2196,https://www.soccer-rating.com/Changwon-FC/w2196/,Changwon-FC,0,2000-01-01
-Cheonan City,Unknown,w2212,https://www.soccer-rating.com/Cheonan-City/w2212/,Cheonan-City,0,2000-01-01
-Cheongju FC,Unknown,w6522,https://www.soccer-rating.com/Cheongju-FC/w6522/,Cheongju-FC,0,2000-01-01
-Chuncheon FC,Unknown,w6524,https://www.soccer-rating.com/Chuncheon-FC/w6524/,Chuncheon-FC,0,2000-01-01
-Chungnam Asan,Unknown,w2213,https://www.soccer-rating.com/Chungnam-Asan/w2213/,Chungnam-Asan,0,2000-01-01
-Daegu,Unknown,w853,https://www.soccer-rating.com/Daegu/w853/,Daegu,0,2000-01-01
-Daejeon Citizen,Unknown,w856,https://www.soccer-rating.com/Daejeon-Citizen/w856/,Daejeon-Citizen,0,2000-01-01
-Daejeon Korail,Unknown,w2298,https://www.soccer-rating.com/Daejeon-Korail/w2298/,Daejeon-Korail,0,2000-01-01
-Dangjin Citizen,Unknown,w13724,https://www.soccer-rating.com/Dangjin-Citizen/w13724/,Dangjin-Citizen,0,2000-01-01
-FC Anyang,Unknown,w2197,https://www.soccer-rating.com/FC-Anyang/w2197/,FC-Anyang,0,2000-01-01
-FC Seoul,Unknown,w859,https://www.soccer-rating.com/FC-Seoul/w859/,FC-Seoul,0,2000-01-01
-Gangneung City,Unknown,w2216,https://www.soccer-rating.com/Gangneung-City/w2216/,Gangneung-City,0,2000-01-01
-Gangwon FC,Unknown,w858,https://www.soccer-rating.com/Gangwon-FC/w858/,Gangwon-FC,0,2000-01-01
-Gimcheon Sangmu FC,Unknown,w2019,https://www.soccer-rating.com/Gimcheon-Sangmu-FC/w2019/,Gimcheon-Sangmu-FC,0,2000-01-01
-Gimhae City,Unknown,w2206,https://www.soccer-rating.com/Gimhae-City/w2206/,Gimhae-City,0,2000-01-01
-Gimpo FC,Unknown,w4560,https://www.soccer-rating.com/Gimpo-FC/w4560/,Gimpo-FC,0,2000-01-01
-Gwangju FC,Unknown,w861,https://www.soccer-rating.com/Gwangju-FC/w861/,Gwangju-FC,0,2000-01-01
-Gyeongju HNP,Unknown,w1483,https://www.soccer-rating.com/Gyeongju-HNP/w1483/,Gyeongju-HNP,0,2000-01-01
-Gyeongnam,Unknown,w857,https://www.soccer-rating.com/Gyeongnam/w857/,Gyeongnam,0,2000-01-01
-Hwaseong FC,Unknown,w4559,https://www.soccer-rating.com/Hwaseong-FC/w4559/,Hwaseong-FC,0,2000-01-01
-Incheon United,Unknown,w860,https://www.soccer-rating.com/Incheon-United/w860/,Incheon-United,0,2000-01-01
-Jeju United,Unknown,w852,https://www.soccer-rating.com/Jeju-United/w852/,Jeju-United,0,2000-01-01
-Jeonbuk Hyundai Motors II,Unknown,w16879,https://www.soccer-rating.com/Jeonbuk-Hyundai-Motors-II/w16879/,Jeonbuk-Hyundai-Motors-II,0,2000-01-01
-Jeonbuk Motors,Unknown,w224,https://www.soccer-rating.com/Jeonbuk-Motors/w224/,Jeonbuk-Motors,0,2000-01-01
-Jeonnam Dragons,Unknown,w862,https://www.soccer-rating.com/Jeonnam-Dragons/w862/,Jeonnam-Dragons,0,2000-01-01
-Mokpo City,Unknown,w2205,https://www.soccer-rating.com/Mokpo-City/w2205/,Mokpo-City,0,2000-01-01
-Paju Frontier,Unknown,w9092,https://www.soccer-rating.com/Paju-Frontier/w9092/,Paju-Frontier,0,2000-01-01
-Pocheon FC,Unknown,w3981,https://www.soccer-rating.com/Pocheon-FC/w3981/,Pocheon-FC,0,2000-01-01
-Pohang Steelers,Unknown,w127,https://www.soccer-rating.com/Pohang-Steelers/w127/,Pohang-Steelers,0,2000-01-01
-Seongnam FC,Unknown,w128,https://www.soccer-rating.com/Seongnam-FC/w128/,Seongnam-FC,0,2000-01-01
-Seoul E-Land FC,Unknown,w4478,https://www.soccer-rating.com/Seoul-E-Land-FC/w4478/,Seoul-E-Land-FC,0,2000-01-01
-Siheung Citizen,Unknown,w10071,https://www.soccer-rating.com/Siheung-Citizen/w10071/,Siheung-Citizen,0,2000-01-01
-Suwon Bluewings,Unknown,w789,https://www.soccer-rating.com/Suwon-Bluewings/w789/,Suwon-Bluewings,0,2000-01-01
-Suwon FC,Unknown,w2285,https://www.soccer-rating.com/Suwon-FC/w2285/,Suwon-FC,0,2000-01-01
-Ulsan Citizen FC,Unknown,w10087,https://www.soccer-rating.com/Ulsan-Citizen-FC/w10087/,Ulsan-Citizen-FC,0,2000-01-01
-Ulsan Hyundai,Unknown,w863,https://www.soccer-rating.com/Ulsan-Hyundai/w863/,Ulsan-Hyundai,0,2000-01-01
-Yangpyeong FC,Unknown,w6515,https://www.soccer-rating.com/Yangpyeong-FC/w6515/,Yangpyeong-FC,0,2000-01-01
-Yeoju FC,Unknown,w10067,https://www.soccer-rating.com/Yeoju-FC/w10067/,Yeoju-FC,0,2000-01-01
-Yongin FC,Unknown,w2215,https://www.soccer-rating.com/Yongin-FC/w2215/,Yongin-FC,0,2000-01-01
+Canet Roussillon FC,So Choletais,19095,https://www.soccer-rating.com/Canet-Roussillon-FC/19095/,Canet-Roussillon-FC,0,2026-07-28
+Tonbridge Angels,Sokol Aleksandrow Lodzki,2255,https://www.soccer-rating.com/Tonbridge-Angels/2255/,Tonbridge-Angels,1,2026-07-28
+Matlock Town FC,Somaliska Uk,2613,https://www.soccer-rating.com/Matlock-Town-FC/2613/,Matlock-Town-FC,1,2026-07-28
+Baroka FC,South Africa,w3843,https://www.soccer-rating.com/Baroka-FC/w3843/,Baroka-FC,0,2026-07-28
+Black Leopards,South Africa,w2350,https://www.soccer-rating.com/Black-Leopards/w2350/,Black-Leopards,0,2026-07-28
+Casric Stars FC,South Africa,w14597,https://www.soccer-rating.com/Casric-Stars-FC/w14597/,Casric-Stars-FC,0,2026-07-28
+Gomora United,South Africa,w17333,https://www.soccer-rating.com/Gomora-United/w17333/,Gomora-United,0,2026-07-28
+Highbury FC,South Africa,w16474,https://www.soccer-rating.com/Highbury-FC/w16474/,Highbury-FC,0,2026-07-28
+Hungry Lions FC,South Africa,w9834,https://www.soccer-rating.com/Hungry-Lions-FC/w9834/,Hungry-Lions-FC,0,2026-07-28
+Kruger United,South Africa,w16636,https://www.soccer-rating.com/Kruger-United/w16636/,Kruger-United,0,2026-07-28
+Leicesterford City,South Africa,w17280,https://www.soccer-rating.com/Leicesterford-City/w17280/,Leicesterford-City,0,2026-07-28
+Lerumo Lions,South Africa,w17328,https://www.soccer-rating.com/Lerumo-Lions/w17328/,Lerumo-Lions,0,2026-07-28
+Midlands Wanderers FC,South Africa,w17257,https://www.soccer-rating.com/Midlands-Wanderers-FC/w17257/,Midlands-Wanderers-FC,0,2026-07-28
+Pretoria University FC,South Africa,w2911,https://www.soccer-rating.com/Pretoria-University-FC/w2911/,Pretoria-University-FC,0,2026-07-28
+The Bees FC,South Africa,w4969,https://www.soccer-rating.com/The-Bees-FC/w4969/,The-Bees-FC,0,2026-07-28
+Upington City FC,South Africa,w15520,https://www.soccer-rating.com/Upington-City-FC/w15520/,Upington-City-FC,0,2026-07-28
+Venda Football Academy,South Africa,w13874,https://www.soccer-rating.com/Venda-Football-Academy/w13874/,Venda-Football-Academy,0,2026-07-28
+Ansan Greeners,South Korea,w4764,https://www.soccer-rating.com/Ansan-Greeners/w4764/,Ansan-Greeners,0,2026-07-28
+Busan I Park,South Korea,w855,https://www.soccer-rating.com/Busan-I-Park/w855/,Busan-I-Park,0,2026-07-28
+Busan Kyotong,South Korea,w2302,https://www.soccer-rating.com/Busan-Kyotong/w2302/,Busan-Kyotong,0,2026-07-28
+Changwon FC,South Korea,w2196,https://www.soccer-rating.com/Changwon-FC/w2196/,Changwon-FC,0,2026-07-28
+Cheonan City,South Korea,w2212,https://www.soccer-rating.com/Cheonan-City/w2212/,Cheonan-City,0,2026-07-28
+Cheongju FC,South Korea,w6522,https://www.soccer-rating.com/Cheongju-FC/w6522/,Cheongju-FC,0,2026-07-28
+Chuncheon FC,South Korea,w6524,https://www.soccer-rating.com/Chuncheon-FC/w6524/,Chuncheon-FC,0,2026-07-28
+Chungnam Asan,South Korea,w2213,https://www.soccer-rating.com/Chungnam-Asan/w2213/,Chungnam-Asan,0,2026-07-28
+Daegu,South Korea,w853,https://www.soccer-rating.com/Daegu/w853/,Daegu,0,2026-07-28
+Daejeon Korail,South Korea,w2298,https://www.soccer-rating.com/Daejeon-Korail/w2298/,Daejeon-Korail,0,2026-07-28
+Dangjin Citizen,South Korea,w13724,https://www.soccer-rating.com/Dangjin-Citizen/w13724/,Dangjin-Citizen,0,2026-07-28
+Gangneung City,South Korea,w2216,https://www.soccer-rating.com/Gangneung-City/w2216/,Gangneung-City,0,2026-07-28
+Gimhae City,South Korea,w2206,https://www.soccer-rating.com/Gimhae-City/w2206/,Gimhae-City,0,2026-07-28
+Gimpo FC,South Korea,w4560,https://www.soccer-rating.com/Gimpo-FC/w4560/,Gimpo-FC,0,2026-07-28
+Gyeongju HNP,South Korea,w1483,https://www.soccer-rating.com/Gyeongju-HNP/w1483/,Gyeongju-HNP,0,2026-07-28
+Gyeongnam,South Korea,w857,https://www.soccer-rating.com/Gyeongnam/w857/,Gyeongnam,0,2026-07-28
+Hwaseong FC,South Korea,w4559,https://www.soccer-rating.com/Hwaseong-FC/w4559/,Hwaseong-FC,0,2026-07-28
+Jeonbuk Hyundai Motors II,South Korea,w16879,https://www.soccer-rating.com/Jeonbuk-Hyundai-Motors-II/w16879/,Jeonbuk-Hyundai-Motors-II,0,2026-07-28
+Jeonnam Dragons,South Korea,w862,https://www.soccer-rating.com/Jeonnam-Dragons/w862/,Jeonnam-Dragons,0,2026-07-28
+Mokpo City,South Korea,w2205,https://www.soccer-rating.com/Mokpo-City/w2205/,Mokpo-City,0,2026-07-28
+Paju Frontier,South Korea,w9092,https://www.soccer-rating.com/Paju-Frontier/w9092/,Paju-Frontier,0,2026-07-28
+Pocheon FC,South Korea,w3981,https://www.soccer-rating.com/Pocheon-FC/w3981/,Pocheon-FC,0,2026-07-28
+Seongnam FC,South Korea,w128,https://www.soccer-rating.com/Seongnam-FC/w128/,Seongnam-FC,0,2026-07-28
+Seoul E-Land FC,South Korea,w4478,https://www.soccer-rating.com/Seoul-E-Land-FC/w4478/,Seoul-E-Land-FC,0,2026-07-28
+Siheung Citizen,South Korea,w10071,https://www.soccer-rating.com/Siheung-Citizen/w10071/,Siheung-Citizen,0,2026-07-28
+Suwon Bluewings,South Korea,w789,https://www.soccer-rating.com/Suwon-Bluewings/w789/,Suwon-Bluewings,0,2026-07-28
+Suwon FC,South Korea,w2285,https://www.soccer-rating.com/Suwon-FC/w2285/,Suwon-FC,0,2026-07-28
+Ulsan Citizen FC,South Korea,w10087,https://www.soccer-rating.com/Ulsan-Citizen-FC/w10087/,Ulsan-Citizen-FC,0,2026-07-28
+Yangpyeong FC,South Korea,w6515,https://www.soccer-rating.com/Yangpyeong-FC/w6515/,Yangpyeong-FC,0,2026-07-28
+Yeoju FC,South Korea,w10067,https://www.soccer-rating.com/Yeoju-FC/w10067/,Yeoju-FC,0,2026-07-28
+Yongin FC,South Korea,w2215,https://www.soccer-rating.com/Yongin-FC/w2215/,Yongin-FC,0,2026-07-28
 AD Alcorcon,Spain,2291,https://www.soccer-rating.com/AD-Alcorcon/2291/,AD-Alcorcon,0,2026-07-27
 AD Ceuta,Spain,2354,https://www.soccer-rating.com/AD-Ceuta/2354/,AD-Ceuta,0,2026-07-27
 Albacete Balompie,Spain,1035,https://www.soccer-rating.com/Albacete-Balompie/1035/,Albacete-Balompie,0,2026-07-27
@@ -3616,23 +3590,34 @@ Villarreal CF,Spain,1074,https://www.soccer-rating.com/Villarreal-CF/1074/,Villa
 Villarreal CF II,Spain,2334,https://www.soccer-rating.com/Villarreal-CF-II/2334/,Villarreal-CF-II,1,2026-07-27
 Yeclano Deportivo,Spain,6696,https://www.soccer-rating.com/Yeclano-Deportivo/6696/,Yeclano-Deportivo,1,2026-07-27
 Zamora CF,Spain,2329,https://www.soccer-rating.com/Zamora-CF/2329/,Zamora-CF,0,2026-07-27
-Geylang International,Unknown,w560,https://www.soccer-rating.com/Geylang-International/w560/,Geylang-International,1,2000-01-01
-Dunavarsanyi TE,Unknown,14839,https://www.soccer-rating.com/Dunavarsanyi-TE/14839/,Dunavarsanyi-TE,1,2000-01-01
-Salisbury FC,Unknown,1143,https://www.soccer-rating.com/Salisbury-FC/1143/,Salisbury-FC,1,2000-01-01
-St Cyr Collonges au Mont d Or,Unknown,19109,https://www.soccer-rating.com/St-Cyr-Collonges-au-Mont-d-Or/19109/,St-Cyr-Collonges-au-Mont-d-Or,0,2000-01-01
-St Patricks Athletic,Unknown,47,https://www.soccer-rating.com/St-Patricks-Athletic/47/,St-Patricks-Athletic,0,2000-01-01
-KF Besa Doberdoll,Unknown,18080,https://www.soccer-rating.com/KF-Besa-Doberdoll/18080/,KF-Besa-Doberdoll,1,2000-01-01
-Silivrispor,Unknown,8899,https://www.soccer-rating.com/Silivrispor/8899/,Silivrispor,1,2000-01-01
-Bracknell Town,Unknown,3067,https://www.soccer-rating.com/Bracknell-Town/3067/,Bracknell-Town,1,2000-01-01
-PD Ergue-Gaberic,Unknown,18248,https://www.soccer-rating.com/PD-Ergue-Gaberic/18248/,PD-Ergue-Gaberic,1,2000-01-01
-Tennis Borussia Berlin,Unknown,1978,https://www.soccer-rating.com/Tennis-Borussia-Berlin/1978/,Tennis-Borussia-Berlin,1,2000-01-01
-Edgeworth Eagles,Unknown,w4000,https://www.soccer-rating.com/Edgeworth-Eagles/w4000/,Edgeworth-Eagles,1,2000-01-01
-CS Cartagines,Unknown,w494,https://www.soccer-rating.com/CS-Cartagines/w494/,CS-Cartagines,0,2000-01-01
-Al Zawraa Baghdad,Unknown,w1138,https://www.soccer-rating.com/Al-Zawraa-Baghdad/w1138/,Al-Zawraa-Baghdad,1,2000-01-01
-GSI Pontivy,Unknown,3800,https://www.soccer-rating.com/GSI-Pontivy/3800/,GSI-Pontivy,0,2000-01-01
-Sepahan Isfahan,Unknown,w131,https://www.soccer-rating.com/Sepahan-Isfahan/w131/,Sepahan-Isfahan,1,2000-01-01
-Hanwell Town,Unknown,10140,https://www.soccer-rating.com/Hanwell-Town/10140/,Hanwell-Town,1,2000-01-01
-Plouzane AC Football,Unknown,6949,https://www.soccer-rating.com/Plouzane-AC-Football/6949/,Plouzane-AC-Football,1,2000-01-01
+Coleraine FC,Spartak Kostroma,2095,https://www.soccer-rating.com/Coleraine-FC/2095/,Coleraine-FC,0,2026-07-28
+ℹ️ More Info,Spartak Moskva,82,https://www.soccer-rating.com/Troms-IL/82/,Troms-IL,0,2026-07-28
+CODM Meknes,Sportivo Ameliano,w2371,https://www.soccer-rating.com/CODM-Meknes/w2371/,CODM-Meknes,0,2026-07-28
+Geylang International,Sportivo Dock Sud,w560,https://www.soccer-rating.com/Geylang-International/w560/,Geylang-International,1,2026-07-28
+Dunavarsanyi TE,Sportlust 46,14839,https://www.soccer-rating.com/Dunavarsanyi-TE/14839/,Dunavarsanyi-TE,1,2026-07-28
+Salisbury FC,Sprimont Comblain Sport,1143,https://www.soccer-rating.com/Salisbury-FC/1143/,Salisbury-FC,1,2026-07-28
+Glenavon FC,Spvgg Bayern Hof,1872,https://www.soccer-rating.com/Glenavon-FC/1872/,Glenavon-FC,0,2026-07-28
+KF Besa Doberdoll,Stade Briochin,18080,https://www.soccer-rating.com/KF-Besa-Doberdoll/18080/,KF-Besa-Doberdoll,1,2026-07-28
+Silivrispor,Stade Pontivy,8899,https://www.soccer-rating.com/Silivrispor/8899/,Silivrispor,1,2026-07-28
+Slavia Praha,Stade Rennes,619,https://www.soccer-rating.com/Slavia-Praha/619/,Slavia-Praha,0,2026-07-28
+Slavia Praha U20,Stal Sanok,18903,https://www.soccer-rating.com/Slavia-Praha-U20/18903/,Slavia-Praha-U20,0,2026-07-28
+Al Fateh,Stjarnan Gardabaer W,w263,https://www.soccer-rating.com/Al-Fateh/w263/,Al-Fateh,0,2026-07-28
+Bracknell Town,Stk Eilvese,3067,https://www.soccer-rating.com/Bracknell-Town/3067/,Bracknell-Town,1,2026-07-28
+TS Galaxy FC,Stormers San Lorenzo,w7885,https://www.soccer-rating.com/TS-Galaxy-FC/w7885/,TS-Galaxy-FC,0,2026-07-28
+Famos Vojkovici,Strabane Athletic,17647,https://www.soccer-rating.com/Famos-Vojkovici/17647/,Famos-Vojkovici,0,2026-07-28
+PD Ergue-Gaberic,Stryn,18248,https://www.soccer-rating.com/PD-Ergue-Gaberic/18248/,PD-Ergue-Gaberic,1,2026-07-28
+Tennis Borussia Berlin,Su Dives Cabourg,1978,https://www.soccer-rating.com/Tennis-Borussia-Berlin/1978/,Tennis-Borussia-Berlin,1,2026-07-28
+Edgeworth Eagles,Suez Montakhab,w4000,https://www.soccer-rating.com/Edgeworth-Eagles/w4000/,Edgeworth-Eagles,1,2026-07-28
+JS Kabylie,Sun Hei Sc,w778,https://www.soccer-rating.com/JS-Kabylie/w778/,JS-Kabylie,0,2026-07-28
+CS Cartagines,Supersport United,w494,https://www.soccer-rating.com/CS-Cartagines/w494/,CS-Cartagines,0,2026-07-28
+Al Zawraa Baghdad,Suwon Fc,w1138,https://www.soccer-rating.com/Al-Zawraa-Baghdad/w1138/,Al-Zawraa-Baghdad,1,2026-07-28
+Tosk Tesanj,Sv Biemenhorst,13645,https://www.soccer-rating.com/Tosk-Tesanj/13645/,Tosk-Tesanj,0,2026-07-28
+Sepahan Isfahan,Sv Bubali,w131,https://www.soccer-rating.com/Sepahan-Isfahan/w131/,Sepahan-Isfahan,1,2026-07-28
+Hanwell Town,Sv Eichede Ii,10140,https://www.soccer-rating.com/Hanwell-Town/10140/,Hanwell-Town,1,2026-07-28
+Difaa El Jadida,Sv Estrella,w597,https://www.soccer-rating.com/Difaa-El-Jadida/w597/,Difaa-El-Jadida,0,2026-07-28
+GSI Pontivy,Sv Horn,3800,https://www.soccer-rating.com/GSI-Pontivy/3800/,GSI-Pontivy,0,2026-07-28
+Plouzane AC Football,Sv Neuhofen Im Innkreis,6949,https://www.soccer-rating.com/Plouzane-AC-Football/6949/,Plouzane-AC-Football,1,2026-07-28
+ES Metlaoui,Svay Rieng Province,w3637,https://www.soccer-rating.com/ES-Metlaoui/w3637/,ES-Metlaoui,0,2026-07-28
 AIK Solna,Sweden,65,https://www.soccer-rating.com/AIK-Solna/65/,AIK-Solna,0,2026-07-27
 Ariana FC,Sweden,16820,https://www.soccer-rating.com/Ariana-FC/16820/,Ariana-FC,0,2026-07-27
 Assyriska FF,Sweden,415,https://www.soccer-rating.com/Assyriska-FF/415/,Assyriska-FF,0,2026-07-27
@@ -3739,36 +3724,35 @@ Stade Nyonnais,Switzerland,2809,https://www.soccer-rating.com/Stade-Nyonnais/280
 Young Boys Bern,Switzerland,198,https://www.soccer-rating.com/Young-Boys-Bern/198/,Young-Boys-Bern,0,2026-07-27
 Young Boys Bern II,Switzerland,15406,https://www.soccer-rating.com/Young-Boys-Bern-II/15406/,Young-Boys-Bern-II,0,2026-07-27
 Yverdon Sport FC,Switzerland,1123,https://www.soccer-rating.com/Yverdon-Sport-FC/1123/,Yverdon-Sport-FC,0,2026-07-27
-USM Bel Abbes U21,Unknown,w8171,https://www.soccer-rating.com/USM-Bel-Abbes-U21/w8171/,USM-Bel-Abbes-U21,1,2000-01-01
-CD Everton Vina del Mar (W),Unknown,w16184,https://www.soccer-rating.com/CD-Everton-Vina-del-Mar-W/w16184/,CD-Everton-Vina-del-Mar-W,1,2000-01-01
-Bangkok FC,Unknown,w4076,https://www.soccer-rating.com/Bangkok-FC/w4076/,Bangkok-FC,1,2000-01-01
-FC Berghuizen (W),Unknown,w15948,https://www.soccer-rating.com/FC-Berghuizen-W/w15948/,FC-Berghuizen-W,1,2000-01-01
-Lundtofte,Unknown,8089,https://www.soccer-rating.com/Lundtofte/8089/,Lundtofte,1,2000-01-01
-Al Tadamun Hadramaut,Unknown,w17483,https://www.soccer-rating.com/Al-Tadamun-Hadramaut/w17483/,Al-Tadamun-Hadramaut,1,2000-01-01
-Ceara U20,Unknown,w10269,https://www.soccer-rating.com/Ceara-U20/w10269/,Ceara-U20,1,2000-01-01
-Tanjong Pagar Utd,Unknown,w1875,https://www.soccer-rating.com/Tanjong-Pagar-Utd/w1875/,Tanjong-Pagar-Utd,1,2000-01-01
-Arkadag FK,Unknown,w16995,https://www.soccer-rating.com/Arkadag-FK/w16995/,Arkadag-FK,1,2000-01-01
-Oxford City,Unknown,2618,https://www.soccer-rating.com/Oxford-City/2618/,Oxford-City,1,2000-01-01
-Zamora Barinas,Unknown,w181,https://www.soccer-rating.com/Zamora-Barinas/w181/,Zamora-Barinas,0,2000-01-01
-Al Ain FC,Unknown,w7976,https://www.soccer-rating.com/Al-Ain-FC/w7976/,Al-Ain-FC,1,2000-01-01
-HSC 21,Unknown,16931,https://www.soccer-rating.com/HSC-21/16931/,HSC-21,0,2000-01-01
-HSC 21 Brein,Unknown,4624,https://www.soccer-rating.com/HSC-21-Brein/4624/,HSC-21-Brein,1,2000-01-01
-AS Gabes,Unknown,w1489,https://www.soccer-rating.com/AS-Gabes/w1489/,AS-Gabes,0,2000-01-01
-AS Marsa,Unknown,w1488,https://www.soccer-rating.com/AS-Marsa/w1488/,AS-Marsa,0,2000-01-01
-AS Slimane,Unknown,w7103,https://www.soccer-rating.com/AS-Slimane/w7103/,AS-Slimane,0,2000-01-01
-CA Bizertin,Unknown,w625,https://www.soccer-rating.com/CA-Bizertin/w625/,CA-Bizertin,0,2000-01-01
-CS Sfaxien,Unknown,w619,https://www.soccer-rating.com/CS-Sfaxien/w619/,CS-Sfaxien,0,2000-01-01
-Club Africain,Unknown,w616,https://www.soccer-rating.com/Club-Africain/w616/,Club-Africain,0,2000-01-01
-ES Metlaoui,Unknown,w3637,https://www.soccer-rating.com/ES-Metlaoui/w3637/,ES-Metlaoui,0,2000-01-01
-ES Zarzis,Unknown,w620,https://www.soccer-rating.com/ES-Zarzis/w620/,ES-Zarzis,0,2000-01-01
-Esperance Tunis,Unknown,w627,https://www.soccer-rating.com/Esperance-Tunis/w627/,Esperance-Tunis,0,2000-01-01
-Etoile Sahel,Unknown,w629,https://www.soccer-rating.com/Etoile-Sahel/w629/,Etoile-Sahel,0,2000-01-01
-JS Kairouan,Unknown,w621,https://www.soccer-rating.com/JS-Kairouan/w621/,JS-Kairouan,0,2000-01-01
-JS Omrane,Unknown,w14828,https://www.soccer-rating.com/JS-Omrane/w14828/,JS-Omrane,0,2000-01-01
-Olympique Beja,Unknown,w626,https://www.soccer-rating.com/Olympique-Beja/w626/,Olympique-Beja,0,2000-01-01
-Stade Tunisien,Unknown,w628,https://www.soccer-rating.com/Stade-Tunisien/w628/,Stade-Tunisien,0,2000-01-01
-US Ben Guerdane,Unknown,w4778,https://www.soccer-rating.com/US-Ben-Guerdane/w4778/,US-Ben-Guerdane,0,2000-01-01
-US Monastir,Unknown,w624,https://www.soccer-rating.com/US-Monastir/w624/,US-Monastir,0,2000-01-01
+USM Bel Abbes U21,Tamborine Mountain Eagles Sc,w8171,https://www.soccer-rating.com/USM-Bel-Abbes-U21/w8171/,USM-Bel-Abbes-U21,1,2026-07-28
+Velez Mostar,Tampere United,1175,https://www.soccer-rating.com/Velez-Mostar/1175/,Velez-Mostar,0,2026-07-28
+Al Khaleej Saihat,Tampines Rovers,w2494,https://www.soccer-rating.com/Al-Khaleej-Saihat/w2494/,Al-Khaleej-Saihat,0,2026-07-28
+CD Everton Vina del Mar (W),Team Socceroo,w16184,https://www.soccer-rating.com/CD-Everton-Vina-del-Mar-W/w16184/,CD-Everton-Vina-del-Mar-W,1,2026-07-28
+Bangkok FC,Thailand,w4076,https://www.soccer-rating.com/Bangkok-FC/w4076/,Bangkok-FC,1,2026-07-28
+Etoile Sahel,The Strongest,w629,https://www.soccer-rating.com/Etoile-Sahel/w629/,Etoile-Sahel,0,2026-07-28
+Al Hilal Riyadh,Thimphu City Fc,w258,https://www.soccer-rating.com/Al-Hilal-Riyadh/w258/,Al-Hilal-Riyadh,0,2026-07-28
+FC Berghuizen (W),Thonburi United Fc,w15948,https://www.soccer-rating.com/FC-Berghuizen-W/w15948/,FC-Berghuizen-W,1,2026-07-28
+SK Aritma Praha,Tilikratis Fc,12301,https://www.soccer-rating.com/SK-Aritma-Praha/12301/,SK-Aritma-Praha,0,2026-07-28
+Lundtofte,Tiszafoldvar Vse,8089,https://www.soccer-rating.com/Lundtofte/8089/,Lundtofte,1,2026-07-28
+NK Jedinstvo Bihac,Tj Sk Sokol Jakub,1176,https://www.soccer-rating.com/NK-Jedinstvo-Bihac/1176/,NK-Jedinstvo-Bihac,0,2026-07-28
+Al Tadamun Hadramaut,Tnt Fc,w17483,https://www.soccer-rating.com/Al-Tadamun-Hadramaut/w17483/,Al-Tadamun-Hadramaut,1,2026-07-28
+FC Pisek,Tokatspor,4136,https://www.soccer-rating.com/FC-Pisek/4136/,FC-Pisek,0,2026-07-28
+USM Khenchela,Tokushima Vortis,w5900,https://www.soccer-rating.com/USM-Khenchela/w5900/,USM-Khenchela,0,2026-07-28
+Ceara U20,Tokyo Musashino United Fc,w10269,https://www.soccer-rating.com/Ceara-U20/w10269/,Ceara-U20,1,2026-07-28
+Tanjong Pagar Utd,Torrelodones Cf W,w1875,https://www.soccer-rating.com/Tanjong-Pagar-Utd/w1875/,Tanjong-Pagar-Utd,1,2026-07-28
+Arkadag FK,Tottenham Hotspur U19,w16995,https://www.soccer-rating.com/Arkadag-FK/w16995/,Arkadag-FK,1,2026-07-28
+Al Ittihad Jeddah,Transport United Fc,w266,https://www.soccer-rating.com/Al-Ittihad-Jeddah/w266/,Al-Ittihad-Jeddah,0,2026-07-28
+Oxford City,Trelissac Fc,2618,https://www.soccer-rating.com/Oxford-City/2618/,Oxford-City,1,2026-07-28
+Zamora Barinas,Triangle Fc,w181,https://www.soccer-rating.com/Zamora-Barinas/w181/,Zamora-Barinas,0,2026-07-28
+AS Marsa,Ts Galaxy Fc,w1488,https://www.soccer-rating.com/AS-Marsa/w1488/,AS-Marsa,0,2026-07-28
+Al Ain FC,Ts Sporting Fc,w7976,https://www.soccer-rating.com/Al-Ain-FC/w7976/,Al-Ain-FC,1,2026-07-28
+HSC 21,Tsv Grunwald,16931,https://www.soccer-rating.com/HSC-21/16931/,HSC-21,0,2026-07-28
+HSC 21 Brein,Tsv Grunwald,4624,https://www.soccer-rating.com/HSC-21-Brein/4624/,HSC-21-Brein,1,2026-07-28
+FK MAS Taborsko II,Tsv Laegerdorf,10063,https://www.soccer-rating.com/FK-MAS-Taborsko-II/10063/,FK-MAS-Taborsko-II,0,2026-07-28
+FK BSK Banja Luka,Tsv Noerdlingen,17802,https://www.soccer-rating.com/FK-BSK-Banja-Luka/17802/,FK-BSK-Banja-Luka,0,2026-07-28
+JSM Massira,Tullamarine Fc,w601,https://www.soccer-rating.com/JSM-Massira/w601/,JSM-Massira,0,2026-07-28
+Inter Toronto,Tung Sing,w11379,https://www.soccer-rating.com/Inter-Toronto/w11379/,Inter-Toronto,0,2026-07-28
+Velez Nevesinje,Tura Meldorf,14762,https://www.soccer-rating.com/Velez-Nevesinje/14762/,Velez-Nevesinje,0,2026-07-28
 1461 Trabzon,Turkey,1027,https://www.soccer-rating.com/1461-Trabzon/1027/,1461-Trabzon,0,2026-07-27
 68 Aksaray Belediyespor,Turkey,9589,https://www.soccer-rating.com/68-Aksaray-Belediyespor/9589/,68-Aksaray-Belediyespor,0,2026-07-27
 Adana 01 FK,Turkey,18137,https://www.soccer-rating.com/Adana-01-FK/18137/,Adana-01-FK,0,2026-07-27
@@ -3955,10 +3939,6 @@ Vancouver Whitecaps,USA,w1125,https://www.soccer-rating.com/Vancouver-Whitecaps/
 Vancouver Whitecaps II,USA,w3569,https://www.soccer-rating.com/Vancouver-Whitecaps-II/w3569/,Vancouver-Whitecaps-II,0,2026-07-27
 Ventura County Fusion,USA,w15154,https://www.soccer-rating.com/Ventura-County-Fusion/w15154/,Ventura-County-Fusion,0,2026-07-27
 Westchester SC,USA,w16891,https://www.soccer-rating.com/Westchester-SC/w16891/,Westchester-SC,0,2026-07-27
-ℹ️ More Info,Unknown,1453,https://www.soccer-rating.com/Gornik-Zabrze/1453/,Gornik-Zabrze,0,2000-01-01
-ℹ️ More Info,Unknown,949,https://www.soccer-rating.com/FC-Aberdeen/949/,FC-Aberdeen,0,2000-01-01
-ℹ️ More Info,Unknown,1124,https://www.soccer-rating.com/FC-Lausanne-Sport/1124/,FC-Lausanne-Sport,0,2000-01-01
-ℹ️ More Info,Unknown,82,https://www.soccer-rating.com/Troms-IL/82/,Troms-IL,0,2000-01-01
 Agrobiznes Volochisk,Ukraine,12350,https://www.soccer-rating.com/Agrobiznes-Volochisk/12350/,Agrobiznes-Volochisk,0,2026-07-27
 Bukovina Chernovtsy,Ukraine,1203,https://www.soccer-rating.com/Bukovina-Chernovtsy/1203/,Bukovina-Chernovtsy,0,2026-07-27
 Chernomorets Odessa,Ukraine,291,https://www.soccer-rating.com/Chernomorets-Odessa/291/,Chernomorets-Odessa,0,2026-07-27
@@ -3993,12 +3973,20 @@ Veres Rivne,Ukraine,1214,https://www.soccer-rating.com/Veres-Rivne/1214/,Veres-R
 Victoria Mykolaivka,Ukraine,13452,https://www.soccer-rating.com/Victoria-Mykolaivka/13452/,Victoria-Mykolaivka,0,2026-07-27
 Vorskla Poltava,Ukraine,301,https://www.soccer-rating.com/Vorskla-Poltava/301/,Vorskla-Poltava,0,2026-07-27
 Zorya Lugansk,Ukraine,302,https://www.soccer-rating.com/Zorya-Lugansk/302/,Zorya-Lugansk,0,2026-07-27
-Puebla (W),Unknown,w8164,https://www.soccer-rating.com/Puebla-W/w8164/,Puebla-W,1,2000-01-01
-Chelmsford City,Unknown,2688,https://www.soccer-rating.com/Chelmsford-City/2688/,Chelmsford-City,1,2000-01-01
-CD Atletico Paso,Unknown,17453,https://www.soccer-rating.com/CD-Atletico-Paso/17453/,CD-Atletico-Paso,1,2000-01-01
-Flugoiania (U20),Unknown,w12367,https://www.soccer-rating.com/Flugoiania-U20/w12367/,Flugoiania-U20,1,2000-01-01
+Puebla (W),Ulverstone,w8164,https://www.soccer-rating.com/Puebla-W/w8164/,Puebla-W,1,2026-07-28
+Chelmsford City,Union Brescia,2688,https://www.soccer-rating.com/Chelmsford-City/2688/,Chelmsford-City,1,2026-07-28
+CD Atletico Paso,Unirea Jucu,17453,https://www.soccer-rating.com/CD-Atletico-Paso/17453/,CD-Atletico-Paso,1,2026-07-28
+Flugoiania (U20),Universitario Sucre,w12367,https://www.soccer-rating.com/Flugoiania-U20/w12367/,Flugoiania-U20,1,2026-07-28
+Comunicaciones,Unknown,w429,https://www.soccer-rating.com/Comunicaciones/w429/,Comunicaciones,0,2000-01-01
+FC Bruegge,Unknown,905,https://www.soccer-rating.com/FC-Bruegge/905/,FC-Bruegge,0,2000-01-01
+SG Sonnenhof Grossaspach,Unknown,1845,https://www.soccer-rating.com/SG-Sonnenhof-Grossaspach/1845/,SG-Sonnenhof-Grossaspach,0,2000-01-01
+St Cyr Collonges au Mont d Or,Unknown,19109,https://www.soccer-rating.com/St-Cyr-Collonges-au-Mont-d-Or/19109/,St-Cyr-Collonges-au-Mont-d-Or,0,2000-01-01
+St Patricks Athletic,Unknown,47,https://www.soccer-rating.com/St-Patricks-Athletic/47/,St-Patricks-Athletic,0,2000-01-01
 Universitario de Vinto,Unknown,w12812,https://www.soccer-rating.com/Universitario-de-Vinto/w12812,Universitario-de-Vinto,0,2000-01-01
-Bamber Bridge,Unknown,2223,https://www.soccer-rating.com/Bamber-Bridge/2223/,Bamber-Bridge,1,2000-01-01
+ℹ️ More Info,Unknown,1453,https://www.soccer-rating.com/Gornik-Zabrze/1453/,Gornik-Zabrze,0,2000-01-01
+ℹ️ More Info,Unknown,949,https://www.soccer-rating.com/FC-Aberdeen/949/,FC-Aberdeen,0,2000-01-01
+ℹ️ More Info,Unknown,1124,https://www.soccer-rating.com/FC-Lausanne-Sport/1124/,FC-Lausanne-Sport,0,2000-01-01
+Bamber Bridge,Ursus Warszaw,2223,https://www.soccer-rating.com/Bamber-Bridge/2223/,Bamber-Bridge,1,2026-07-28
 Albion FC,Uruguay,w10167,https://www.soccer-rating.com/Albion-FC/w10167/,Albion-FC,0,2026-07-27
 Boston River,Uruguay,w5556,https://www.soccer-rating.com/Boston-River/w5556/,Boston-River,0,2026-07-27
 CA Atenas de San Carlos,Uruguay,w154,https://www.soccer-rating.com/CA-Atenas-de-San-Carlos/w154/,CA-Atenas-de-San-Carlos,0,2026-07-27
@@ -4029,10 +4017,14 @@ Racing Montevideo,Uruguay,w152,https://www.soccer-rating.com/Racing-Montevideo/w
 River Plate Montevideo,Uruguay,w159,https://www.soccer-rating.com/River-Plate-Montevideo/w159/,River-Plate-Montevideo,0,2026-07-27
 Tacuarembo FC,Uruguay,w161,https://www.soccer-rating.com/Tacuarembo-FC/w161/,Tacuarembo-FC,0,2026-07-27
 Uruguay Montevideo,Uruguay,w10521,https://www.soccer-rating.com/Uruguay-Montevideo/w10521/,Uruguay-Montevideo,0,2026-07-27
-Ulefoss,Unknown,5116,https://www.soccer-rating.com/Ulefoss/5116/,Ulefoss,1,2000-01-01
-Chertsey Town,Unknown,6866,https://www.soccer-rating.com/Chertsey-Town/6866/,Chertsey-Town,1,2000-01-01
-CD Universidad de Concepcion (W),Unknown,w16221,https://www.soccer-rating.com/CD-Universidad-de-Concepcion-W/w16221/,CD-Universidad-de-Concepcion-W,1,2000-01-01
-Atletico San Luis W,Unknown,w9219,https://www.soccer-rating.com/Atletico-San-Luis-W/w9219/,Atletico-San-Luis-W,0,2000-01-01
+Paradou AC,Us Ben Guerdane,w2465,https://www.soccer-rating.com/Paradou-AC/w2465/,Paradou-AC,0,2026-07-28
+Ulefoss,Us Chauvigny,5116,https://www.soccer-rating.com/Ulefoss/5116/,Ulefoss,1,2026-07-28
+Sparta Praha,Us Cremonese,626,https://www.soccer-rating.com/Sparta-Praha/626/,Sparta-Praha,0,2026-07-28
+Chertsey Town,Us Lusitanos Saint Maur,6866,https://www.soccer-rating.com/Chertsey-Town/6866/,Chertsey-Town,1,2026-07-28
+Hassania Agadir,Us Monastir,w592,https://www.soccer-rating.com/Hassania-Agadir/w592/,Hassania-Agadir,0,2026-07-28
+CD Universidad de Concepcion (W),Usm Bel Abbes,w16221,https://www.soccer-rating.com/CD-Universidad-de-Concepcion-W/w16221/,CD-Universidad-de-Concepcion-W,1,2026-07-28
+Atletico San Luis W,Usm Bel Abbes U21,w9219,https://www.soccer-rating.com/Atletico-San-Luis-W/w9219/,Atletico-San-Luis-W,0,2026-07-28
+ASO Chlef,Vegalta Sendai,w706,https://www.soccer-rating.com/ASO-Chlef/w706/,ASO-Chlef,0,2026-07-28
 AB Merouana,Venezuela,w2473,https://www.soccer-rating.com/AB-Merouana/w2473/,AB-Merouana,1,2026-07-27
 Academia Puerto Cabello,Venezuela,w4725,https://www.soccer-rating.com/Academia-Puerto-Cabello/w4725/,Academia-Puerto-Cabello,0,2026-07-27
 Academia Puerto Cabello II,Venezuela,w16965,https://www.soccer-rating.com/Academia-Puerto-Cabello-II/w16965/,Academia-Puerto-Cabello-II,0,2026-07-27
@@ -4098,19 +4090,23 @@ Wydad Sers,Venezuela,w5885,https://www.soccer-rating.com/Wydad-Sers/w5885/,Wydad
 Yaracuyanos San Felipe,Venezuela,w179,https://www.soccer-rating.com/Yaracuyanos-San-Felipe/w179/,Yaracuyanos-San-Felipe,0,2026-07-27
 Young Singh Hatyai United,Venezuela,w14884,https://www.soccer-rating.com/Young-Singh-Hatyai-United/w14884/,Young-Singh-Hatyai-United,1,2026-07-27
 Zamora FC Barinas II,Venezuela,w4805,https://www.soccer-rating.com/Zamora-FC-Barinas-II/w4805/,Zamora-FC-Barinas-II,0,2026-07-27
-Weston Super Mare,Unknown,2619,https://www.soccer-rating.com/Weston-Super-Mare/2619/,Weston-Super-Mare,0,2000-01-01
-Queretaro FC (W),Unknown,w8169,https://www.soccer-rating.com/Queretaro-FC-W/w8169/,Queretaro-FC-W,1,2000-01-01
-Western United FC,Unknown,w9442,https://www.soccer-rating.com/Western-United-FC/w9442/,Western-United-FC,0,2000-01-01
-Aguilas CF,Unknown,2349,https://www.soccer-rating.com/Aguilas-CF/2349/,Aguilas-CF,1,2000-01-01
-Sao Jose dos Campos FC,Unknown,w3910,https://www.soccer-rating.com/Sao-Jose-dos-Campos-FC/w3910/,Sao-Jose-dos-Campos-FC,1,2000-01-01
-Bethune ST,Unknown,9601,https://www.soccer-rating.com/Bethune-ST/9601/,Bethune-ST,0,2000-01-01
-Torquay United,Unknown,1154,https://www.soccer-rating.com/Torquay-United/1154/,Torquay-United,1,2000-01-01
-Mickleover Sports,Unknown,5587,https://www.soccer-rating.com/Mickleover-Sports/5587/,Mickleover-Sports,1,2000-01-01
-Auckland United,Unknown,w15689,https://www.soccer-rating.com/Auckland-United/w15689/,Auckland-United,1,2000-01-01
-Concordia Schönkirchen,Unknown,11116,https://www.soccer-rating.com/Concordia-Schoenkirchen/11116/,Concordia-Schoenkirchen,1,2000-01-01
-Acs Pobeda Star Bisnov,Unknown,14719,https://www.soccer-rating.com/Acs-Pobeda-Star-Bisnov/14719/,Acs-Pobeda-Star-Bisnov,1,2000-01-01
-SK Slovan Varnsdorf,Unknown,2022,https://www.soccer-rating.com/SK-Slovan-Varnsdorf/2022/,SK-Slovan-Varnsdorf,1,2000-01-01
-FC Struga Trim-Lum,Unknown,13547,https://www.soccer-rating.com/FC-Struga-Trim-Lum/13547/,FC-Struga-Trim-Lum,1,2000-01-01
+FK Sutjeska Foca,Verdal Il,7467,https://www.soccer-rating.com/FK-Sutjeska-Foca/7467/,FK-Sutjeska-Foca,0,2026-07-28
+Weston Super Mare,Vfl Bochum Ii,2619,https://www.soccer-rating.com/Weston-Super-Mare/2619/,Weston-Super-Mare,0,2026-07-28
+Queretaro FC (W),Vfl Sindelfingen W,w8169,https://www.soccer-rating.com/Queretaro-FC-W/w8169/,Queretaro-FC-W,1,2026-07-28
+Western United FC,Vfl Wolfsburg W,w9442,https://www.soccer-rating.com/Western-United-FC/w9442/,Western-United-FC,0,2026-07-28
+Jiskra Domazlice,Vfv 06 Hildesheim,1359,https://www.soccer-rating.com/Jiskra-Domazlice/1359/,Jiskra-Domazlice,0,2026-07-28
+Aguilas CF,Victoria Koronowo,2349,https://www.soccer-rating.com/Aguilas-CF/2349/,Aguilas-CF,1,2026-07-28
+Sao Jose dos Campos FC,Vila Nova Go,w3910,https://www.soccer-rating.com/Sao-Jose-dos-Campos-FC/w3910/,Sao-Jose-dos-Campos-FC,1,2026-07-28
+Xelaju MC,Vipers Sc,w435,https://www.soccer-rating.com/Xelaju-MC/w435/,Xelaju-MC,0,2026-07-28
+Bethune ST,Visina Noua,9601,https://www.soccer-rating.com/Bethune-ST/9601/,Bethune-ST,0,2026-07-28
+Kaizer Chiefs,Vital O Fc,w200,https://www.soccer-rating.com/Kaizer-Chiefs/w200/,Kaizer-Chiefs,0,2026-07-28
+Torquay United,Vitesse Arnheim,1154,https://www.soccer-rating.com/Torquay-United/1154/,Torquay-United,1,2026-07-28
+Mickleover Sports,Vk Tienen,5587,https://www.soccer-rating.com/Mickleover-Sports/5587/,Mickleover-Sports,1,2026-07-28
+Auckland United,Voelsungur Husavik W,w15689,https://www.soccer-rating.com/Auckland-United/w15689/,Auckland-United,1,2026-07-28
+Concordia Schönkirchen,Vv Capelle,11116,https://www.soccer-rating.com/Concordia-Schoenkirchen/11116/,Concordia-Schoenkirchen,1,2026-07-28
+Acs Pobeda Star Bisnov,Vv Eemdijk,14719,https://www.soccer-rating.com/Acs-Pobeda-Star-Bisnov/14719/,Acs-Pobeda-Star-Bisnov,1,2026-07-28
+SK Slovan Varnsdorf,Vv Heino,2022,https://www.soccer-rating.com/SK-Slovan-Varnsdorf/2022/,SK-Slovan-Varnsdorf,1,2026-07-28
+FC Struga Trim-Lum,Wacker Burghausen,13547,https://www.soccer-rating.com/FC-Struga-Trim-Lum/13547/,FC-Struga-Trim-Lum,1,2026-07-28
 Bala Town,Wales,5649,https://www.soccer-rating.com/Bala-Town/5649/,Bala-Town,0,2026-07-27
 Barry Town,Wales,7645,https://www.soccer-rating.com/Barry-Town/7645/,Barry-Town,0,2026-07-27
 Briton Ferry Llansawel,Wales,10112,https://www.soccer-rating.com/Briton-Ferry-Llansawel/10112/,Briton-Ferry-Llansawel,0,2026-07-27
@@ -4123,9 +4119,13 @@ Haverfordwest County,Wales,2281,https://www.soccer-rating.com/Haverfordwest-Coun
 Llanelli AFC,Wales,45,https://www.soccer-rating.com/Llanelli-AFC/45/,Llanelli-AFC,0,2026-07-27
 Penybont FC,Wales,9105,https://www.soccer-rating.com/Penybont-FC/9105/,Penybont-FC,0,2026-07-27
 The New Saints,Wales,489,https://www.soccer-rating.com/The-New-Saints/489/,The-New-Saints,0,2026-07-27
-Necaxa (W),Unknown,w8122,https://www.soccer-rating.com/Necaxa-W/w8122/,Necaxa-W,1,2000-01-01
-Union Espanola (W),Unknown,w16193,https://www.soccer-rating.com/Union-Espanola-W/w16193/,Union-Espanola-W,1,2000-01-01
-Aarhus GF (W),Unknown,w6804,https://www.soccer-rating.com/Aarhus-GF-W/w6804/,Aarhus-GF-W,1,2000-01-01
-Pakhtakor Tashkent,Unknown,w795,https://www.soccer-rating.com/Pakhtakor-Tashkent/w795/,Pakhtakor-Tashkent,1,2000-01-01
-Mazatlan FC (W),Unknown,w10164,https://www.soccer-rating.com/Mazatlan-FC-W/w10164/,Mazatlan-FC-W,1,2000-01-01
-Thisted FC (W),Unknown,w10805,https://www.soccer-rating.com/Thisted-FC-W/w10805/,Thisted-FC-W,1,2000-01-01
+Necaxa (W),West Canberra Wanderers Fc,w8122,https://www.soccer-rating.com/Necaxa-W/w8122/,Necaxa-W,1,2026-07-28
+SK Artis Brno,White Star Bruxelles,2782,https://www.soccer-rating.com/SK-Artis-Brno/2782/,SK-Artis-Brno,0,2026-07-28
+Union Espanola (W),Wuhan Fc,w16193,https://www.soccer-rating.com/Union-Espanola-W/w16193/,Union-Espanola-W,1,2026-07-28
+Aarhus GF (W),Wydad Temara,w6804,https://www.soccer-rating.com/Aarhus-GF-W/w6804/,Aarhus-GF-W,1,2026-07-28
+Pakhtakor Tashkent,Xelaju Mc,w795,https://www.soccer-rating.com/Pakhtakor-Tashkent/w795/,Pakhtakor-Tashkent,1,2026-07-28
+Dynamo Ceske Budejovice II,Yalova Yesilovaspor,1813,https://www.soccer-rating.com/Dynamo-Ceske-Budejovice-II/1813/,Dynamo-Ceske-Budejovice-II,0,2026-07-28
+Ulsan Hyundai,Yokohama F Marinos,w863,https://www.soccer-rating.com/Ulsan-Hyundai/w863/,Ulsan-Hyundai,0,2026-07-28
+JS Saoura,Young Africans,w2479,https://www.soccer-rating.com/JS-Saoura/w2479/,JS-Saoura,0,2026-07-28
+Mazatlan FC (W),Young Elephant,w10164,https://www.soccer-rating.com/Mazatlan-FC-W/w10164/,Mazatlan-FC-W,1,2026-07-28
+Thisted FC (W),Young Heart Manawatu,w10805,https://www.soccer-rating.com/Thisted-FC-W/w10805/,Thisted-FC-W,1,2026-07-28
